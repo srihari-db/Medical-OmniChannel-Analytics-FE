@@ -1,0 +1,71 @@
+content_id,content_title,content_type,topic_category,indication,product,approval_date,approval_status,med_review_id
+CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,EGFR-mutant NSCLC (investigational),HER3-DXd,2026-03-20,Approved,MED-56099
+CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-07-10,Approved,MED-48354
+CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-10-14,Approved,MED-65330
+CON-00004,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Biomarker & Patient Selection,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-01-25,Approved,MED-66311
+CON-00005,Biomarker & Patient Selection: Datroway HR+/HER2- metastatic breast ,Slide Deck,Biomarker & Patient Selection,HR+/HER2- metastatic breast cancer,Datroway,2026-03-15,Approved,MED-17119
+CON-00006,Biomarker & Patient Selection: Datroway TROP2 metastatic NSCLC,FAQ Document,Biomarker & Patient Selection,TROP2 metastatic NSCLC,Datroway,2026-02-03,Approved,MED-50974
+CON-00007,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Biomarker & Patient Selection,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-11-03,Approved,MED-32420
+CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-02-11,Approved,MED-16408
+CON-00009,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,CNS / Brain Metastases,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-02-09,Approved,MED-99811
+CON-00010,CNS / Brain Metastases: Enhertu HER2-ultralow metastatic bre,Congress Summary,CNS / Brain Metastases,HER2-ultralow metastatic breast cancer,Enhertu,2025-04-15,Approved,MED-26844
+CON-00011,CNS / Brain Metastases: Datroway TROP2 metastatic NSCLC,Slide Deck,CNS / Brain Metastases,TROP2 metastatic NSCLC,Datroway,2025-11-08,Approved,MED-39883
+CON-00012,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,CNS / Brain Metastases,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-06-17,Approved,MED-46048
+CON-00013,CNS / Brain Metastases: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,CNS / Brain Metastases,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-11-18,Approved,MED-32510
+CON-00014,CNS / Brain Metastases: Enhertu HER2-mutant metastatic NSCLC,Slide Deck,CNS / Brain Metastases,HER2-mutant metastatic NSCLC,Enhertu,2026-06-11,Approved,MED-65465
+CON-00015,CNS / Brain Metastases: Enhertu HER2-low metastatic breast c,Clinical Data Summary,CNS / Brain Metastases,HER2-low metastatic breast cancer,Enhertu,2026-04-21,Approved,MED-83109
+CON-00016,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,CNS / Brain Metastases,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-02-18,Approved,MED-71838
+CON-00017,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,CNS / Brain Metastases,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-06-19,Approved,MED-67328
+CON-00018,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Comparative Evidence,EGFR-mutant NSCLC (investigational),HER3-DXd,2026-02-23,Approved,MED-19734
+CON-00019,Comparative Evidence: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Comparative Evidence,HER2-ultralow metastatic breast cancer,Enhertu,2025-08-07,Approved,MED-29093
+CON-00020,Comparative Evidence: Datroway HR+/HER2- metastatic breast ,Congress Summary,Comparative Evidence,HR+/HER2- metastatic breast cancer,Datroway,2026-09-12,Expired,MED-40582
+CON-00021,Comparative Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Comparative Evidence,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-02-07,Approved,MED-73793
+CON-00022,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,HER2+ metastatic breast cancer,Enhertu,2026-01-31,Approved,MED-77532
+CON-00023,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,HER2+ metastatic breast cancer,Enhertu,2025-01-11,Approved,MED-87877
+CON-00024,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Comparative Evidence,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-03-30,Approved,MED-44332
+CON-00025,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Comparative Evidence,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-10-16,Approved,MED-32606
+CON-00026,Dosing & Administration: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Dosing & Administration,HER2-ultralow metastatic breast cancer,Enhertu,2025-08-25,Approved,MED-36549
+CON-00027,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Dosing & Administration,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-10-14,Approved,MED-74733
+CON-00028,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Dosing & Administration,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-06-14,Approved,MED-22666
+CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-07-11,Approved,MED-64292
+CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-08-30,Approved,MED-74386
+CON-00031,Dosing & Administration: Datroway HR+/HER2- metastatic breast ,Publication Reprint,Dosing & Administration,HR+/HER2- metastatic breast cancer,Datroway,2026-09-17,Approved,MED-46386
+CON-00032,Dosing & Administration: Enhertu HER2+ metastatic breast canc,Slide Deck,Dosing & Administration,HER2+ metastatic breast cancer,Enhertu,2026-05-30,Approved,MED-88330
+CON-00033,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Dosing & Administration,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-05-07,Expired,MED-62552
+CON-00034,Dosing & Administration: Enhertu HER2-mutant metastatic NSCLC,FAQ Document,Dosing & Administration,HER2-mutant metastatic NSCLC,Enhertu,2026-08-13,Approved,MED-77947
+CON-00035,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-03-05,Approved,MED-48478
+CON-00036,General Scientific Exchange: Enhertu HER2+ metastatic gastric can,Publication Reprint,General Scientific Exchange,HER2+ metastatic gastric cancer,Enhertu,2025-03-25,Approved,MED-71935
+CON-00037,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-02-15,Approved,MED-41971
+CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-05-09,Approved,MED-87909
+CON-00039,General Scientific Exchange: Datroway HR+/HER2- metastatic breast ,Publication Reprint,General Scientific Exchange,HR+/HER2- metastatic breast cancer,Datroway,2026-01-31,Approved,MED-96350
+CON-00040,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,General Scientific Exchange,EGFR-mutant NSCLC (investigational),HER3-DXd,2026-04-24,Approved,MED-92430
+CON-00041,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,General Scientific Exchange,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-08-24,Approved,MED-26355
+CON-00042,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-12-14,Approved,MED-85603
+CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-01-13,Approved,MED-90121
+CON-00044,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,General Scientific Exchange,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-05-17,Expired,MED-37209
+CON-00045,General Scientific Exchange: Datroway HR+/HER2- metastatic breast ,Publication Reprint,General Scientific Exchange,HR+/HER2- metastatic breast cancer,Datroway,2026-04-19,Approved,MED-65862
+CON-00046,General Scientific Exchange: Enhertu HER2-low metastatic breast c,FAQ Document,General Scientific Exchange,HER2-low metastatic breast cancer,Enhertu,2025-09-07,Approved,MED-96041
+CON-00047,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-04-20,Approved,MED-97939
+CON-00048,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Long-term Efficacy & Outcomes,EGFR-mutant NSCLC (investigational),HER3-DXd,2026-09-24,Approved,MED-45435
+CON-00049,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,Long-term Efficacy & Outcomes,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-03-12,Approved,MED-53094
+CON-00050,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Long-term Efficacy & Outcomes,EGFR-mutant NSCLC (investigational),HER3-DXd,2026-08-25,Approved,MED-28374
+CON-00051,Long-term Efficacy & Outcomes: Datroway HR+/HER2- metastatic breast ,Congress Summary,Long-term Efficacy & Outcomes,HR+/HER2- metastatic breast cancer,Datroway,2026-06-15,Approved,MED-31586
+CON-00052,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-04-09,Approved,MED-39400
+CON-00053,Long-term Efficacy & Outcomes: Enhertu HER2-ultralow metastatic bre,FAQ Document,Long-term Efficacy & Outcomes,HER2-ultralow metastatic breast cancer,Enhertu,2026-02-25,Approved,MED-33754
+CON-00054,Long-term Efficacy & Outcomes: Enhertu HER2+ metastatic gastric can,Safety Guide,Long-term Efficacy & Outcomes,HER2+ metastatic gastric cancer,Enhertu,2025-09-13,Approved,MED-64509
+CON-00055,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,Long-term Efficacy & Outcomes,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-06-16,Approved,MED-38018
+CON-00056,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Long-term Efficacy & Outcomes,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-09-16,Approved,MED-19501
+CON-00057,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Real-World Evidence,EGFR-mutant NSCLC (investigational),HER3-DXd,2026-06-15,Approved,MED-91517
+CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-11-11,Approved,MED-70397
+CON-00059,Real-World Evidence: Enhertu HER2+ metastatic breast canc,Safety Guide,Real-World Evidence,HER2+ metastatic breast cancer,Enhertu,2026-06-07,Approved,MED-25414
+CON-00060,Real-World Evidence: Enhertu HER2-mutant metastatic NSCLC,Congress Summary,Real-World Evidence,HER2-mutant metastatic NSCLC,Enhertu,2025-12-26,Approved,MED-37692
+CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-08-19,Approved,MED-53654
+CON-00062,Real-World Evidence: Datroway TROP2 metastatic NSCLC,FAQ Document,Real-World Evidence,TROP2 metastatic NSCLC,Datroway,2026-06-19,Approved,MED-28789
+CON-00063,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Real-World Evidence,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-04-13,Approved,MED-50468
+CON-00064,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-08-16,Expired,MED-43189
+CON-00065,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-07-09,Approved,MED-51159
+CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2026-02-22,Approved,MED-83179
+CON-00067,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Safety / ILD Management,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-12-19,Approved,MED-71603
+CON-00068,Safety / ILD Management: Datroway TROP2 metastatic NSCLC,Publication Reprint,Safety / ILD Management,TROP2 metastatic NSCLC,Datroway,2026-08-08,Approved,MED-79019
+CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,FLT3-ITD+ acute myeloid leukemia,Vanflyta,2025-04-08,Approved,MED-69869
+CON-00070,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Safety / ILD Management,EGFR-mutant NSCLC (investigational),HER3-DXd,2025-10-26,Approved,MED-64003

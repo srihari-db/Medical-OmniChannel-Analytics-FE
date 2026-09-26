@@ -1,0 +1,501 @@
+engagement_id,hcp_id,activity_date,emails_sent,emails_opened,content_title,content_type,webpage_clicks,attended_webinar,content_minutes_viewed
+DIG-00001,HCP-00180,2026-04-20,2,2,TROP2 Biomarker Science,Video,5,False,11
+DIG-00002,HCP-00248,2026-07-02,6,5,TROP2 Biomarker Science,Email,14,False,2
+DIG-00003,HCP-00068,2026-04-28,2,0,Datroway TROPION-Lung Data Summary,Video,0,False,7
+DIG-00004,HCP-00138,2026-07-31,6,0,Real-World Evidence Digest,Web Article,0,False,8
+DIG-00005,HCP-00105,2026-04-25,2,0,TROP2 Biomarker Science,Video,0,False,11
+DIG-00006,HCP-00198,2026-06-08,6,3,HER2-low Testing: A Practical Guide,Web Article,0,True,28
+DIG-00007,HCP-00125,2026-08-09,4,0,HER2-low Testing: A Practical Guide,Interactive Module,0,False,10
+DIG-00008,HCP-00137,2026-07-11,6,4,HER2-ultralow Emerging Data,Video,12,True,10
+DIG-00009,HCP-00139,2026-06-22,6,6,Managing ILD: Monitoring & Dose Modification,Email,16,False,7
+DIG-00010,HCP-00062,2026-06-17,3,2,HER2-ultralow Emerging Data,Web Article,3,False,4
+DIG-00011,HCP-00080,2026-07-24,5,1,CNS Outcomes with T-DXd,Webinar,0,False,1
+DIG-00012,HCP-00277,2026-05-07,5,5,Datroway TROPION-Lung Data Summary,Email,6,False,10
+DIG-00013,HCP-00112,2026-05-29,2,0,CNS Outcomes with T-DXd,Interactive Module,0,True,32
+DIG-00014,HCP-00145,2026-08-20,6,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,3
+DIG-00015,HCP-00220,2026-04-14,3,0,Managing ILD: Monitoring & Dose Modification,Web Article,0,False,4
+DIG-00016,HCP-00008,2026-04-05,4,4,Managing ILD: Monitoring & Dose Modification,Video,10,True,32
+DIG-00017,HCP-00236,2026-09-15,1,1,HER2-ultralow Emerging Data,Webinar,0,True,41
+DIG-00018,HCP-00250,2026-06-08,3,0,Real-World Evidence Digest,Webinar,0,False,7
+DIG-00019,HCP-00016,2026-08-06,2,1,HER2-low Testing: A Practical Guide,Web Article,3,True,9
+DIG-00020,HCP-00288,2026-06-27,6,6,CNS Outcomes with T-DXd,Webinar,15,True,18
+DIG-00021,HCP-00051,2026-05-18,6,5,Datroway TROPION-Lung Data Summary,Web Article,6,False,2
+DIG-00022,HCP-00052,2026-07-15,3,2,Datroway TROPION-Lung Data Summary,Webinar,0,False,6
+DIG-00023,HCP-00105,2026-08-23,5,3,HER2-ultralow Emerging Data,Interactive Module,5,False,6
+DIG-00024,HCP-00077,2026-07-26,5,5,Managing ILD: Monitoring & Dose Modification,Interactive Module,9,True,45
+DIG-00025,HCP-00156,2026-08-11,1,0,CNS Outcomes with T-DXd,Web Article,0,False,8
+DIG-00026,HCP-00262,2026-09-07,5,5,Managing ILD: Monitoring & Dose Modification,Email,6,False,8
+DIG-00027,HCP-00201,2026-04-08,4,1,TROP2 Biomarker Science,Email,2,False,11
+DIG-00028,HCP-00193,2026-05-11,2,2,HER2-low Testing: A Practical Guide,Web Article,3,False,3
+DIG-00029,HCP-00029,2026-07-17,2,0,HER2-ultralow Emerging Data,Web Article,0,False,2
+DIG-00030,HCP-00199,2026-09-05,3,3,HER2-low Testing: A Practical Guide,Email,0,True,37
+DIG-00031,HCP-00251,2026-05-25,2,2,TROP2 Biomarker Science,Interactive Module,0,True,44
+DIG-00032,HCP-00054,2026-05-04,5,5,HER2-low Testing: A Practical Guide,Webinar,13,False,0
+DIG-00033,HCP-00020,2026-09-26,1,0,TROP2 Biomarker Science,Email,0,False,2
+DIG-00034,HCP-00093,2026-04-20,1,0,TROP2 Biomarker Science,Email,0,True,10
+DIG-00035,HCP-00191,2026-09-15,4,0,Managing ILD: Monitoring & Dose Modification,Interactive Module,0,False,7
+DIG-00036,HCP-00218,2026-05-27,6,1,Real-World Evidence Digest,Interactive Module,3,False,12
+DIG-00037,HCP-00257,2026-08-14,5,1,CNS Outcomes with T-DXd,Interactive Module,1,True,16
+DIG-00038,HCP-00178,2026-07-18,4,2,Real-World Evidence Digest,Webinar,3,False,10
+DIG-00039,HCP-00300,2026-06-28,6,5,Managing ILD: Monitoring & Dose Modification,Web Article,10,False,5
+DIG-00040,HCP-00271,2026-09-16,4,3,Managing ILD: Monitoring & Dose Modification,Email,7,False,12
+DIG-00041,HCP-00249,2026-05-03,6,1,HER2-ultralow Emerging Data,Web Article,3,False,6
+DIG-00042,HCP-00164,2026-04-29,6,2,HER2-low Testing: A Practical Guide,Video,2,False,2
+DIG-00043,HCP-00196,2026-05-01,2,1,CNS Outcomes with T-DXd,Interactive Module,2,False,11
+DIG-00044,HCP-00289,2026-04-18,1,1,TROP2 Biomarker Science,Interactive Module,0,False,6
+DIG-00045,HCP-00024,2026-07-23,2,1,Real-World Evidence Digest,Interactive Module,0,False,6
+DIG-00046,HCP-00244,2026-06-01,3,2,Datroway TROPION-Lung Data Summary,Web Article,2,True,10
+DIG-00047,HCP-00238,2026-05-06,1,1,Real-World Evidence Digest,Video,0,False,2
+DIG-00048,HCP-00243,2026-08-12,3,0,CNS Outcomes with T-DXd,Video,0,False,3
+DIG-00049,HCP-00044,2026-08-03,4,1,Managing ILD: Monitoring & Dose Modification,Webinar,1,True,15
+DIG-00050,HCP-00296,2026-05-22,1,1,TROP2 Biomarker Science,Interactive Module,3,True,18
+DIG-00051,HCP-00232,2026-06-17,4,1,Managing ILD: Monitoring & Dose Modification,Video,2,False,1
+DIG-00052,HCP-00068,2026-09-06,2,0,CNS Outcomes with T-DXd,Email,0,False,9
+DIG-00053,HCP-00117,2026-09-25,2,1,Sequencing After Antibody-Drug Conjugates,Interactive Module,2,False,0
+DIG-00054,HCP-00191,2026-05-09,5,3,Enhertu DESTINY-Breast04 Efficacy Overview,Interactive Module,0,False,9
+DIG-00055,HCP-00096,2026-04-27,5,4,Enhertu DESTINY-Breast04 Efficacy Overview,Video,7,False,7
+DIG-00056,HCP-00273,2026-06-05,3,2,Enhertu DESTINY-Breast04 Efficacy Overview,Video,1,False,0
+DIG-00057,HCP-00043,2026-08-07,1,1,Real-World Evidence Digest,Video,1,False,1
+DIG-00058,HCP-00100,2026-07-23,6,6,HER2-low Testing: A Practical Guide,Web Article,4,False,11
+DIG-00059,HCP-00227,2026-08-10,6,1,Real-World Evidence Digest,Video,1,False,4
+DIG-00060,HCP-00085,2026-07-27,3,2,Real-World Evidence Digest,Webinar,1,False,6
+DIG-00061,HCP-00289,2026-06-12,1,0,Enhertu DESTINY-Breast04 Efficacy Overview,Web Article,0,False,11
+DIG-00062,HCP-00260,2026-05-03,1,0,Real-World Evidence Digest,Interactive Module,0,False,7
+DIG-00063,HCP-00223,2026-06-05,6,3,TROP2 Biomarker Science,Interactive Module,4,False,12
+DIG-00064,HCP-00231,2026-06-30,6,0,Sequencing After Antibody-Drug Conjugates,Webinar,0,False,1
+DIG-00065,HCP-00274,2026-08-23,4,0,Datroway TROPION-Lung Data Summary,Email,0,True,6
+DIG-00066,HCP-00068,2026-08-16,4,0,Enhertu DESTINY-Breast04 Efficacy Overview,Interactive Module,0,True,43
+DIG-00067,HCP-00198,2026-07-30,4,4,Real-World Evidence Digest,Email,0,False,8
+DIG-00068,HCP-00187,2026-09-03,2,1,Real-World Evidence Digest,Email,3,False,11
+DIG-00069,HCP-00247,2026-07-15,1,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,10
+DIG-00070,HCP-00242,2026-05-31,4,4,Datroway TROPION-Lung Data Summary,Email,11,True,21
+DIG-00071,HCP-00085,2026-07-07,3,3,TROP2 Biomarker Science,Email,9,False,1
+DIG-00072,HCP-00129,2026-08-25,3,1,Managing ILD: Monitoring & Dose Modification,Interactive Module,2,False,10
+DIG-00073,HCP-00287,2026-06-21,2,2,Real-World Evidence Digest,Webinar,1,False,7
+DIG-00074,HCP-00270,2026-08-10,1,1,Enhertu DESTINY-Breast04 Efficacy Overview,Webinar,1,False,4
+DIG-00075,HCP-00216,2026-03-31,4,2,CNS Outcomes with T-DXd,Interactive Module,2,False,9
+DIG-00076,HCP-00084,2026-06-21,2,1,Sequencing After Antibody-Drug Conjugates,Web Article,3,False,8
+DIG-00077,HCP-00010,2026-06-07,3,1,CNS Outcomes with T-DXd,Video,1,True,18
+DIG-00078,HCP-00032,2026-09-14,3,1,Enhertu DESTINY-Breast04 Efficacy Overview,Web Article,0,True,15
+DIG-00079,HCP-00274,2026-08-07,5,1,Sequencing After Antibody-Drug Conjugates,Webinar,0,False,12
+DIG-00080,HCP-00091,2026-05-16,2,1,CNS Outcomes with T-DXd,Video,0,False,0
+DIG-00081,HCP-00165,2026-07-16,3,3,TROP2 Biomarker Science,Video,4,False,8
+DIG-00082,HCP-00090,2026-07-05,2,2,Datroway TROPION-Lung Data Summary,Interactive Module,1,False,2
+DIG-00083,HCP-00213,2026-09-17,2,0,CNS Outcomes with T-DXd,Web Article,0,True,10
+DIG-00084,HCP-00019,2026-05-21,2,0,HER2-ultralow Emerging Data,Interactive Module,0,True,42
+DIG-00085,HCP-00029,2026-08-07,2,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,2
+DIG-00086,HCP-00010,2026-09-13,4,0,Datroway TROPION-Lung Data Summary,Web Article,0,False,3
+DIG-00087,HCP-00224,2026-06-29,1,1,CNS Outcomes with T-DXd,Web Article,0,False,3
+DIG-00088,HCP-00069,2026-09-06,2,1,Sequencing After Antibody-Drug Conjugates,Webinar,0,False,7
+DIG-00089,HCP-00006,2026-08-26,5,2,HER2-ultralow Emerging Data,Video,1,True,22
+DIG-00090,HCP-00043,2026-09-10,1,1,Managing ILD: Monitoring & Dose Modification,Interactive Module,3,False,4
+DIG-00091,HCP-00065,2026-05-06,1,0,HER2-ultralow Emerging Data,Webinar,0,False,8
+DIG-00092,HCP-00299,2026-05-04,6,3,Sequencing After Antibody-Drug Conjugates,Web Article,7,False,2
+DIG-00093,HCP-00085,2026-06-16,1,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,True,10
+DIG-00094,HCP-00019,2026-05-05,4,4,Sequencing After Antibody-Drug Conjugates,Video,5,False,8
+DIG-00095,HCP-00244,2026-07-29,1,0,Enhertu DESTINY-Breast04 Efficacy Overview,Video,0,False,4
+DIG-00096,HCP-00187,2026-07-30,4,2,Managing ILD: Monitoring & Dose Modification,Video,1,False,5
+DIG-00097,HCP-00104,2026-06-20,4,4,CNS Outcomes with T-DXd,Webinar,4,False,6
+DIG-00098,HCP-00146,2026-04-10,4,1,CNS Outcomes with T-DXd,Video,2,False,0
+DIG-00099,HCP-00140,2026-09-11,2,0,CNS Outcomes with T-DXd,Web Article,0,True,24
+DIG-00100,HCP-00065,2026-06-05,2,0,HER2-ultralow Emerging Data,Email,0,False,1
+DIG-00101,HCP-00196,2026-04-01,2,1,HER2-ultralow Emerging Data,Web Article,2,False,7
+DIG-00102,HCP-00180,2026-04-06,4,3,Sequencing After Antibody-Drug Conjugates,Email,2,False,0
+DIG-00103,HCP-00297,2026-04-10,2,2,Datroway TROPION-Lung Data Summary,Email,0,False,1
+DIG-00104,HCP-00021,2026-05-14,1,0,CNS Outcomes with T-DXd,Video,0,False,2
+DIG-00105,HCP-00130,2026-08-29,1,1,Managing ILD: Monitoring & Dose Modification,Email,3,False,4
+DIG-00106,HCP-00285,2026-06-13,4,1,HER2-low Testing: A Practical Guide,Webinar,3,True,16
+DIG-00107,HCP-00035,2026-08-23,6,3,Sequencing After Antibody-Drug Conjugates,Video,9,True,14
+DIG-00108,HCP-00225,2026-08-06,5,0,HER2-low Testing: A Practical Guide,Video,0,False,12
+DIG-00109,HCP-00071,2026-06-12,6,6,Managing ILD: Monitoring & Dose Modification,Email,4,False,0
+DIG-00110,HCP-00158,2026-06-19,2,0,CNS Outcomes with T-DXd,Email,0,False,5
+DIG-00111,HCP-00121,2026-06-12,4,3,Datroway TROPION-Lung Data Summary,Webinar,3,False,6
+DIG-00112,HCP-00161,2026-09-25,6,2,TROP2 Biomarker Science,Email,4,False,4
+DIG-00113,HCP-00235,2026-08-18,3,3,HER2-low Testing: A Practical Guide,Web Article,5,False,5
+DIG-00114,HCP-00040,2026-06-15,4,2,TROP2 Biomarker Science,Email,1,True,34
+DIG-00115,HCP-00163,2026-09-18,3,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,True,8
+DIG-00116,HCP-00112,2026-04-05,6,0,Datroway TROPION-Lung Data Summary,Web Article,0,False,3
+DIG-00117,HCP-00294,2026-07-19,5,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,11
+DIG-00118,HCP-00151,2026-08-04,2,2,Datroway TROPION-Lung Data Summary,Webinar,4,False,0
+DIG-00119,HCP-00283,2026-06-03,5,3,HER2-low Testing: A Practical Guide,Email,4,False,3
+DIG-00120,HCP-00275,2026-05-29,5,5,TROP2 Biomarker Science,Interactive Module,5,False,1
+DIG-00121,HCP-00058,2026-04-21,6,6,Datroway TROPION-Lung Data Summary,Email,11,False,6
+DIG-00122,HCP-00060,2026-08-28,5,5,Real-World Evidence Digest,Email,6,False,0
+DIG-00123,HCP-00087,2026-06-03,6,6,Datroway TROPION-Lung Data Summary,Email,3,False,4
+DIG-00124,HCP-00293,2026-07-24,4,3,Datroway TROPION-Lung Data Summary,Video,1,True,36
+DIG-00125,HCP-00139,2026-06-08,4,1,Sequencing After Antibody-Drug Conjugates,Video,1,False,5
+DIG-00126,HCP-00058,2026-06-24,4,0,Real-World Evidence Digest,Webinar,0,False,11
+DIG-00127,HCP-00147,2026-05-22,6,2,CNS Outcomes with T-DXd,Video,6,False,5
+DIG-00128,HCP-00134,2026-04-25,1,0,Datroway TROPION-Lung Data Summary,Webinar,0,False,0
+DIG-00129,HCP-00170,2026-07-08,1,0,HER2-low Testing: A Practical Guide,Email,0,False,2
+DIG-00130,HCP-00077,2026-07-07,3,1,HER2-ultralow Emerging Data,Interactive Module,0,False,8
+DIG-00131,HCP-00114,2026-09-12,1,0,Datroway TROPION-Lung Data Summary,Video,0,False,10
+DIG-00132,HCP-00072,2026-04-24,4,4,Datroway TROPION-Lung Data Summary,Webinar,9,False,12
+DIG-00133,HCP-00137,2026-06-17,2,1,TROP2 Biomarker Science,Video,1,False,2
+DIG-00134,HCP-00053,2026-09-23,4,4,Sequencing After Antibody-Drug Conjugates,Email,12,False,0
+DIG-00135,HCP-00099,2026-05-27,4,0,HER2-ultralow Emerging Data,Email,0,True,40
+DIG-00136,HCP-00142,2026-08-06,5,3,Sequencing After Antibody-Drug Conjugates,Webinar,2,False,1
+DIG-00137,HCP-00003,2026-05-15,1,0,Datroway TROPION-Lung Data Summary,Email,0,False,3
+DIG-00138,HCP-00284,2026-04-23,3,2,CNS Outcomes with T-DXd,Interactive Module,3,False,7
+DIG-00139,HCP-00224,2026-09-02,5,1,Sequencing After Antibody-Drug Conjugates,Video,2,False,10
+DIG-00140,HCP-00240,2026-07-01,3,2,CNS Outcomes with T-DXd,Web Article,5,True,41
+DIG-00141,HCP-00275,2026-08-12,5,4,Real-World Evidence Digest,Video,4,False,9
+DIG-00142,HCP-00278,2026-09-12,2,0,CNS Outcomes with T-DXd,Webinar,0,False,7
+DIG-00143,HCP-00174,2026-09-10,4,4,Real-World Evidence Digest,Webinar,6,False,8
+DIG-00144,HCP-00295,2026-09-16,3,3,Enhertu DESTINY-Breast04 Efficacy Overview,Video,7,False,0
+DIG-00145,HCP-00268,2026-08-06,6,0,Managing ILD: Monitoring & Dose Modification,Email,0,False,2
+DIG-00146,HCP-00227,2026-07-08,1,1,CNS Outcomes with T-DXd,Interactive Module,2,False,10
+DIG-00147,HCP-00157,2026-08-18,5,1,Datroway TROPION-Lung Data Summary,Video,1,False,8
+DIG-00148,HCP-00200,2026-04-17,2,0,Managing ILD: Monitoring & Dose Modification,Video,0,False,3
+DIG-00149,HCP-00278,2026-05-10,1,1,Sequencing After Antibody-Drug Conjugates,Interactive Module,3,False,9
+DIG-00150,HCP-00076,2026-05-07,1,1,Managing ILD: Monitoring & Dose Modification,Video,3,False,11
+DIG-00151,HCP-00264,2026-04-24,2,2,Managing ILD: Monitoring & Dose Modification,Webinar,5,False,3
+DIG-00152,HCP-00003,2026-05-09,6,3,Datroway TROPION-Lung Data Summary,Web Article,6,False,1
+DIG-00153,HCP-00023,2026-06-25,5,4,CNS Outcomes with T-DXd,Email,4,False,3
+DIG-00154,HCP-00139,2026-06-20,4,0,Datroway TROPION-Lung Data Summary,Webinar,0,False,0
+DIG-00155,HCP-00283,2026-08-20,1,1,TROP2 Biomarker Science,Interactive Module,0,False,4
+DIG-00156,HCP-00063,2026-09-10,5,2,Datroway TROPION-Lung Data Summary,Web Article,6,False,4
+DIG-00157,HCP-00026,2026-06-13,1,1,CNS Outcomes with T-DXd,Video,2,False,5
+DIG-00158,HCP-00219,2026-08-27,6,4,HER2-low Testing: A Practical Guide,Webinar,4,False,2
+DIG-00159,HCP-00288,2026-06-10,6,5,Datroway TROPION-Lung Data Summary,Webinar,15,False,6
+DIG-00160,HCP-00097,2026-06-27,6,3,HER2-low Testing: A Practical Guide,Interactive Module,8,True,26
+DIG-00161,HCP-00231,2026-06-25,2,2,Datroway TROPION-Lung Data Summary,Web Article,0,False,3
+DIG-00162,HCP-00239,2026-06-25,6,3,TROP2 Biomarker Science,Webinar,8,False,3
+DIG-00163,HCP-00026,2026-09-19,3,1,HER2-ultralow Emerging Data,Email,3,False,5
+DIG-00164,HCP-00004,2026-09-21,6,5,TROP2 Biomarker Science,Interactive Module,9,False,0
+DIG-00165,HCP-00173,2026-05-27,2,0,Sequencing After Antibody-Drug Conjugates,Web Article,0,False,12
+DIG-00166,HCP-00092,2026-08-11,2,2,TROP2 Biomarker Science,Email,5,False,11
+DIG-00167,HCP-00157,2026-04-30,2,1,Real-World Evidence Digest,Email,3,True,18
+DIG-00168,HCP-00219,2026-09-05,4,2,Enhertu DESTINY-Breast04 Efficacy Overview,Email,5,False,3
+DIG-00169,HCP-00082,2026-04-28,5,5,HER2-low Testing: A Practical Guide,Video,15,False,8
+DIG-00170,HCP-00222,2026-06-22,1,1,Real-World Evidence Digest,Interactive Module,2,False,10
+DIG-00171,HCP-00289,2026-04-09,4,1,Real-World Evidence Digest,Webinar,0,False,6
+DIG-00172,HCP-00101,2026-05-01,1,0,TROP2 Biomarker Science,Video,0,False,1
+DIG-00173,HCP-00117,2026-06-01,5,0,HER2-low Testing: A Practical Guide,Email,0,False,10
+DIG-00174,HCP-00168,2026-05-24,6,4,Datroway TROPION-Lung Data Summary,Webinar,12,False,7
+DIG-00175,HCP-00088,2026-06-26,3,1,HER2-low Testing: A Practical Guide,Interactive Module,3,False,11
+DIG-00176,HCP-00193,2026-05-08,2,1,TROP2 Biomarker Science,Webinar,2,False,0
+DIG-00177,HCP-00014,2026-08-23,5,2,Managing ILD: Monitoring & Dose Modification,Web Article,6,False,12
+DIG-00178,HCP-00087,2026-04-19,1,1,TROP2 Biomarker Science,Web Article,2,True,4
+DIG-00179,HCP-00258,2026-04-28,1,0,Sequencing After Antibody-Drug Conjugates,Video,0,True,5
+DIG-00180,HCP-00193,2026-06-14,2,2,Managing ILD: Monitoring & Dose Modification,Email,2,False,9
+DIG-00181,HCP-00269,2026-07-01,6,3,TROP2 Biomarker Science,Web Article,3,False,7
+DIG-00182,HCP-00126,2026-05-30,4,0,Enhertu DESTINY-Breast04 Efficacy Overview,Webinar,0,False,10
+DIG-00183,HCP-00003,2026-04-13,4,0,HER2-ultralow Emerging Data,Video,0,False,2
+DIG-00184,HCP-00016,2026-05-16,4,4,Managing ILD: Monitoring & Dose Modification,Video,1,False,3
+DIG-00185,HCP-00028,2026-08-20,4,3,Real-World Evidence Digest,Webinar,2,False,11
+DIG-00186,HCP-00133,2026-06-09,5,0,HER2-low Testing: A Practical Guide,Web Article,0,False,11
+DIG-00187,HCP-00055,2026-06-02,2,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,10
+DIG-00188,HCP-00228,2026-07-27,4,0,HER2-ultralow Emerging Data,Video,0,False,0
+DIG-00189,HCP-00242,2026-09-16,4,3,TROP2 Biomarker Science,Email,1,False,11
+DIG-00190,HCP-00104,2026-07-30,2,0,TROP2 Biomarker Science,Web Article,0,False,12
+DIG-00191,HCP-00103,2026-05-19,4,1,Managing ILD: Monitoring & Dose Modification,Webinar,2,False,4
+DIG-00192,HCP-00277,2026-07-04,6,6,HER2-low Testing: A Practical Guide,Webinar,1,True,38
+DIG-00193,HCP-00010,2026-04-10,1,1,CNS Outcomes with T-DXd,Web Article,2,False,4
+DIG-00194,HCP-00018,2026-04-25,6,5,Enhertu DESTINY-Breast04 Efficacy Overview,Video,15,False,6
+DIG-00195,HCP-00194,2026-06-17,3,1,TROP2 Biomarker Science,Webinar,3,False,10
+DIG-00196,HCP-00055,2026-05-04,5,4,Managing ILD: Monitoring & Dose Modification,Interactive Module,9,False,10
+DIG-00197,HCP-00030,2026-06-23,6,4,Datroway TROPION-Lung Data Summary,Webinar,8,False,4
+DIG-00198,HCP-00043,2026-09-05,5,3,Sequencing After Antibody-Drug Conjugates,Video,5,False,4
+DIG-00199,HCP-00072,2026-05-07,1,0,Datroway TROPION-Lung Data Summary,Web Article,0,False,12
+DIG-00200,HCP-00016,2026-04-11,2,0,Enhertu DESTINY-Breast04 Efficacy Overview,Web Article,0,True,14
+DIG-00201,HCP-00288,2026-06-22,1,0,HER2-low Testing: A Practical Guide,Video,0,True,24
+DIG-00202,HCP-00112,2026-07-08,5,1,TROP2 Biomarker Science,Web Article,1,False,6
+DIG-00203,HCP-00032,2026-05-20,2,1,Real-World Evidence Digest,Webinar,3,False,12
+DIG-00204,HCP-00188,2026-05-25,4,3,Real-World Evidence Digest,Video,1,False,7
+DIG-00205,HCP-00210,2026-06-29,6,0,CNS Outcomes with T-DXd,Webinar,0,False,2
+DIG-00206,HCP-00003,2026-05-29,6,4,TROP2 Biomarker Science,Email,8,True,14
+DIG-00207,HCP-00229,2026-05-07,3,1,TROP2 Biomarker Science,Interactive Module,1,False,10
+DIG-00208,HCP-00255,2026-09-08,4,1,Real-World Evidence Digest,Email,1,False,5
+DIG-00209,HCP-00024,2026-08-24,1,0,HER2-low Testing: A Practical Guide,Webinar,0,False,6
+DIG-00210,HCP-00074,2026-08-18,6,5,Datroway TROPION-Lung Data Summary,Webinar,10,False,7
+DIG-00211,HCP-00058,2026-07-26,3,2,HER2-ultralow Emerging Data,Email,3,True,36
+DIG-00212,HCP-00270,2026-08-09,5,3,Managing ILD: Monitoring & Dose Modification,Interactive Module,2,True,4
+DIG-00213,HCP-00139,2026-08-01,5,3,Managing ILD: Monitoring & Dose Modification,Interactive Module,3,False,5
+DIG-00214,HCP-00130,2026-09-18,2,2,CNS Outcomes with T-DXd,Email,2,False,6
+DIG-00215,HCP-00157,2026-05-15,1,1,Managing ILD: Monitoring & Dose Modification,Email,2,False,2
+DIG-00216,HCP-00107,2026-05-14,4,1,HER2-low Testing: A Practical Guide,Email,3,False,4
+DIG-00217,HCP-00083,2026-04-27,4,0,Datroway TROPION-Lung Data Summary,Email,0,False,11
+DIG-00218,HCP-00026,2026-07-16,6,2,CNS Outcomes with T-DXd,Web Article,1,False,8
+DIG-00219,HCP-00122,2026-08-23,2,0,HER2-low Testing: A Practical Guide,Email,0,False,3
+DIG-00220,HCP-00084,2026-04-07,4,4,HER2-low Testing: A Practical Guide,Email,8,False,3
+DIG-00221,HCP-00100,2026-05-19,2,2,Managing ILD: Monitoring & Dose Modification,Video,6,True,32
+DIG-00222,HCP-00146,2026-06-03,3,0,TROP2 Biomarker Science,Email,0,False,2
+DIG-00223,HCP-00099,2026-04-04,1,1,Datroway TROPION-Lung Data Summary,Webinar,2,True,22
+DIG-00224,HCP-00193,2026-05-02,4,2,Managing ILD: Monitoring & Dose Modification,Interactive Module,6,False,11
+DIG-00225,HCP-00177,2026-06-21,1,0,CNS Outcomes with T-DXd,Web Article,0,True,40
+DIG-00226,HCP-00206,2026-07-08,2,2,TROP2 Biomarker Science,Webinar,0,False,11
+DIG-00227,HCP-00179,2026-04-03,4,0,Managing ILD: Monitoring & Dose Modification,Web Article,0,False,9
+DIG-00228,HCP-00119,2026-07-25,3,0,CNS Outcomes with T-DXd,Email,0,True,25
+DIG-00229,HCP-00117,2026-08-10,3,2,TROP2 Biomarker Science,Video,0,False,7
+DIG-00230,HCP-00061,2026-04-23,4,1,HER2-ultralow Emerging Data,Webinar,1,False,12
+DIG-00231,HCP-00167,2026-05-19,5,2,Real-World Evidence Digest,Web Article,3,False,9
+DIG-00232,HCP-00023,2026-05-06,5,4,Sequencing After Antibody-Drug Conjugates,Webinar,12,False,11
+DIG-00233,HCP-00133,2026-07-18,5,2,TROP2 Biomarker Science,Interactive Module,5,True,9
+DIG-00234,HCP-00183,2026-04-24,5,2,Managing ILD: Monitoring & Dose Modification,Interactive Module,5,False,3
+DIG-00235,HCP-00052,2026-09-26,6,6,HER2-low Testing: A Practical Guide,Webinar,5,False,9
+DIG-00236,HCP-00253,2026-04-18,3,2,Real-World Evidence Digest,Webinar,2,True,36
+DIG-00237,HCP-00206,2026-06-18,1,0,CNS Outcomes with T-DXd,Email,0,True,16
+DIG-00238,HCP-00049,2026-06-17,5,1,HER2-low Testing: A Practical Guide,Webinar,0,True,34
+DIG-00239,HCP-00031,2026-07-07,3,2,HER2-low Testing: A Practical Guide,Video,0,False,2
+DIG-00240,HCP-00245,2026-08-06,3,1,Datroway TROPION-Lung Data Summary,Web Article,0,False,10
+DIG-00241,HCP-00107,2026-07-02,4,4,HER2-low Testing: A Practical Guide,Email,7,True,22
+DIG-00242,HCP-00293,2026-08-16,4,3,HER2-low Testing: A Practical Guide,Webinar,6,False,6
+DIG-00243,HCP-00121,2026-04-26,3,3,Enhertu DESTINY-Breast04 Efficacy Overview,Email,2,True,43
+DIG-00244,HCP-00289,2026-09-12,6,5,Real-World Evidence Digest,Video,15,True,6
+DIG-00245,HCP-00083,2026-08-14,1,1,Enhertu DESTINY-Breast04 Efficacy Overview,Web Article,1,False,10
+DIG-00246,HCP-00181,2026-05-04,5,2,Sequencing After Antibody-Drug Conjugates,Interactive Module,6,False,9
+DIG-00247,HCP-00144,2026-05-12,6,1,CNS Outcomes with T-DXd,Interactive Module,3,False,7
+DIG-00248,HCP-00284,2026-09-04,3,0,CNS Outcomes with T-DXd,Web Article,0,True,45
+DIG-00249,HCP-00083,2026-06-01,3,0,Managing ILD: Monitoring & Dose Modification,Interactive Module,0,False,2
+DIG-00250,HCP-00012,2026-07-30,1,0,HER2-ultralow Emerging Data,Interactive Module,0,False,6
+DIG-00251,HCP-00226,2026-04-20,3,2,HER2-low Testing: A Practical Guide,Interactive Module,4,False,0
+DIG-00252,HCP-00055,2026-04-26,5,2,Real-World Evidence Digest,Video,5,False,1
+DIG-00253,HCP-00146,2026-08-18,2,2,Real-World Evidence Digest,Email,3,True,33
+DIG-00254,HCP-00179,2026-06-18,6,3,Sequencing After Antibody-Drug Conjugates,Web Article,1,False,6
+DIG-00255,HCP-00170,2026-06-27,3,3,Managing ILD: Monitoring & Dose Modification,Web Article,3,False,2
+DIG-00256,HCP-00107,2026-05-24,1,0,HER2-ultralow Emerging Data,Video,0,False,11
+DIG-00257,HCP-00093,2026-07-31,1,1,HER2-ultralow Emerging Data,Email,1,False,11
+DIG-00258,HCP-00101,2026-06-19,4,3,Managing ILD: Monitoring & Dose Modification,Interactive Module,8,False,0
+DIG-00259,HCP-00141,2026-07-20,1,0,HER2-low Testing: A Practical Guide,Video,0,False,7
+DIG-00260,HCP-00155,2026-09-16,2,1,HER2-low Testing: A Practical Guide,Web Article,1,False,12
+DIG-00261,HCP-00076,2026-09-13,2,2,HER2-low Testing: A Practical Guide,Webinar,2,False,8
+DIG-00262,HCP-00017,2026-05-24,3,2,TROP2 Biomarker Science,Email,0,False,0
+DIG-00263,HCP-00031,2026-06-03,2,2,HER2-ultralow Emerging Data,Email,2,False,8
+DIG-00264,HCP-00057,2026-06-05,6,0,HER2-low Testing: A Practical Guide,Video,0,False,2
+DIG-00265,HCP-00263,2026-07-10,1,0,TROP2 Biomarker Science,Webinar,0,False,3
+DIG-00266,HCP-00171,2026-08-27,6,3,Enhertu DESTINY-Breast04 Efficacy Overview,Web Article,7,False,0
+DIG-00267,HCP-00290,2026-09-01,3,3,Real-World Evidence Digest,Interactive Module,0,False,0
+DIG-00268,HCP-00108,2026-08-28,5,1,HER2-ultralow Emerging Data,Email,1,False,9
+DIG-00269,HCP-00249,2026-05-01,1,0,HER2-low Testing: A Practical Guide,Video,0,False,2
+DIG-00270,HCP-00096,2026-06-04,2,1,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,10
+DIG-00271,HCP-00283,2026-06-02,6,3,HER2-ultralow Emerging Data,Interactive Module,4,False,7
+DIG-00272,HCP-00051,2026-09-20,3,1,CNS Outcomes with T-DXd,Video,2,False,3
+DIG-00273,HCP-00226,2026-06-14,1,0,HER2-ultralow Emerging Data,Web Article,0,False,0
+DIG-00274,HCP-00235,2026-05-04,1,0,Sequencing After Antibody-Drug Conjugates,Web Article,0,False,7
+DIG-00275,HCP-00121,2026-05-14,1,1,HER2-ultralow Emerging Data,Web Article,0,False,6
+DIG-00276,HCP-00161,2026-08-08,1,0,Datroway TROPION-Lung Data Summary,Email,0,False,12
+DIG-00277,HCP-00298,2026-04-09,4,3,TROP2 Biomarker Science,Video,1,False,12
+DIG-00278,HCP-00231,2026-07-07,3,0,Real-World Evidence Digest,Email,0,False,7
+DIG-00279,HCP-00068,2026-07-24,6,0,HER2-ultralow Emerging Data,Webinar,0,False,10
+DIG-00280,HCP-00239,2026-05-02,1,0,CNS Outcomes with T-DXd,Web Article,0,True,11
+DIG-00281,HCP-00251,2026-05-17,3,0,TROP2 Biomarker Science,Web Article,0,False,5
+DIG-00282,HCP-00071,2026-09-16,2,0,HER2-ultralow Emerging Data,Interactive Module,0,False,9
+DIG-00283,HCP-00104,2026-04-08,4,3,CNS Outcomes with T-DXd,Webinar,3,False,6
+DIG-00284,HCP-00192,2026-08-06,1,0,Datroway TROPION-Lung Data Summary,Interactive Module,0,True,26
+DIG-00285,HCP-00237,2026-08-21,2,0,CNS Outcomes with T-DXd,Video,0,False,4
+DIG-00286,HCP-00087,2026-07-05,1,0,HER2-ultralow Emerging Data,Web Article,0,True,35
+DIG-00287,HCP-00143,2026-09-19,4,1,HER2-low Testing: A Practical Guide,Web Article,3,False,5
+DIG-00288,HCP-00061,2026-05-20,5,5,Sequencing After Antibody-Drug Conjugates,Video,13,True,10
+DIG-00289,HCP-00048,2026-07-19,4,0,Managing ILD: Monitoring & Dose Modification,Video,0,False,11
+DIG-00290,HCP-00157,2026-04-10,2,0,Sequencing After Antibody-Drug Conjugates,Web Article,0,False,0
+DIG-00291,HCP-00131,2026-08-01,5,4,Real-World Evidence Digest,Web Article,2,False,11
+DIG-00292,HCP-00179,2026-09-09,6,1,Enhertu DESTINY-Breast04 Efficacy Overview,Video,2,False,8
+DIG-00293,HCP-00275,2026-06-19,4,2,Datroway TROPION-Lung Data Summary,Web Article,6,False,5
+DIG-00294,HCP-00135,2026-08-23,6,3,TROP2 Biomarker Science,Web Article,7,False,1
+DIG-00295,HCP-00128,2026-09-15,4,0,HER2-low Testing: A Practical Guide,Web Article,0,True,34
+DIG-00296,HCP-00128,2026-04-22,4,4,HER2-ultralow Emerging Data,Webinar,9,False,4
+DIG-00297,HCP-00247,2026-07-26,1,0,TROP2 Biomarker Science,Webinar,0,True,7
+DIG-00298,HCP-00160,2026-04-15,1,0,HER2-ultralow Emerging Data,Webinar,0,True,37
+DIG-00299,HCP-00286,2026-04-04,5,3,Sequencing After Antibody-Drug Conjugates,Email,0,False,6
+DIG-00300,HCP-00143,2026-06-17,5,5,Sequencing After Antibody-Drug Conjugates,Video,10,False,7
+DIG-00301,HCP-00022,2026-07-02,1,0,Datroway TROPION-Lung Data Summary,Email,0,False,3
+DIG-00302,HCP-00120,2026-04-01,1,0,HER2-low Testing: A Practical Guide,Interactive Module,0,False,5
+DIG-00303,HCP-00291,2026-05-23,1,0,CNS Outcomes with T-DXd,Webinar,0,False,7
+DIG-00304,HCP-00117,2026-08-18,1,1,Enhertu DESTINY-Breast04 Efficacy Overview,Video,1,True,3
+DIG-00305,HCP-00246,2026-05-11,4,0,CNS Outcomes with T-DXd,Email,0,False,3
+DIG-00306,HCP-00190,2026-09-08,1,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,4
+DIG-00307,HCP-00170,2026-08-02,1,1,Real-World Evidence Digest,Video,3,False,11
+DIG-00308,HCP-00298,2026-04-24,1,1,HER2-low Testing: A Practical Guide,Webinar,2,False,0
+DIG-00309,HCP-00022,2026-09-10,6,0,Datroway TROPION-Lung Data Summary,Webinar,0,False,8
+DIG-00310,HCP-00249,2026-05-09,5,1,HER2-low Testing: A Practical Guide,Webinar,3,False,7
+DIG-00311,HCP-00263,2026-06-08,2,2,TROP2 Biomarker Science,Webinar,6,False,3
+DIG-00312,HCP-00294,2026-07-17,3,1,TROP2 Biomarker Science,Email,3,False,9
+DIG-00313,HCP-00075,2026-07-25,4,1,HER2-low Testing: A Practical Guide,Interactive Module,2,False,0
+DIG-00314,HCP-00160,2026-04-29,1,1,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,6
+DIG-00315,HCP-00095,2026-06-27,3,2,Sequencing After Antibody-Drug Conjugates,Interactive Module,6,False,12
+DIG-00316,HCP-00294,2026-06-26,5,3,HER2-ultralow Emerging Data,Webinar,9,False,3
+DIG-00317,HCP-00035,2026-08-21,3,1,Real-World Evidence Digest,Webinar,1,False,11
+DIG-00318,HCP-00218,2026-08-10,2,2,CNS Outcomes with T-DXd,Interactive Module,1,False,8
+DIG-00319,HCP-00180,2026-07-31,1,0,Sequencing After Antibody-Drug Conjugates,Interactive Module,0,False,2
+DIG-00320,HCP-00115,2026-08-18,4,2,Managing ILD: Monitoring & Dose Modification,Interactive Module,3,False,2
+DIG-00321,HCP-00204,2026-09-23,5,2,CNS Outcomes with T-DXd,Video,1,False,8
+DIG-00322,HCP-00112,2026-06-08,3,1,CNS Outcomes with T-DXd,Web Article,2,True,37
+DIG-00323,HCP-00174,2026-08-28,1,0,HER2-low Testing: A Practical Guide,Interactive Module,0,False,3
+DIG-00324,HCP-00212,2026-06-23,5,2,Datroway TROPION-Lung Data Summary,Email,6,True,38
+DIG-00325,HCP-00163,2026-05-26,5,3,Sequencing After Antibody-Drug Conjugates,Webinar,6,False,10
+DIG-00326,HCP-00222,2026-06-30,3,0,CNS Outcomes with T-DXd,Webinar,0,True,45
+DIG-00327,HCP-00086,2026-09-21,3,3,HER2-ultralow Emerging Data,Web Article,9,False,8
+DIG-00328,HCP-00057,2026-06-16,2,2,HER2-ultralow Emerging Data,Video,6,True,4
+DIG-00329,HCP-00136,2026-07-16,2,0,HER2-low Testing: A Practical Guide,Web Article,0,True,5
+DIG-00330,HCP-00268,2026-08-17,5,3,Enhertu DESTINY-Breast04 Efficacy Overview,Interactive Module,3,True,34
+DIG-00331,HCP-00268,2026-05-04,3,2,Managing ILD: Monitoring & Dose Modification,Webinar,1,False,4
+DIG-00332,HCP-00124,2026-04-18,6,0,TROP2 Biomarker Science,Video,0,True,10
+DIG-00333,HCP-00007,2026-09-18,6,2,CNS Outcomes with T-DXd,Interactive Module,6,False,2
+DIG-00334,HCP-00141,2026-07-12,3,3,HER2-ultralow Emerging Data,Email,8,True,44
+DIG-00335,HCP-00197,2026-07-05,4,4,Datroway TROPION-Lung Data Summary,Video,5,False,9
+DIG-00336,HCP-00242,2026-08-09,1,1,HER2-ultralow Emerging Data,Web Article,3,False,8
+DIG-00337,HCP-00266,2026-07-17,5,4,CNS Outcomes with T-DXd,Webinar,11,False,11
+DIG-00338,HCP-00241,2026-07-05,3,1,TROP2 Biomarker Science,Interactive Module,3,True,10
+DIG-00339,HCP-00009,2026-08-07,3,1,Sequencing After Antibody-Drug Conjugates,Video,3,True,41
+DIG-00340,HCP-00246,2026-04-16,3,0,Sequencing After Antibody-Drug Conjugates,Video,0,False,11
+DIG-00341,HCP-00259,2026-04-17,2,1,Datroway TROPION-Lung Data Summary,Email,3,False,2
+DIG-00342,HCP-00132,2026-05-10,1,1,Real-World Evidence Digest,Interactive Module,1,False,8
+DIG-00343,HCP-00175,2026-04-29,1,1,HER2-ultralow Emerging Data,Interactive Module,2,False,1
+DIG-00344,HCP-00126,2026-08-27,3,0,Sequencing After Antibody-Drug Conjugates,Email,0,True,20
+DIG-00345,HCP-00261,2026-07-18,3,1,Real-World Evidence Digest,Interactive Module,2,False,8
+DIG-00346,HCP-00189,2026-05-28,6,6,CNS Outcomes with T-DXd,Webinar,17,True,34
+DIG-00347,HCP-00107,2026-04-17,1,1,Real-World Evidence Digest,Video,1,False,5
+DIG-00348,HCP-00236,2026-05-29,2,2,TROP2 Biomarker Science,Webinar,3,False,5
+DIG-00349,HCP-00076,2026-07-12,3,0,Real-World Evidence Digest,Web Article,0,True,13
+DIG-00350,HCP-00058,2026-08-07,3,3,Enhertu DESTINY-Breast04 Efficacy Overview,Interactive Module,2,False,8
+DIG-00351,HCP-00088,2026-05-25,4,3,Enhertu DESTINY-Breast04 Efficacy Overview,Webinar,4,True,28
+DIG-00352,HCP-00003,2026-04-25,3,2,Enhertu DESTINY-Breast04 Efficacy Overview,Video,4,False,7
+DIG-00353,HCP-00293,2026-07-12,6,4,CNS Outcomes with T-DXd,Email,7,False,11
+DIG-00354,HCP-00177,2026-09-06,6,3,Enhertu DESTINY-Breast04 Efficacy Overview,Video,9,False,4
+DIG-00355,HCP-00070,2026-05-03,6,6,HER2-ultralow Emerging Data,Video,6,True,26
+DIG-00356,HCP-00286,2026-05-16,6,5,HER2-low Testing: A Practical Guide,Interactive Module,13,False,3
+DIG-00357,HCP-00002,2026-09-19,4,0,CNS Outcomes with T-DXd,Web Article,0,False,10
+DIG-00358,HCP-00204,2026-09-04,5,2,HER2-low Testing: A Practical Guide,Interactive Module,1,False,5
+DIG-00359,HCP-00136,2026-05-18,5,0,HER2-low Testing: A Practical Guide,Email,0,True,11
+DIG-00360,HCP-00043,2026-08-02,2,0,Real-World Evidence Digest,Web Article,0,False,0
+DIG-00361,HCP-00232,2026-04-22,4,1,Real-World Evidence Digest,Web Article,0,False,2
+DIG-00362,HCP-00074,2026-08-27,1,1,Managing ILD: Monitoring & Dose Modification,Interactive Module,1,False,7
+DIG-00363,HCP-00087,2026-06-24,1,0,CNS Outcomes with T-DXd,Web Article,0,False,11
+DIG-00364,HCP-00265,2026-09-03,2,1,Sequencing After Antibody-Drug Conjugates,Webinar,3,True,5
+DIG-00365,HCP-00188,2026-08-09,3,3,HER2-ultralow Emerging Data,Web Article,6,True,45
+DIG-00366,HCP-00272,2026-07-17,5,5,Real-World Evidence Digest,Video,7,False,12
+DIG-00367,HCP-00036,2026-04-12,1,1,Datroway TROPION-Lung Data Summary,Interactive Module,0,False,8
+DIG-00368,HCP-00109,2026-09-10,6,0,HER2-low Testing: A Practical Guide,Email,0,False,9
+DIG-00369,HCP-00125,2026-09-08,1,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,4
+DIG-00370,HCP-00251,2026-06-07,3,3,TROP2 Biomarker Science,Web Article,5,False,10
+DIG-00371,HCP-00224,2026-05-14,1,1,Managing ILD: Monitoring & Dose Modification,Email,3,False,2
+DIG-00372,HCP-00126,2026-04-24,4,3,HER2-ultralow Emerging Data,Email,7,True,2
+DIG-00373,HCP-00289,2026-07-09,4,4,Sequencing After Antibody-Drug Conjugates,Email,8,False,2
+DIG-00374,HCP-00193,2026-05-18,1,0,TROP2 Biomarker Science,Webinar,0,False,8
+DIG-00375,HCP-00207,2026-04-10,4,0,Real-World Evidence Digest,Video,0,True,25
+DIG-00376,HCP-00238,2026-07-05,1,1,Enhertu DESTINY-Breast04 Efficacy Overview,Email,1,False,4
+DIG-00377,HCP-00264,2026-07-20,1,0,TROP2 Biomarker Science,Interactive Module,0,True,12
+DIG-00378,HCP-00140,2026-09-06,6,2,Managing ILD: Monitoring & Dose Modification,Webinar,4,False,6
+DIG-00379,HCP-00151,2026-07-11,4,0,Sequencing After Antibody-Drug Conjugates,Interactive Module,0,True,34
+DIG-00380,HCP-00138,2026-08-30,4,1,HER2-low Testing: A Practical Guide,Interactive Module,2,False,10
+DIG-00381,HCP-00246,2026-07-18,4,1,Managing ILD: Monitoring & Dose Modification,Web Article,3,False,8
+DIG-00382,HCP-00087,2026-05-05,5,3,CNS Outcomes with T-DXd,Web Article,1,False,12
+DIG-00383,HCP-00014,2026-09-07,3,2,CNS Outcomes with T-DXd,Email,6,False,0
+DIG-00384,HCP-00100,2026-06-01,5,3,Datroway TROPION-Lung Data Summary,Video,9,False,12
+DIG-00385,HCP-00100,2026-04-09,1,0,Real-World Evidence Digest,Interactive Module,0,False,12
+DIG-00386,HCP-00272,2026-06-12,6,1,Enhertu DESTINY-Breast04 Efficacy Overview,Interactive Module,3,False,4
+DIG-00387,HCP-00142,2026-06-14,3,2,Managing ILD: Monitoring & Dose Modification,Web Article,6,False,6
+DIG-00388,HCP-00200,2026-05-11,3,0,Real-World Evidence Digest,Web Article,0,True,14
+DIG-00389,HCP-00019,2026-09-06,4,1,HER2-ultralow Emerging Data,Video,3,False,1
+DIG-00390,HCP-00205,2026-08-01,4,2,CNS Outcomes with T-DXd,Video,6,False,9
+DIG-00391,HCP-00238,2026-09-13,1,0,Sequencing After Antibody-Drug Conjugates,Interactive Module,0,False,2
+DIG-00392,HCP-00006,2026-09-10,3,1,TROP2 Biomarker Science,Webinar,3,True,43
+DIG-00393,HCP-00296,2026-04-13,5,2,Sequencing After Antibody-Drug Conjugates,Interactive Module,0,False,3
+DIG-00394,HCP-00279,2026-07-05,5,0,HER2-ultralow Emerging Data,Email,0,True,24
+DIG-00395,HCP-00260,2026-07-04,3,3,HER2-low Testing: A Practical Guide,Interactive Module,0,True,21
+DIG-00396,HCP-00153,2026-07-24,2,0,Sequencing After Antibody-Drug Conjugates,Interactive Module,0,True,23
+DIG-00397,HCP-00162,2026-04-11,3,3,HER2-low Testing: A Practical Guide,Video,9,False,8
+DIG-00398,HCP-00280,2026-07-28,2,0,Enhertu DESTINY-Breast04 Efficacy Overview,Interactive Module,0,False,2
+DIG-00399,HCP-00067,2026-06-11,4,0,Real-World Evidence Digest,Interactive Module,0,False,3
+DIG-00400,HCP-00047,2026-09-24,2,1,Sequencing After Antibody-Drug Conjugates,Email,1,False,3
+DIG-00401,HCP-00102,2026-09-07,4,0,Enhertu DESTINY-Breast04 Efficacy Overview,Email,0,False,1
+DIG-00402,HCP-00297,2026-06-10,4,1,TROP2 Biomarker Science,Web Article,0,False,8
+DIG-00403,HCP-00164,2026-07-30,2,1,HER2-ultralow Emerging Data,Email,0,False,9
+DIG-00404,HCP-00008,2026-08-29,2,2,HER2-ultralow Emerging Data,Interactive Module,2,False,8
+DIG-00405,HCP-00051,2026-06-22,5,0,HER2-low Testing: A Practical Guide,Email,0,False,11
+DIG-00406,HCP-00024,2026-04-18,1,1,Datroway TROPION-Lung Data Summary,Email,2,False,5
+DIG-00407,HCP-00048,2026-08-17,2,1,TROP2 Biomarker Science,Webinar,1,False,5
+DIG-00408,HCP-00269,2026-06-28,2,2,TROP2 Biomarker Science,Web Article,4,False,6
+DIG-00409,HCP-00277,2026-07-21,3,2,Sequencing After Antibody-Drug Conjugates,Web Article,4,True,19
+DIG-00410,HCP-00114,2026-05-13,2,2,HER2-ultralow Emerging Data,Email,5,True,9
+DIG-00411,HCP-00202,2026-05-04,1,0,Sequencing After Antibody-Drug Conjugates,Web Article,0,False,1
+DIG-00412,HCP-00263,2026-08-25,5,3,HER2-ultralow Emerging Data,Web Article,1,False,8
+DIG-00413,HCP-00082,2026-03-30,4,0,Managing ILD: Monitoring & Dose Modification,Email,0,False,0
+DIG-00414,HCP-00068,2026-07-03,2,1,CNS Outcomes with T-DXd,Email,1,False,8
+DIG-00415,HCP-00085,2026-07-11,5,1,Sequencing After Antibody-Drug Conjugates,Email,2,False,8
+DIG-00416,HCP-00083,2026-09-11,6,1,Datroway TROPION-Lung Data Summary,Email,2,False,4
+DIG-00417,HCP-00251,2026-07-16,1,1,HER2-low Testing: A Practical Guide,Video,3,False,10
+DIG-00418,HCP-00152,2026-08-24,2,1,Sequencing After Antibody-Drug Conjugates,Interactive Module,0,False,12
+DIG-00419,HCP-00021,2026-07-31,5,0,HER2-low Testing: A Practical Guide,Webinar,0,False,5
+DIG-00420,HCP-00028,2026-04-26,3,3,CNS Outcomes with T-DXd,Web Article,1,True,17
+DIG-00421,HCP-00257,2026-04-01,2,2,CNS Outcomes with T-DXd,Interactive Module,0,True,29
+DIG-00422,HCP-00088,2026-08-31,4,0,HER2-low Testing: A Practical Guide,Email,0,False,1
+DIG-00423,HCP-00054,2026-09-17,3,0,Sequencing After Antibody-Drug Conjugates,Email,0,False,12
+DIG-00424,HCP-00076,2026-04-12,4,2,Sequencing After Antibody-Drug Conjugates,Web Article,4,False,12
+DIG-00425,HCP-00165,2026-07-11,2,2,TROP2 Biomarker Science,Video,6,False,2
+DIG-00426,HCP-00137,2026-08-07,5,2,Enhertu DESTINY-Breast04 Efficacy Overview,Web Article,3,False,12
+DIG-00427,HCP-00255,2026-07-22,6,2,HER2-low Testing: A Practical Guide,Email,1,False,6
+DIG-00428,HCP-00199,2026-05-04,6,6,Enhertu DESTINY-Breast04 Efficacy Overview,Email,14,False,11
+DIG-00429,HCP-00064,2026-08-10,5,1,HER2-low Testing: A Practical Guide,Webinar,3,True,16
+DIG-00430,HCP-00299,2026-08-07,3,2,CNS Outcomes with T-DXd,Webinar,4,False,2
+DIG-00431,HCP-00124,2026-05-15,1,1,Datroway TROPION-Lung Data Summary,Video,2,False,6
+DIG-00432,HCP-00264,2026-08-10,1,1,Sequencing After Antibody-Drug Conjugates,Webinar,0,False,0
+DIG-00433,HCP-00128,2026-05-15,1,0,CNS Outcomes with T-DXd,Video,0,True,30
+DIG-00434,HCP-00032,2026-04-29,4,4,Enhertu DESTINY-Breast04 Efficacy Overview,Video,0,False,10
+DIG-00435,HCP-00075,2026-05-29,4,4,HER2-ultralow Emerging Data,Video,2,True,37
+DIG-00436,HCP-00268,2026-08-21,4,4,TROP2 Biomarker Science,Webinar,1,True,37
+DIG-00437,HCP-00062,2026-05-21,6,4,Sequencing After Antibody-Drug Conjugates,Web Article,3,False,0
+DIG-00438,HCP-00219,2026-08-27,2,1,HER2-low Testing: A Practical Guide,Interactive Module,3,True,17
+DIG-00439,HCP-00092,2026-06-26,4,3,Managing ILD: Monitoring & Dose Modification,Web Article,7,True,18
+DIG-00440,HCP-00166,2026-06-23,1,0,Sequencing After Antibody-Drug Conjugates,Video,0,False,1
+DIG-00441,HCP-00121,2026-08-21,1,1,Managing ILD: Monitoring & Dose Modification,Webinar,2,False,10
+DIG-00442,HCP-00061,2026-08-30,6,2,Managing ILD: Monitoring & Dose Modification,Web Article,2,True,42
+DIG-00443,HCP-00022,2026-09-14,6,5,CNS Outcomes with T-DXd,Web Article,5,False,3
+DIG-00444,HCP-00221,2026-05-19,2,2,HER2-ultralow Emerging Data,Video,3,False,3
+DIG-00445,HCP-00183,2026-05-31,2,0,Sequencing After Antibody-Drug Conjugates,Interactive Module,0,True,14
+DIG-00446,HCP-00252,2026-09-04,6,4,TROP2 Biomarker Science,Email,8,False,12
+DIG-00447,HCP-00300,2026-08-02,6,3,Datroway TROPION-Lung Data Summary,Email,4,False,4
+DIG-00448,HCP-00216,2026-08-07,1,0,Real-World Evidence Digest,Video,0,True,35
+DIG-00449,HCP-00257,2026-08-18,3,0,HER2-low Testing: A Practical Guide,Email,0,False,2
+DIG-00450,HCP-00214,2026-09-07,1,1,CNS Outcomes with T-DXd,Video,3,False,8
+DIG-00451,HCP-00062,2026-05-20,1,1,CNS Outcomes with T-DXd,Email,2,False,7
+DIG-00452,HCP-00279,2026-06-25,4,1,Real-World Evidence Digest,Video,1,False,4
+DIG-00453,HCP-00092,2026-04-03,2,2,HER2-low Testing: A Practical Guide,Webinar,1,False,6
+DIG-00454,HCP-00216,2026-09-03,1,0,Datroway TROPION-Lung Data Summary,Webinar,0,False,11
+DIG-00455,HCP-00054,2026-08-16,6,1,Managing ILD: Monitoring & Dose Modification,Video,3,False,9
+DIG-00456,HCP-00195,2026-09-24,6,6,Real-World Evidence Digest,Video,7,True,3
+DIG-00457,HCP-00057,2026-04-02,1,0,Enhertu DESTINY-Breast04 Efficacy Overview,Webinar,0,True,39
+DIG-00458,HCP-00043,2026-09-10,2,2,TROP2 Biomarker Science,Interactive Module,5,False,10
+DIG-00459,HCP-00011,2026-07-05,5,5,Enhertu DESTINY-Breast04 Efficacy Overview,Web Article,14,False,8
+DIG-00460,HCP-00285,2026-05-09,2,2,HER2-ultralow Emerging Data,Email,2,False,5
+DIG-00461,HCP-00299,2026-07-24,1,0,Managing ILD: Monitoring & Dose Modification,Interactive Module,0,False,12
+DIG-00462,HCP-00077,2026-05-17,2,1,Sequencing After Antibody-Drug Conjugates,Webinar,1,False,6
+DIG-00463,HCP-00238,2026-06-09,1,0,HER2-ultralow Emerging Data,Web Article,0,False,8
+DIG-00464,HCP-00181,2026-05-08,3,2,Real-World Evidence Digest,Email,5,True,34
+DIG-00465,HCP-00292,2026-07-22,4,0,Enhertu DESTINY-Breast04 Efficacy Overview,Video,0,False,5
+DIG-00466,HCP-00167,2026-05-20,4,1,Managing ILD: Monitoring & Dose Modification,Web Article,1,False,6
+DIG-00467,HCP-00101,2026-05-06,3,3,Sequencing After Antibody-Drug Conjugates,Email,1,False,10
+DIG-00468,HCP-00209,2026-05-22,6,2,HER2-ultralow Emerging Data,Email,3,False,12
+DIG-00469,HCP-00147,2026-05-11,1,1,HER2-ultralow Emerging Data,Interactive Module,2,True,30
+DIG-00470,HCP-00089,2026-07-02,3,0,HER2-low Testing: A Practical Guide,Interactive Module,0,False,3
+DIG-00471,HCP-00042,2026-07-06,6,0,Real-World Evidence Digest,Email,0,False,9
+DIG-00472,HCP-00279,2026-07-13,2,0,Enhertu DESTINY-Breast04 Efficacy Overview,Interactive Module,0,False,10
+DIG-00473,HCP-00209,2026-07-21,5,2,Managing ILD: Monitoring & Dose Modification,Webinar,1,True,45
+DIG-00474,HCP-00193,2026-09-17,2,0,CNS Outcomes with T-DXd,Interactive Module,0,False,3
+DIG-00475,HCP-00059,2026-06-20,6,6,Managing ILD: Monitoring & Dose Modification,Video,7,False,11
+DIG-00476,HCP-00169,2026-07-10,6,4,CNS Outcomes with T-DXd,Webinar,2,False,3
+DIG-00477,HCP-00078,2026-04-07,3,0,TROP2 Biomarker Science,Interactive Module,0,False,0
+DIG-00478,HCP-00114,2026-04-25,1,1,Managing ILD: Monitoring & Dose Modification,Video,1,False,3
+DIG-00479,HCP-00249,2026-08-30,2,0,Enhertu DESTINY-Breast04 Efficacy Overview,Video,0,False,4
+DIG-00480,HCP-00116,2026-09-21,6,4,HER2-low Testing: A Practical Guide,Video,0,False,1
+DIG-00481,HCP-00156,2026-04-16,5,5,HER2-low Testing: A Practical Guide,Email,11,True,24
+DIG-00482,HCP-00227,2026-05-25,2,1,HER2-low Testing: A Practical Guide,Video,3,False,5
+DIG-00483,HCP-00205,2026-08-05,3,1,HER2-ultralow Emerging Data,Email,1,False,4
+DIG-00484,HCP-00268,2026-06-29,2,2,Sequencing After Antibody-Drug Conjugates,Interactive Module,1,False,3
+DIG-00485,HCP-00226,2026-09-01,3,0,Managing ILD: Monitoring & Dose Modification,Web Article,0,False,3
+DIG-00486,HCP-00160,2026-09-19,2,2,Datroway TROPION-Lung Data Summary,Interactive Module,2,False,4
+DIG-00487,HCP-00007,2026-05-08,3,2,Managing ILD: Monitoring & Dose Modification,Webinar,0,True,25
+DIG-00488,HCP-00064,2026-09-15,6,6,CNS Outcomes with T-DXd,Video,6,False,12
+DIG-00489,HCP-00004,2026-06-09,3,1,Enhertu DESTINY-Breast04 Efficacy Overview,Email,1,True,40
+DIG-00490,HCP-00276,2026-04-10,3,0,HER2-low Testing: A Practical Guide,Video,0,False,4
+DIG-00491,HCP-00228,2026-04-02,1,0,Sequencing After Antibody-Drug Conjugates,Web Article,0,True,6
+DIG-00492,HCP-00233,2026-05-30,2,2,Enhertu DESTINY-Breast04 Efficacy Overview,Video,5,False,7
+DIG-00493,HCP-00290,2026-04-19,1,1,HER2-ultralow Emerging Data,Interactive Module,1,False,8
+DIG-00494,HCP-00108,2026-07-04,1,0,HER2-ultralow Emerging Data,Webinar,0,False,3
+DIG-00495,HCP-00278,2026-08-17,3,2,Datroway TROPION-Lung Data Summary,Video,3,False,3
+DIG-00496,HCP-00162,2026-06-14,3,1,CNS Outcomes with T-DXd,Interactive Module,3,False,5
+DIG-00497,HCP-00120,2026-04-15,5,2,TROP2 Biomarker Science,Webinar,1,False,2
+DIG-00498,HCP-00291,2026-04-20,2,0,Real-World Evidence Digest,Email,0,False,4
+DIG-00499,HCP-00064,2026-04-07,1,1,CNS Outcomes with T-DXd,Interactive Module,2,False,10
+DIG-00500,HCP-00134,2026-05-22,5,2,Sequencing After Antibody-Drug Conjugates,Interactive Module,1,False,2

@@ -1,0 +1,401 @@
+inquiry_id,hcp_id,inquiry_date,inquiry_topic,evidence_type_requested,indication,response_status,response_time_days,sla_met,sla_target_days,product
+INQ-00001,HCP-00119,2026-03-15,Safety / ILD management,Subgroup Analysis,EGFR-mutant NSCLC (investigational),In Progress,195,False,3,HER3-DXd
+INQ-00002,HCP-00100,2026-03-15,Safety / ILD management,Biomarker,HER2+ metastatic breast cancer,Closed,7,False,3,Enhertu
+INQ-00003,HCP-00040,2026-05-26,Dosing guidance,Mechanism of Action,EGFR-mutant NSCLC (investigational),In Progress,123,False,2,HER3-DXd
+INQ-00004,HCP-00005,2026-03-31,CNS efficacy,Safety,FLT3-ITD+ acute myeloid leukemia,Open,179,False,5,Vanflyta
+INQ-00005,HCP-00220,2026-05-14,Dosing guidance,Biomarker,EGFR-mutant NSCLC (investigational),Open,135,False,3,HER3-DXd
+INQ-00006,HCP-00067,2026-05-16,Subgroup analysis,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,5,Vanflyta
+INQ-00007,HCP-00201,2026-05-20,Efficacy data request,Biomarker,HER2-ultralow metastatic breast cancer,Closed,7,False,2,Enhertu
+INQ-00008,HCP-00153,2026-03-31,Comparative data,Biomarker,HER2-low metastatic breast cancer,Closed,3,False,2,Enhertu
+INQ-00009,HCP-00105,2026-03-29,Comparative data,Real-World Evidence,HER2+ metastatic gastric cancer,Closed,8,False,5,Enhertu
+INQ-00010,HCP-00278,2026-06-26,Safety / ILD management,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Open,92,False,3,Vanflyta
+INQ-00011,HCP-00136,2026-03-07,Real-world evidence,Subgroup Analysis,HER2-ultralow metastatic breast cancer,Closed,1,True,5,Enhertu
+INQ-00012,HCP-00121,2026-04-14,Dosing guidance,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00013,HCP-00008,2026-04-21,Biomarker testing,Safety,HER2-ultralow metastatic breast cancer,Closed,6,False,2,Enhertu
+INQ-00014,HCP-00038,2026-03-02,Subgroup analysis,Comparative,HER2+ metastatic breast cancer,Closed,7,False,5,Enhertu
+INQ-00015,HCP-00227,2026-07-14,Biomarker testing,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,6,False,2,Datroway
+INQ-00016,HCP-00123,2026-06-14,Dosing guidance,Subgroup Analysis,HER2-mutant metastatic NSCLC,Closed,5,False,3,Enhertu
+INQ-00017,HCP-00096,2026-07-11,Subgroup analysis,Safety,EGFR-mutant NSCLC (investigational),Closed,4,False,2,HER3-DXd
+INQ-00018,HCP-00290,2026-06-14,Real-world evidence,Mechanism of Action,TROP2 metastatic NSCLC,In Progress,104,False,3,Datroway
+INQ-00019,HCP-00039,2026-04-27,Dosing guidance,Mechanism of Action,HER2+ metastatic breast cancer,Closed,4,False,3,Enhertu
+INQ-00020,HCP-00029,2026-04-24,Comparative data,Dosing,TROP2 metastatic NSCLC,Closed,6,False,2,Datroway
+INQ-00021,HCP-00299,2026-09-15,Trial enrollment,Dosing,EGFR-mutant NSCLC (investigational),Open,11,False,3,HER3-DXd
+INQ-00022,HCP-00223,2026-04-22,Biomarker testing,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,5,True,5,Vanflyta
+INQ-00023,HCP-00063,2026-04-18,Safety / ILD management,Subgroup Analysis,FLT3-ITD+ acute myeloid leukemia,In Progress,161,False,2,Vanflyta
+INQ-00024,HCP-00076,2026-05-16,Subgroup analysis,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,2,True,3,HER3-DXd
+INQ-00025,HCP-00049,2026-05-14,Real-world evidence,Biomarker,HER2+ metastatic breast cancer,Closed,1,True,2,Enhertu
+INQ-00026,HCP-00280,2026-02-22,Dosing guidance,Safety,EGFR-mutant NSCLC (investigational),Closed,1,True,2,HER3-DXd
+INQ-00027,HCP-00102,2026-03-18,Real-world evidence,Comparative,EGFR-mutant NSCLC (investigational),In Progress,192,False,2,HER3-DXd
+INQ-00028,HCP-00234,2026-06-17,CNS efficacy,Safety,EGFR-mutant NSCLC (investigational),In Progress,101,False,5,HER3-DXd
+INQ-00029,HCP-00131,2026-04-19,Real-world evidence,Comparative,HER2+ metastatic gastric cancer,Closed,8,False,3,Enhertu
+INQ-00030,HCP-00196,2026-04-29,Comparative data,Dosing,HR+/HER2- metastatic breast cancer,Closed,8,False,5,Datroway
+INQ-00031,HCP-00167,2026-02-14,Comparative data,Subgroup Analysis,HER2-ultralow metastatic breast cancer,In Progress,224,False,3,Enhertu
+INQ-00032,HCP-00192,2026-08-29,Comparative data,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Open,28,False,3,Vanflyta
+INQ-00033,HCP-00105,2026-06-24,CNS efficacy,Biomarker,EGFR-mutant NSCLC (investigational),Closed,4,True,5,HER3-DXd
+INQ-00034,HCP-00120,2026-05-17,CNS efficacy,Subgroup Analysis,HR+/HER2- metastatic breast cancer,Closed,8,False,2,Datroway
+INQ-00035,HCP-00210,2026-09-01,Trial enrollment,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00036,HCP-00172,2026-02-19,Subgroup analysis,Biomarker,HR+/HER2- metastatic breast cancer,Closed,1,True,5,Datroway
+INQ-00037,HCP-00184,2026-02-14,Trial enrollment,Mechanism of Action,EGFR-mutant NSCLC (investigational),Open,224,False,2,HER3-DXd
+INQ-00038,HCP-00022,2026-08-27,Efficacy data request,Efficacy,EGFR-mutant NSCLC (investigational),Closed,5,True,5,HER3-DXd
+INQ-00039,HCP-00023,2026-09-06,Subgroup analysis,Biomarker,FLT3-ITD+ acute myeloid leukemia,In Progress,20,False,2,Vanflyta
+INQ-00040,HCP-00033,2026-07-30,Efficacy data request,Subgroup Analysis,HER2-mutant metastatic NSCLC,In Progress,58,False,5,Enhertu
+INQ-00041,HCP-00214,2026-03-09,Safety / ILD management,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,5,False,3,Vanflyta
+INQ-00042,HCP-00023,2026-09-10,Subgroup analysis,Dosing,FLT3-ITD+ acute myeloid leukemia,Open,16,False,2,Vanflyta
+INQ-00043,HCP-00141,2026-08-22,Biomarker testing,Dosing,HER2+ metastatic breast cancer,Closed,4,False,3,Enhertu
+INQ-00044,HCP-00261,2026-06-24,Efficacy data request,Dosing,TROP2 metastatic NSCLC,In Progress,94,False,5,Datroway
+INQ-00045,HCP-00234,2026-02-21,CNS efficacy,Mechanism of Action,TROP2 metastatic NSCLC,Closed,2,True,5,Datroway
+INQ-00046,HCP-00119,2026-02-07,Dosing guidance,Efficacy,EGFR-mutant NSCLC (investigational),Closed,3,True,3,HER3-DXd
+INQ-00047,HCP-00040,2026-03-01,Subgroup analysis,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,8,False,5,HER3-DXd
+INQ-00048,HCP-00070,2026-04-29,CNS efficacy,Mechanism of Action,HR+/HER2- metastatic breast cancer,Closed,6,False,2,Datroway
+INQ-00049,HCP-00252,2026-02-07,Real-world evidence,Biomarker,EGFR-mutant NSCLC (investigational),In Progress,231,False,2,HER3-DXd
+INQ-00050,HCP-00209,2026-04-30,Trial enrollment,Real-World Evidence,TROP2 metastatic NSCLC,Open,149,False,5,Datroway
+INQ-00051,HCP-00006,2026-07-23,Real-world evidence,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Open,65,False,3,HER3-DXd
+INQ-00052,HCP-00213,2026-08-03,Trial enrollment,Real-World Evidence,HER2+ metastatic breast cancer,Closed,1,True,3,Enhertu
+INQ-00053,HCP-00033,2026-04-09,Safety / ILD management,Safety,HER2-mutant metastatic NSCLC,Closed,7,False,5,Enhertu
+INQ-00054,HCP-00284,2026-07-13,Efficacy data request,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Open,75,False,3,Vanflyta
+INQ-00055,HCP-00279,2026-04-10,Trial enrollment,Mechanism of Action,HR+/HER2- metastatic breast cancer,Closed,8,False,5,Datroway
+INQ-00056,HCP-00019,2026-04-01,CNS efficacy,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,5,False,2,Vanflyta
+INQ-00057,HCP-00051,2026-08-03,Subgroup analysis,Safety,HR+/HER2- metastatic breast cancer,Closed,7,False,3,Datroway
+INQ-00058,HCP-00103,2026-08-23,Biomarker testing,Biomarker,FLT3-ITD+ acute myeloid leukemia,Open,34,False,2,Vanflyta
+INQ-00059,HCP-00262,2026-08-16,Biomarker testing,Mechanism of Action,HER2+ metastatic gastric cancer,Closed,8,False,2,Enhertu
+INQ-00060,HCP-00206,2026-09-09,Efficacy data request,Mechanism of Action,HER2+ metastatic gastric cancer,Closed,2,True,2,Enhertu
+INQ-00061,HCP-00055,2026-04-15,Real-world evidence,Comparative,HER2+ metastatic gastric cancer,Closed,2,True,5,Enhertu
+INQ-00062,HCP-00291,2026-03-23,Dosing guidance,Biomarker,FLT3-ITD+ acute myeloid leukemia,In Progress,187,False,5,Vanflyta
+INQ-00063,HCP-00125,2026-04-01,Efficacy data request,Biomarker,EGFR-mutant NSCLC (investigational),Closed,6,False,2,HER3-DXd
+INQ-00064,HCP-00049,2026-02-27,Trial enrollment,Safety,EGFR-mutant NSCLC (investigational),Closed,1,True,3,HER3-DXd
+INQ-00065,HCP-00281,2026-05-18,Biomarker testing,Real-World Evidence,HER2-low metastatic breast cancer,In Progress,131,False,2,Enhertu
+INQ-00066,HCP-00257,2026-07-30,Biomarker testing,Dosing,FLT3-ITD+ acute myeloid leukemia,In Progress,58,False,2,Vanflyta
+INQ-00067,HCP-00047,2026-03-11,Safety / ILD management,Subgroup Analysis,HR+/HER2- metastatic breast cancer,Open,199,False,5,Datroway
+INQ-00068,HCP-00254,2026-01-31,Real-world evidence,Real-World Evidence,HER2+ metastatic breast cancer,In Progress,238,False,5,Enhertu
+INQ-00069,HCP-00027,2026-06-03,CNS efficacy,Dosing,TROP2 metastatic NSCLC,Closed,4,True,5,Datroway
+INQ-00070,HCP-00106,2026-09-14,Real-world evidence,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Open,12,False,2,Vanflyta
+INQ-00071,HCP-00010,2026-06-02,Real-world evidence,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00072,HCP-00119,2026-08-15,Efficacy data request,Safety,EGFR-mutant NSCLC (investigational),Open,42,False,3,HER3-DXd
+INQ-00073,HCP-00269,2026-08-22,Safety / ILD management,Dosing,HER2-low metastatic breast cancer,Closed,3,True,5,Enhertu
+INQ-00074,HCP-00142,2026-04-05,Efficacy data request,Safety,FLT3-ITD+ acute myeloid leukemia,In Progress,174,False,5,Vanflyta
+INQ-00075,HCP-00117,2026-08-28,Comparative data,Mechanism of Action,HER2+ metastatic gastric cancer,Closed,7,False,5,Enhertu
+INQ-00076,HCP-00209,2026-05-21,Efficacy data request,Dosing,TROP2 metastatic NSCLC,Closed,3,False,2,Datroway
+INQ-00077,HCP-00233,2026-03-13,Trial enrollment,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,6,False,3,HER3-DXd
+INQ-00078,HCP-00147,2026-09-10,Biomarker testing,Real-World Evidence,TROP2 metastatic NSCLC,Closed,6,False,3,Datroway
+INQ-00079,HCP-00241,2026-09-23,Efficacy data request,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00080,HCP-00033,2026-09-03,Trial enrollment,Real-World Evidence,HR+/HER2- metastatic breast cancer,Closed,1,True,5,Datroway
+INQ-00081,HCP-00228,2026-04-06,Real-world evidence,Real-World Evidence,EGFR-mutant NSCLC (investigational),Open,173,False,2,HER3-DXd
+INQ-00082,HCP-00249,2026-01-31,Safety / ILD management,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,4,False,3,HER3-DXd
+INQ-00083,HCP-00134,2026-05-28,Subgroup analysis,Subgroup Analysis,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,5,Vanflyta
+INQ-00084,HCP-00279,2026-07-27,Trial enrollment,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,8,False,2,Datroway
+INQ-00085,HCP-00147,2026-05-21,Subgroup analysis,Safety,FLT3-ITD+ acute myeloid leukemia,In Progress,128,False,3,Vanflyta
+INQ-00086,HCP-00300,2026-04-03,Dosing guidance,Biomarker,HR+/HER2- metastatic breast cancer,Closed,6,False,3,Datroway
+INQ-00087,HCP-00242,2026-02-03,Dosing guidance,Comparative,EGFR-mutant NSCLC (investigational),Closed,5,True,5,HER3-DXd
+INQ-00088,HCP-00114,2026-08-29,Subgroup analysis,Subgroup Analysis,HER2+ metastatic gastric cancer,Closed,8,False,3,Enhertu
+INQ-00089,HCP-00061,2026-07-17,Efficacy data request,Biomarker,HER2-low metastatic breast cancer,Open,71,False,3,Enhertu
+INQ-00090,HCP-00104,2026-07-06,Efficacy data request,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,6,False,5,Vanflyta
+INQ-00091,HCP-00055,2026-08-31,Safety / ILD management,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,3,True,5,HER3-DXd
+INQ-00092,HCP-00021,2026-07-27,Trial enrollment,Real-World Evidence,HER2-low metastatic breast cancer,In Progress,61,False,2,Enhertu
+INQ-00093,HCP-00028,2026-04-20,CNS efficacy,Subgroup Analysis,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,5,Vanflyta
+INQ-00094,HCP-00266,2026-07-27,Safety / ILD management,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,3,Vanflyta
+INQ-00095,HCP-00177,2026-03-23,Real-world evidence,Biomarker,TROP2 metastatic NSCLC,In Progress,187,False,3,Datroway
+INQ-00096,HCP-00154,2026-04-02,Real-world evidence,Dosing,HER2-ultralow metastatic breast cancer,Closed,8,False,3,Enhertu
+INQ-00097,HCP-00240,2026-02-17,Subgroup analysis,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,8,False,3,Vanflyta
+INQ-00098,HCP-00027,2026-05-07,Safety / ILD management,Mechanism of Action,HER2+ metastatic gastric cancer,Closed,4,True,5,Enhertu
+INQ-00099,HCP-00091,2026-02-02,CNS efficacy,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,1,True,3,HER3-DXd
+INQ-00100,HCP-00152,2026-06-11,Subgroup analysis,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,3,True,5,HER3-DXd
+INQ-00101,HCP-00292,2026-03-04,Safety / ILD management,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,4,True,5,Vanflyta
+INQ-00102,HCP-00034,2026-07-11,Biomarker testing,Subgroup Analysis,HER2-low metastatic breast cancer,Closed,6,False,5,Enhertu
+INQ-00103,HCP-00067,2026-03-25,CNS efficacy,Comparative,HER2-mutant metastatic NSCLC,Closed,2,True,5,Enhertu
+INQ-00104,HCP-00041,2026-04-06,Dosing guidance,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,3,True,3,Vanflyta
+INQ-00105,HCP-00283,2026-07-14,Subgroup analysis,Dosing,HR+/HER2- metastatic breast cancer,In Progress,74,False,2,Datroway
+INQ-00106,HCP-00055,2026-09-21,Dosing guidance,Efficacy,EGFR-mutant NSCLC (investigational),In Progress,5,False,2,HER3-DXd
+INQ-00107,HCP-00265,2026-09-04,Trial enrollment,Dosing,EGFR-mutant NSCLC (investigational),Closed,4,True,5,HER3-DXd
+INQ-00108,HCP-00213,2026-04-15,Comparative data,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,2,True,2,HER3-DXd
+INQ-00109,HCP-00264,2026-08-29,CNS efficacy,Efficacy,TROP2 metastatic NSCLC,Closed,1,True,3,Datroway
+INQ-00110,HCP-00050,2026-02-05,Efficacy data request,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Open,233,False,2,HER3-DXd
+INQ-00111,HCP-00066,2026-04-17,Subgroup analysis,Biomarker,HER2+ metastatic breast cancer,Closed,4,True,5,Enhertu
+INQ-00112,HCP-00227,2026-04-29,Safety / ILD management,Comparative,EGFR-mutant NSCLC (investigational),Open,150,False,2,HER3-DXd
+INQ-00113,HCP-00154,2026-07-03,Subgroup analysis,Subgroup Analysis,HER2-mutant metastatic NSCLC,Closed,1,True,5,Enhertu
+INQ-00114,HCP-00161,2026-08-24,Dosing guidance,Mechanism of Action,TROP2 metastatic NSCLC,Open,33,False,3,Datroway
+INQ-00115,HCP-00279,2026-04-26,Dosing guidance,Biomarker,TROP2 metastatic NSCLC,Closed,6,False,5,Datroway
+INQ-00116,HCP-00132,2026-03-04,Biomarker testing,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,In Progress,206,False,3,Vanflyta
+INQ-00117,HCP-00251,2026-05-13,Efficacy data request,Safety,EGFR-mutant NSCLC (investigational),Open,136,False,5,HER3-DXd
+INQ-00118,HCP-00120,2026-08-29,Biomarker testing,Biomarker,EGFR-mutant NSCLC (investigational),Closed,2,True,3,HER3-DXd
+INQ-00119,HCP-00073,2026-07-24,CNS efficacy,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,5,Vanflyta
+INQ-00120,HCP-00267,2026-02-16,Comparative data,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,6,False,3,Vanflyta
+INQ-00121,HCP-00210,2026-05-31,Safety / ILD management,Biomarker,HR+/HER2- metastatic breast cancer,Open,118,False,3,Datroway
+INQ-00122,HCP-00299,2026-02-27,Efficacy data request,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00123,HCP-00224,2026-03-28,Biomarker testing,Efficacy,FLT3-ITD+ acute myeloid leukemia,In Progress,182,False,3,Vanflyta
+INQ-00124,HCP-00239,2026-08-01,CNS efficacy,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,8,False,3,Vanflyta
+INQ-00125,HCP-00264,2026-05-02,CNS efficacy,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,8,False,3,Vanflyta
+INQ-00126,HCP-00193,2026-02-10,Dosing guidance,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,3,True,5,Datroway
+INQ-00127,HCP-00208,2026-02-18,Efficacy data request,Comparative,EGFR-mutant NSCLC (investigational),Closed,2,True,2,HER3-DXd
+INQ-00128,HCP-00035,2026-07-22,Safety / ILD management,Efficacy,HR+/HER2- metastatic breast cancer,In Progress,66,False,5,Datroway
+INQ-00129,HCP-00300,2026-04-23,Real-world evidence,Safety,TROP2 metastatic NSCLC,Closed,6,False,2,Datroway
+INQ-00130,HCP-00172,2026-07-18,Biomarker testing,Dosing,EGFR-mutant NSCLC (investigational),Closed,5,False,2,HER3-DXd
+INQ-00131,HCP-00168,2026-08-16,Comparative data,Comparative,EGFR-mutant NSCLC (investigational),Closed,4,False,2,HER3-DXd
+INQ-00132,HCP-00158,2026-02-24,Real-world evidence,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,7,False,3,HER3-DXd
+INQ-00133,HCP-00262,2026-07-20,CNS efficacy,Subgroup Analysis,HER2+ metastatic breast cancer,Closed,6,False,3,Enhertu
+INQ-00134,HCP-00037,2026-04-26,Efficacy data request,Dosing,EGFR-mutant NSCLC (investigational),Closed,8,False,5,HER3-DXd
+INQ-00135,HCP-00100,2026-02-04,Real-world evidence,Efficacy,FLT3-ITD+ acute myeloid leukemia,Open,234,False,5,Vanflyta
+INQ-00136,HCP-00136,2026-03-07,Biomarker testing,Dosing,HER2+ metastatic gastric cancer,In Progress,203,False,3,Enhertu
+INQ-00137,HCP-00231,2026-08-28,CNS efficacy,Efficacy,FLT3-ITD+ acute myeloid leukemia,Closed,5,False,2,Vanflyta
+INQ-00138,HCP-00284,2026-09-02,Efficacy data request,Safety,HER2-ultralow metastatic breast cancer,In Progress,24,False,2,Enhertu
+INQ-00139,HCP-00092,2026-02-06,CNS efficacy,Efficacy,HER2-low metastatic breast cancer,Closed,6,False,2,Enhertu
+INQ-00140,HCP-00125,2026-06-20,Real-world evidence,Comparative,FLT3-ITD+ acute myeloid leukemia,In Progress,98,False,5,Vanflyta
+INQ-00141,HCP-00117,2026-01-29,Efficacy data request,Biomarker,HER2+ metastatic breast cancer,Closed,2,True,2,Enhertu
+INQ-00142,HCP-00180,2026-02-17,Real-world evidence,Biomarker,HER2-low metastatic breast cancer,Closed,5,False,2,Enhertu
+INQ-00143,HCP-00006,2026-09-04,Real-world evidence,Efficacy,HR+/HER2- metastatic breast cancer,Closed,4,False,3,Datroway
+INQ-00144,HCP-00160,2026-06-28,Biomarker testing,Dosing,EGFR-mutant NSCLC (investigational),In Progress,90,False,2,HER3-DXd
+INQ-00145,HCP-00275,2026-07-08,Dosing guidance,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,4,False,3,HER3-DXd
+INQ-00146,HCP-00117,2026-06-01,Safety / ILD management,Biomarker,HR+/HER2- metastatic breast cancer,Open,117,False,3,Datroway
+INQ-00147,HCP-00048,2026-05-19,Biomarker testing,Biomarker,HR+/HER2- metastatic breast cancer,Closed,1,True,5,Datroway
+INQ-00148,HCP-00299,2026-02-08,Safety / ILD management,Biomarker,TROP2 metastatic NSCLC,Closed,3,True,5,Datroway
+INQ-00149,HCP-00051,2026-09-09,Subgroup analysis,Safety,HER2+ metastatic gastric cancer,Closed,3,True,3,Enhertu
+INQ-00150,HCP-00200,2026-05-09,Biomarker testing,Biomarker,EGFR-mutant NSCLC (investigational),Open,140,False,5,HER3-DXd
+INQ-00151,HCP-00020,2026-05-14,Biomarker testing,Mechanism of Action,HER2+ metastatic gastric cancer,Open,135,False,3,Enhertu
+INQ-00152,HCP-00127,2026-08-14,Safety / ILD management,Dosing,TROP2 metastatic NSCLC,Closed,5,True,5,Datroway
+INQ-00153,HCP-00193,2026-04-09,Real-world evidence,Real-World Evidence,TROP2 metastatic NSCLC,In Progress,170,False,2,Datroway
+INQ-00154,HCP-00142,2026-06-12,Dosing guidance,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,3,False,2,Vanflyta
+INQ-00155,HCP-00086,2026-02-28,Dosing guidance,Comparative,FLT3-ITD+ acute myeloid leukemia,Open,210,False,5,Vanflyta
+INQ-00156,HCP-00230,2026-06-23,Efficacy data request,Real-World Evidence,HR+/HER2- metastatic breast cancer,Closed,1,True,3,Datroway
+INQ-00157,HCP-00165,2026-08-28,Comparative data,Efficacy,FLT3-ITD+ acute myeloid leukemia,Closed,4,False,2,Vanflyta
+INQ-00158,HCP-00222,2026-03-17,Efficacy data request,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,3,False,2,HER3-DXd
+INQ-00159,HCP-00234,2026-03-13,Subgroup analysis,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,5,False,2,HER3-DXd
+INQ-00160,HCP-00140,2026-03-19,Efficacy data request,Real-World Evidence,HR+/HER2- metastatic breast cancer,Closed,7,False,5,Datroway
+INQ-00161,HCP-00292,2026-07-04,Safety / ILD management,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,5,True,5,Vanflyta
+INQ-00162,HCP-00033,2026-09-18,Comparative data,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,3,False,2,Vanflyta
+INQ-00163,HCP-00200,2026-07-28,Comparative data,Comparative,HER2-low metastatic breast cancer,Closed,2,True,2,Enhertu
+INQ-00164,HCP-00001,2026-07-03,Biomarker testing,Safety,EGFR-mutant NSCLC (investigational),In Progress,85,False,2,HER3-DXd
+INQ-00165,HCP-00061,2026-06-22,Subgroup analysis,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,5,False,2,Vanflyta
+INQ-00166,HCP-00210,2026-07-10,Comparative data,Safety,EGFR-mutant NSCLC (investigational),Closed,1,True,3,HER3-DXd
+INQ-00167,HCP-00114,2026-08-06,Biomarker testing,Dosing,HER2-low metastatic breast cancer,In Progress,51,False,2,Enhertu
+INQ-00168,HCP-00208,2026-02-10,Biomarker testing,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,2,True,5,HER3-DXd
+INQ-00169,HCP-00095,2026-04-10,CNS efficacy,Subgroup Analysis,HER2-mutant metastatic NSCLC,Closed,1,True,3,Enhertu
+INQ-00170,HCP-00019,2026-07-20,Safety / ILD management,Biomarker,HER2-ultralow metastatic breast cancer,Closed,2,True,2,Enhertu
+INQ-00171,HCP-00204,2026-06-03,Subgroup analysis,Biomarker,HER2-ultralow metastatic breast cancer,Closed,4,False,3,Enhertu
+INQ-00172,HCP-00031,2026-08-10,Safety / ILD management,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,8,False,2,Vanflyta
+INQ-00173,HCP-00169,2026-07-27,Real-world evidence,Dosing,HR+/HER2- metastatic breast cancer,Closed,3,True,3,Datroway
+INQ-00174,HCP-00177,2026-05-19,CNS efficacy,Comparative,EGFR-mutant NSCLC (investigational),Closed,7,False,3,HER3-DXd
+INQ-00175,HCP-00004,2026-03-02,Subgroup analysis,Efficacy,EGFR-mutant NSCLC (investigational),In Progress,208,False,2,HER3-DXd
+INQ-00176,HCP-00196,2026-07-07,CNS efficacy,Mechanism of Action,HER2-ultralow metastatic breast cancer,In Progress,81,False,5,Enhertu
+INQ-00177,HCP-00218,2026-08-04,CNS efficacy,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,3,Vanflyta
+INQ-00178,HCP-00047,2026-08-26,Efficacy data request,Real-World Evidence,HER2+ metastatic breast cancer,Closed,5,False,3,Enhertu
+INQ-00179,HCP-00160,2026-09-22,CNS efficacy,Efficacy,EGFR-mutant NSCLC (investigational),Closed,3,True,3,HER3-DXd
+INQ-00180,HCP-00083,2026-08-19,Efficacy data request,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,5,False,2,Vanflyta
+INQ-00181,HCP-00285,2026-04-30,Real-world evidence,Mechanism of Action,TROP2 metastatic NSCLC,Closed,2,True,2,Datroway
+INQ-00182,HCP-00019,2026-08-02,Real-world evidence,Comparative,HER2+ metastatic breast cancer,Closed,7,False,2,Enhertu
+INQ-00183,HCP-00191,2026-05-23,Trial enrollment,Real-World Evidence,HER2-low metastatic breast cancer,Closed,8,False,5,Enhertu
+INQ-00184,HCP-00127,2026-02-19,Efficacy data request,Safety,TROP2 metastatic NSCLC,Closed,1,True,3,Datroway
+INQ-00185,HCP-00071,2026-05-27,Safety / ILD management,Subgroup Analysis,HER2-ultralow metastatic breast cancer,Closed,5,False,2,Enhertu
+INQ-00186,HCP-00271,2026-08-30,Comparative data,Subgroup Analysis,HR+/HER2- metastatic breast cancer,Open,27,False,2,Datroway
+INQ-00187,HCP-00053,2026-07-25,Safety / ILD management,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,6,False,5,HER3-DXd
+INQ-00188,HCP-00158,2026-05-23,Safety / ILD management,Comparative,EGFR-mutant NSCLC (investigational),Closed,8,False,2,HER3-DXd
+INQ-00189,HCP-00288,2026-03-03,Biomarker testing,Subgroup Analysis,HER2+ metastatic breast cancer,Closed,6,False,5,Enhertu
+INQ-00190,HCP-00107,2026-07-02,Subgroup analysis,Comparative,HER2-mutant metastatic NSCLC,Closed,2,True,3,Enhertu
+INQ-00191,HCP-00059,2026-08-21,Comparative data,Efficacy,HR+/HER2- metastatic breast cancer,Open,36,False,2,Datroway
+INQ-00192,HCP-00022,2026-09-02,Real-world evidence,Safety,HER2-low metastatic breast cancer,Closed,2,True,5,Enhertu
+INQ-00193,HCP-00141,2026-05-29,Trial enrollment,Biomarker,EGFR-mutant NSCLC (investigational),Closed,5,False,3,HER3-DXd
+INQ-00194,HCP-00029,2026-04-12,Safety / ILD management,Real-World Evidence,HER2-ultralow metastatic breast cancer,Closed,1,True,2,Enhertu
+INQ-00195,HCP-00089,2026-04-19,Efficacy data request,Efficacy,EGFR-mutant NSCLC (investigational),Open,160,False,2,HER3-DXd
+INQ-00196,HCP-00258,2026-03-04,Dosing guidance,Efficacy,HER2-ultralow metastatic breast cancer,In Progress,206,False,2,Enhertu
+INQ-00197,HCP-00111,2026-07-05,Biomarker testing,Biomarker,HER2-ultralow metastatic breast cancer,Closed,5,False,2,Enhertu
+INQ-00198,HCP-00144,2026-06-02,Efficacy data request,Biomarker,HER2-mutant metastatic NSCLC,Closed,4,False,3,Enhertu
+INQ-00199,HCP-00212,2026-08-04,Biomarker testing,Comparative,HER2+ metastatic breast cancer,Closed,4,True,5,Enhertu
+INQ-00200,HCP-00191,2026-06-15,Biomarker testing,Subgroup Analysis,HER2+ metastatic breast cancer,Closed,7,False,3,Enhertu
+INQ-00201,HCP-00253,2026-08-08,Efficacy data request,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Open,49,False,3,Vanflyta
+INQ-00202,HCP-00116,2026-07-19,Real-world evidence,Mechanism of Action,TROP2 metastatic NSCLC,Closed,4,False,3,Datroway
+INQ-00203,HCP-00281,2026-02-28,Dosing guidance,Comparative,EGFR-mutant NSCLC (investigational),Open,210,False,5,HER3-DXd
+INQ-00204,HCP-00260,2026-07-26,Trial enrollment,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Open,62,False,2,Vanflyta
+INQ-00205,HCP-00067,2026-03-17,Comparative data,Safety,EGFR-mutant NSCLC (investigational),Closed,1,True,2,HER3-DXd
+INQ-00206,HCP-00258,2026-05-24,Dosing guidance,Efficacy,HER2-low metastatic breast cancer,Closed,1,True,5,Enhertu
+INQ-00207,HCP-00187,2026-09-11,Real-world evidence,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,4,False,2,Datroway
+INQ-00208,HCP-00252,2026-06-01,Dosing guidance,Mechanism of Action,HER2-mutant metastatic NSCLC,Closed,3,True,3,Enhertu
+INQ-00209,HCP-00028,2026-06-16,Efficacy data request,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,4,True,5,Vanflyta
+INQ-00210,HCP-00238,2026-03-11,Comparative data,Biomarker,HER2+ metastatic breast cancer,Closed,4,True,5,Enhertu
+INQ-00211,HCP-00181,2026-05-06,CNS efficacy,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,5,Vanflyta
+INQ-00212,HCP-00284,2026-09-11,Real-world evidence,Comparative,HER2+ metastatic gastric cancer,Closed,2,True,5,Enhertu
+INQ-00213,HCP-00039,2026-09-19,Real-world evidence,Safety,TROP2 metastatic NSCLC,In Progress,7,False,2,Datroway
+INQ-00214,HCP-00022,2026-01-31,Real-world evidence,Efficacy,HER2-mutant metastatic NSCLC,In Progress,238,False,5,Enhertu
+INQ-00215,HCP-00041,2026-09-11,Dosing guidance,Subgroup Analysis,HER2-ultralow metastatic breast cancer,Closed,7,False,5,Enhertu
+INQ-00216,HCP-00225,2026-01-31,Subgroup analysis,Safety,EGFR-mutant NSCLC (investigational),Closed,4,False,3,HER3-DXd
+INQ-00217,HCP-00120,2026-02-04,Biomarker testing,Real-World Evidence,HER2-ultralow metastatic breast cancer,Open,234,False,2,Enhertu
+INQ-00218,HCP-00073,2026-05-06,Biomarker testing,Real-World Evidence,HER2-ultralow metastatic breast cancer,Closed,1,True,5,Enhertu
+INQ-00219,HCP-00222,2026-05-14,Subgroup analysis,Dosing,FLT3-ITD+ acute myeloid leukemia,Open,135,False,2,Vanflyta
+INQ-00220,HCP-00190,2026-09-19,Biomarker testing,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,8,False,3,HER3-DXd
+INQ-00221,HCP-00283,2026-04-16,Real-world evidence,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,4,False,2,HER3-DXd
+INQ-00222,HCP-00215,2026-07-21,Dosing guidance,Real-World Evidence,HER2-ultralow metastatic breast cancer,Closed,2,True,2,Enhertu
+INQ-00223,HCP-00192,2026-05-15,Subgroup analysis,Comparative,TROP2 metastatic NSCLC,In Progress,134,False,2,Datroway
+INQ-00224,HCP-00249,2026-06-18,Dosing guidance,Comparative,TROP2 metastatic NSCLC,Closed,4,False,2,Datroway
+INQ-00225,HCP-00038,2026-06-01,Dosing guidance,Biomarker,EGFR-mutant NSCLC (investigational),Closed,1,True,2,HER3-DXd
+INQ-00226,HCP-00171,2026-04-22,Comparative data,Safety,EGFR-mutant NSCLC (investigational),Closed,6,False,5,HER3-DXd
+INQ-00227,HCP-00074,2026-07-30,CNS efficacy,Efficacy,TROP2 metastatic NSCLC,Closed,4,True,5,Datroway
+INQ-00228,HCP-00023,2026-05-27,Efficacy data request,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,4,False,2,Vanflyta
+INQ-00229,HCP-00035,2026-06-11,Comparative data,Efficacy,HR+/HER2- metastatic breast cancer,Open,107,False,5,Datroway
+INQ-00230,HCP-00289,2026-08-10,Dosing guidance,Biomarker,HR+/HER2- metastatic breast cancer,In Progress,47,False,5,Datroway
+INQ-00231,HCP-00213,2026-03-07,Dosing guidance,Comparative,FLT3-ITD+ acute myeloid leukemia,In Progress,203,False,2,Vanflyta
+INQ-00232,HCP-00260,2026-09-01,Subgroup analysis,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,5,False,3,HER3-DXd
+INQ-00233,HCP-00124,2026-02-01,CNS efficacy,Subgroup Analysis,HER2-mutant metastatic NSCLC,Closed,4,True,5,Enhertu
+INQ-00234,HCP-00010,2026-03-21,Trial enrollment,Safety,HER2-ultralow metastatic breast cancer,Closed,4,False,2,Enhertu
+INQ-00235,HCP-00071,2026-03-09,Biomarker testing,Comparative,EGFR-mutant NSCLC (investigational),Closed,3,True,3,HER3-DXd
+INQ-00236,HCP-00126,2026-03-28,Real-world evidence,Subgroup Analysis,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,2,Vanflyta
+INQ-00237,HCP-00073,2026-07-03,Biomarker testing,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,4,False,3,Vanflyta
+INQ-00238,HCP-00027,2026-02-14,Comparative data,Subgroup Analysis,TROP2 metastatic NSCLC,Open,224,False,5,Datroway
+INQ-00239,HCP-00227,2026-08-02,Trial enrollment,Mechanism of Action,HR+/HER2- metastatic breast cancer,Closed,4,False,2,Datroway
+INQ-00240,HCP-00009,2026-02-24,Comparative data,Dosing,TROP2 metastatic NSCLC,Open,214,False,2,Datroway
+INQ-00241,HCP-00192,2026-05-12,Efficacy data request,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,8,False,2,Vanflyta
+INQ-00242,HCP-00264,2026-07-21,Comparative data,Comparative,EGFR-mutant NSCLC (investigational),Closed,2,True,5,HER3-DXd
+INQ-00243,HCP-00297,2026-08-15,Dosing guidance,Comparative,EGFR-mutant NSCLC (investigational),In Progress,42,False,3,HER3-DXd
+INQ-00244,HCP-00130,2026-03-10,Trial enrollment,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,2,True,2,Vanflyta
+INQ-00245,HCP-00163,2026-08-22,Trial enrollment,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,4,False,3,Vanflyta
+INQ-00246,HCP-00236,2026-03-04,Dosing guidance,Biomarker,TROP2 metastatic NSCLC,Open,206,False,3,Datroway
+INQ-00247,HCP-00177,2026-09-06,Safety / ILD management,Subgroup Analysis,HER2-low metastatic breast cancer,Closed,3,False,2,Enhertu
+INQ-00248,HCP-00117,2026-02-06,Biomarker testing,Comparative,HR+/HER2- metastatic breast cancer,Closed,7,False,3,Datroway
+INQ-00249,HCP-00101,2026-05-20,Biomarker testing,Efficacy,FLT3-ITD+ acute myeloid leukemia,Closed,6,False,3,Vanflyta
+INQ-00250,HCP-00166,2026-09-16,Dosing guidance,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,3,False,2,HER3-DXd
+INQ-00251,HCP-00030,2026-03-24,CNS efficacy,Efficacy,EGFR-mutant NSCLC (investigational),Closed,3,False,2,HER3-DXd
+INQ-00252,HCP-00013,2026-06-08,CNS efficacy,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,2,True,2,Vanflyta
+INQ-00253,HCP-00235,2026-09-23,Efficacy data request,Mechanism of Action,HER2-mutant metastatic NSCLC,In Progress,3,False,2,Enhertu
+INQ-00254,HCP-00085,2026-07-15,Real-world evidence,Subgroup Analysis,TROP2 metastatic NSCLC,Open,73,False,5,Datroway
+INQ-00255,HCP-00082,2026-06-02,CNS efficacy,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Closed,2,True,2,HER3-DXd
+INQ-00256,HCP-00211,2026-07-21,Trial enrollment,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,2,Vanflyta
+INQ-00257,HCP-00016,2026-09-02,CNS efficacy,Comparative,HR+/HER2- metastatic breast cancer,Closed,3,True,5,Datroway
+INQ-00258,HCP-00034,2026-09-23,Dosing guidance,Comparative,HER2+ metastatic breast cancer,In Progress,3,False,2,Enhertu
+INQ-00259,HCP-00088,2026-09-13,Subgroup analysis,Real-World Evidence,EGFR-mutant NSCLC (investigational),Open,13,False,5,HER3-DXd
+INQ-00260,HCP-00003,2026-04-25,Efficacy data request,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,7,False,3,HER3-DXd
+INQ-00261,HCP-00149,2026-08-13,Comparative data,Comparative,HR+/HER2- metastatic breast cancer,Closed,4,True,5,Datroway
+INQ-00262,HCP-00265,2026-02-10,Comparative data,Biomarker,EGFR-mutant NSCLC (investigational),Closed,2,True,2,HER3-DXd
+INQ-00263,HCP-00278,2026-05-08,Biomarker testing,Safety,TROP2 metastatic NSCLC,Closed,1,True,3,Datroway
+INQ-00264,HCP-00261,2026-03-08,Biomarker testing,Safety,HER2+ metastatic breast cancer,Open,202,False,2,Enhertu
+INQ-00265,HCP-00059,2026-09-06,Real-world evidence,Dosing,FLT3-ITD+ acute myeloid leukemia,In Progress,20,False,3,Vanflyta
+INQ-00266,HCP-00189,2026-05-11,Comparative data,Dosing,FLT3-ITD+ acute myeloid leukemia,Open,138,False,3,Vanflyta
+INQ-00267,HCP-00176,2026-09-01,Dosing guidance,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,In Progress,25,False,3,Vanflyta
+INQ-00268,HCP-00131,2026-06-02,Safety / ILD management,Efficacy,EGFR-mutant NSCLC (investigational),Open,116,False,2,HER3-DXd
+INQ-00269,HCP-00024,2026-05-09,Real-world evidence,Safety,EGFR-mutant NSCLC (investigational),In Progress,140,False,5,HER3-DXd
+INQ-00270,HCP-00069,2026-02-27,Comparative data,Safety,HER2+ metastatic breast cancer,Open,211,False,3,Enhertu
+INQ-00271,HCP-00156,2026-04-27,Biomarker testing,Efficacy,TROP2 metastatic NSCLC,Closed,8,False,3,Datroway
+INQ-00272,HCP-00037,2026-03-18,Subgroup analysis,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,3,True,3,Vanflyta
+INQ-00273,HCP-00264,2026-05-20,Trial enrollment,Efficacy,FLT3-ITD+ acute myeloid leukemia,In Progress,129,False,3,Vanflyta
+INQ-00274,HCP-00079,2026-02-19,Subgroup analysis,Mechanism of Action,HER2+ metastatic gastric cancer,Closed,7,False,3,Enhertu
+INQ-00275,HCP-00249,2026-03-23,Efficacy data request,Subgroup Analysis,HR+/HER2- metastatic breast cancer,Open,187,False,2,Datroway
+INQ-00276,HCP-00218,2026-06-22,Real-world evidence,Comparative,EGFR-mutant NSCLC (investigational),Open,96,False,3,HER3-DXd
+INQ-00277,HCP-00117,2026-06-13,Trial enrollment,Biomarker,TROP2 metastatic NSCLC,In Progress,105,False,5,Datroway
+INQ-00278,HCP-00253,2026-06-29,Dosing guidance,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,4,False,3,Vanflyta
+INQ-00279,HCP-00046,2026-08-22,Efficacy data request,Comparative,TROP2 metastatic NSCLC,Closed,1,True,2,Datroway
+INQ-00280,HCP-00242,2026-05-28,Efficacy data request,Biomarker,HR+/HER2- metastatic breast cancer,In Progress,121,False,3,Datroway
+INQ-00281,HCP-00237,2026-03-22,Biomarker testing,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,In Progress,188,False,5,Vanflyta
+INQ-00282,HCP-00271,2026-03-16,Comparative data,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,5,True,5,Vanflyta
+INQ-00283,HCP-00178,2026-07-20,Comparative data,Mechanism of Action,HER2+ metastatic breast cancer,Open,68,False,5,Enhertu
+INQ-00284,HCP-00283,2026-08-14,CNS efficacy,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,3,False,2,HER3-DXd
+INQ-00285,HCP-00199,2026-05-25,Dosing guidance,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,3,False,2,Vanflyta
+INQ-00286,HCP-00290,2026-04-05,CNS efficacy,Comparative,EGFR-mutant NSCLC (investigational),Open,174,False,5,HER3-DXd
+INQ-00287,HCP-00220,2026-05-26,Subgroup analysis,Mechanism of Action,HER2-low metastatic breast cancer,Closed,5,False,2,Enhertu
+INQ-00288,HCP-00169,2026-09-19,CNS efficacy,Real-World Evidence,HER2+ metastatic breast cancer,Closed,3,True,5,Enhertu
+INQ-00289,HCP-00093,2026-07-22,Safety / ILD management,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,In Progress,66,False,2,Vanflyta
+INQ-00290,HCP-00015,2026-08-24,Safety / ILD management,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,2,Vanflyta
+INQ-00291,HCP-00112,2026-08-21,Subgroup analysis,Real-World Evidence,HER2+ metastatic breast cancer,In Progress,36,False,3,Enhertu
+INQ-00292,HCP-00236,2026-06-29,Dosing guidance,Mechanism of Action,HER2-mutant metastatic NSCLC,Closed,2,True,2,Enhertu
+INQ-00293,HCP-00156,2026-06-17,Comparative data,Dosing,HER2+ metastatic gastric cancer,Closed,6,False,3,Enhertu
+INQ-00294,HCP-00002,2026-02-13,Subgroup analysis,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,2,Vanflyta
+INQ-00295,HCP-00078,2026-06-28,Real-world evidence,Mechanism of Action,TROP2 metastatic NSCLC,Closed,1,True,2,Datroway
+INQ-00296,HCP-00038,2026-04-24,Safety / ILD management,Real-World Evidence,HR+/HER2- metastatic breast cancer,In Progress,155,False,3,Datroway
+INQ-00297,HCP-00230,2026-07-08,CNS efficacy,Comparative,HR+/HER2- metastatic breast cancer,In Progress,80,False,5,Datroway
+INQ-00298,HCP-00256,2026-08-12,Subgroup analysis,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00299,HCP-00232,2026-05-28,Safety / ILD management,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,7,False,2,HER3-DXd
+INQ-00300,HCP-00109,2026-09-08,Real-world evidence,Comparative,EGFR-mutant NSCLC (investigational),Open,18,False,3,HER3-DXd
+INQ-00301,HCP-00196,2026-07-08,Biomarker testing,Efficacy,HER2-low metastatic breast cancer,In Progress,80,False,3,Enhertu
+INQ-00302,HCP-00035,2026-07-09,Efficacy data request,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,5,False,2,Vanflyta
+INQ-00303,HCP-00125,2026-09-05,Biomarker testing,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,3,True,5,Datroway
+INQ-00304,HCP-00166,2026-07-07,Safety / ILD management,Real-World Evidence,HER2+ metastatic breast cancer,Open,81,False,5,Enhertu
+INQ-00305,HCP-00137,2026-02-18,Trial enrollment,Safety,HER2-mutant metastatic NSCLC,Closed,2,True,3,Enhertu
+INQ-00306,HCP-00200,2026-08-24,Biomarker testing,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,2,True,3,Vanflyta
+INQ-00307,HCP-00250,2026-02-08,CNS efficacy,Mechanism of Action,HER2-ultralow metastatic breast cancer,Open,230,False,5,Enhertu
+INQ-00308,HCP-00023,2026-05-26,Real-world evidence,Comparative,TROP2 metastatic NSCLC,Closed,6,False,3,Datroway
+INQ-00309,HCP-00107,2026-02-25,Trial enrollment,Real-World Evidence,EGFR-mutant NSCLC (investigational),Open,213,False,3,HER3-DXd
+INQ-00310,HCP-00034,2026-04-30,Safety / ILD management,Real-World Evidence,EGFR-mutant NSCLC (investigational),Open,149,False,3,HER3-DXd
+INQ-00311,HCP-00119,2026-03-06,Efficacy data request,Subgroup Analysis,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,3,Vanflyta
+INQ-00312,HCP-00057,2026-08-04,Comparative data,Efficacy,EGFR-mutant NSCLC (investigational),Closed,8,False,3,HER3-DXd
+INQ-00313,HCP-00116,2026-05-12,Real-world evidence,Efficacy,HR+/HER2- metastatic breast cancer,Closed,8,False,2,Datroway
+INQ-00314,HCP-00214,2026-07-03,Safety / ILD management,Dosing,EGFR-mutant NSCLC (investigational),Closed,1,True,3,HER3-DXd
+INQ-00315,HCP-00133,2026-06-30,Biomarker testing,Real-World Evidence,HER2+ metastatic breast cancer,In Progress,88,False,5,Enhertu
+INQ-00316,HCP-00293,2026-05-05,Safety / ILD management,Dosing,EGFR-mutant NSCLC (investigational),In Progress,144,False,5,HER3-DXd
+INQ-00317,HCP-00029,2026-04-10,Real-world evidence,Real-World Evidence,EGFR-mutant NSCLC (investigational),In Progress,169,False,2,HER3-DXd
+INQ-00318,HCP-00189,2026-04-27,Real-world evidence,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,3,True,5,Vanflyta
+INQ-00319,HCP-00117,2026-03-05,Biomarker testing,Safety,HER2-mutant metastatic NSCLC,Open,205,False,5,Enhertu
+INQ-00320,HCP-00157,2026-05-02,Comparative data,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,6,False,3,HER3-DXd
+INQ-00321,HCP-00247,2026-08-07,Efficacy data request,Mechanism of Action,HER2-mutant metastatic NSCLC,In Progress,50,False,2,Enhertu
+INQ-00322,HCP-00167,2026-05-22,Trial enrollment,Dosing,HR+/HER2- metastatic breast cancer,In Progress,127,False,5,Datroway
+INQ-00323,HCP-00266,2026-06-04,Trial enrollment,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,1,True,2,HER3-DXd
+INQ-00324,HCP-00179,2026-04-20,Safety / ILD management,Biomarker,EGFR-mutant NSCLC (investigational),Closed,6,False,5,HER3-DXd
+INQ-00325,HCP-00072,2026-08-26,Dosing guidance,Real-World Evidence,HR+/HER2- metastatic breast cancer,Closed,3,True,5,Datroway
+INQ-00326,HCP-00299,2026-02-02,Efficacy data request,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Open,236,False,3,Vanflyta
+INQ-00327,HCP-00177,2026-06-04,Subgroup analysis,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,6,False,3,Vanflyta
+INQ-00328,HCP-00285,2026-02-21,Real-world evidence,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,2,True,2,Vanflyta
+INQ-00329,HCP-00148,2026-05-01,CNS efficacy,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,6,False,5,Vanflyta
+INQ-00330,HCP-00002,2026-06-18,Trial enrollment,Safety,HER2+ metastatic gastric cancer,Closed,3,False,2,Enhertu
+INQ-00331,HCP-00163,2026-03-25,CNS efficacy,Comparative,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,3,Vanflyta
+INQ-00332,HCP-00185,2026-04-24,CNS efficacy,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,8,False,5,Datroway
+INQ-00333,HCP-00277,2026-04-18,Biomarker testing,Biomarker,TROP2 metastatic NSCLC,Closed,8,False,5,Datroway
+INQ-00334,HCP-00024,2026-06-15,Dosing guidance,Mechanism of Action,EGFR-mutant NSCLC (investigational),Closed,5,True,5,HER3-DXd
+INQ-00335,HCP-00178,2026-06-02,Subgroup analysis,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,In Progress,116,False,5,Vanflyta
+INQ-00336,HCP-00053,2026-02-17,Efficacy data request,Efficacy,FLT3-ITD+ acute myeloid leukemia,Closed,3,True,3,Vanflyta
+INQ-00337,HCP-00062,2026-04-17,Biomarker testing,Efficacy,HER2-mutant metastatic NSCLC,Closed,5,False,2,Enhertu
+INQ-00338,HCP-00164,2026-05-12,Safety / ILD management,Biomarker,FLT3-ITD+ acute myeloid leukemia,Closed,8,False,5,Vanflyta
+INQ-00339,HCP-00277,2026-02-17,Biomarker testing,Safety,FLT3-ITD+ acute myeloid leukemia,In Progress,221,False,5,Vanflyta
+INQ-00340,HCP-00089,2026-07-07,Safety / ILD management,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Open,81,False,5,Vanflyta
+INQ-00341,HCP-00019,2026-04-17,Subgroup analysis,Safety,HER2-ultralow metastatic breast cancer,Closed,6,False,3,Enhertu
+INQ-00342,HCP-00037,2026-05-04,Biomarker testing,Efficacy,FLT3-ITD+ acute myeloid leukemia,In Progress,145,False,5,Vanflyta
+INQ-00343,HCP-00106,2026-08-23,Dosing guidance,Safety,EGFR-mutant NSCLC (investigational),Closed,5,False,2,HER3-DXd
+INQ-00344,HCP-00201,2026-05-21,Biomarker testing,Efficacy,HER2-low metastatic breast cancer,Closed,6,False,5,Enhertu
+INQ-00345,HCP-00192,2026-03-04,Subgroup analysis,Safety,HR+/HER2- metastatic breast cancer,Open,206,False,5,Datroway
+INQ-00346,HCP-00270,2026-09-03,Safety / ILD management,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Open,23,False,3,HER3-DXd
+INQ-00347,HCP-00109,2026-03-08,Safety / ILD management,Dosing,HR+/HER2- metastatic breast cancer,Closed,3,True,3,Datroway
+INQ-00348,HCP-00104,2026-03-04,Subgroup analysis,Mechanism of Action,TROP2 metastatic NSCLC,Closed,6,False,5,Datroway
+INQ-00349,HCP-00192,2026-05-22,Real-world evidence,Efficacy,EGFR-mutant NSCLC (investigational),In Progress,127,False,5,HER3-DXd
+INQ-00350,HCP-00108,2026-06-09,Real-world evidence,Real-World Evidence,EGFR-mutant NSCLC (investigational),Open,109,False,5,HER3-DXd
+INQ-00351,HCP-00009,2026-08-22,Subgroup analysis,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Open,35,False,5,Vanflyta
+INQ-00352,HCP-00040,2026-05-07,CNS efficacy,Subgroup Analysis,HER2-ultralow metastatic breast cancer,Closed,6,False,5,Enhertu
+INQ-00353,HCP-00088,2026-07-09,Dosing guidance,Biomarker,EGFR-mutant NSCLC (investigational),Closed,1,True,2,HER3-DXd
+INQ-00354,HCP-00114,2026-05-10,CNS efficacy,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00355,HCP-00223,2026-02-23,Real-world evidence,Comparative,HER2+ metastatic breast cancer,In Progress,215,False,2,Enhertu
+INQ-00356,HCP-00104,2026-09-24,Dosing guidance,Safety,EGFR-mutant NSCLC (investigational),Open,2,False,5,HER3-DXd
+INQ-00357,HCP-00020,2026-07-29,Subgroup analysis,Dosing,EGFR-mutant NSCLC (investigational),Open,59,False,3,HER3-DXd
+INQ-00358,HCP-00256,2026-03-17,Safety / ILD management,Mechanism of Action,FLT3-ITD+ acute myeloid leukemia,Closed,4,False,2,Vanflyta
+INQ-00359,HCP-00269,2026-09-06,Efficacy data request,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,6,False,2,Vanflyta
+INQ-00360,HCP-00209,2026-09-19,Dosing guidance,Dosing,TROP2 metastatic NSCLC,Open,7,False,2,Datroway
+INQ-00361,HCP-00157,2026-08-03,Trial enrollment,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,5,False,2,Vanflyta
+INQ-00362,HCP-00157,2026-03-31,Biomarker testing,Biomarker,HER2+ metastatic breast cancer,Closed,7,False,5,Enhertu
+INQ-00363,HCP-00091,2026-05-29,Dosing guidance,Dosing,FLT3-ITD+ acute myeloid leukemia,Open,120,False,2,Vanflyta
+INQ-00364,HCP-00140,2026-05-08,CNS efficacy,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,In Progress,141,False,2,Vanflyta
+INQ-00365,HCP-00232,2026-03-13,Subgroup analysis,Dosing,EGFR-mutant NSCLC (investigational),Closed,1,True,3,HER3-DXd
+INQ-00366,HCP-00276,2026-03-29,Dosing guidance,Biomarker,HER2-low metastatic breast cancer,Open,181,False,5,Enhertu
+INQ-00367,HCP-00209,2026-07-04,Safety / ILD management,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,6,False,5,Datroway
+INQ-00368,HCP-00058,2026-07-26,Subgroup analysis,Comparative,EGFR-mutant NSCLC (investigational),Closed,4,True,5,HER3-DXd
+INQ-00369,HCP-00289,2026-04-17,Real-world evidence,Efficacy,FLT3-ITD+ acute myeloid leukemia,Open,162,False,2,Vanflyta
+INQ-00370,HCP-00099,2026-02-27,Efficacy data request,Subgroup Analysis,TROP2 metastatic NSCLC,Closed,6,False,5,Datroway
+INQ-00371,HCP-00121,2026-08-17,Trial enrollment,Biomarker,FLT3-ITD+ acute myeloid leukemia,Open,40,False,5,Vanflyta
+INQ-00372,HCP-00002,2026-03-09,Biomarker testing,Safety,HER2-mutant metastatic NSCLC,Open,201,False,3,Enhertu
+INQ-00373,HCP-00223,2026-06-04,Subgroup analysis,Comparative,HER2-low metastatic breast cancer,Closed,6,False,5,Enhertu
+INQ-00374,HCP-00291,2026-04-03,Efficacy data request,Real-World Evidence,HER2+ metastatic gastric cancer,Open,176,False,2,Enhertu
+INQ-00375,HCP-00129,2026-08-08,Comparative data,Biomarker,HR+/HER2- metastatic breast cancer,Closed,7,False,5,Datroway
+INQ-00376,HCP-00169,2026-02-07,Safety / ILD management,Safety,FLT3-ITD+ acute myeloid leukemia,In Progress,231,False,5,Vanflyta
+INQ-00377,HCP-00214,2026-06-02,Comparative data,Safety,EGFR-mutant NSCLC (investigational),Closed,6,False,5,HER3-DXd
+INQ-00378,HCP-00264,2026-03-30,Comparative data,Safety,HER2-low metastatic breast cancer,In Progress,180,False,5,Enhertu
+INQ-00379,HCP-00233,2026-04-08,Real-world evidence,Subgroup Analysis,FLT3-ITD+ acute myeloid leukemia,Open,171,False,3,Vanflyta
+INQ-00380,HCP-00210,2026-09-14,Efficacy data request,Dosing,FLT3-ITD+ acute myeloid leukemia,Closed,5,True,5,Vanflyta
+INQ-00381,HCP-00292,2026-06-23,Safety / ILD management,Mechanism of Action,HER2+ metastatic gastric cancer,Closed,3,True,3,Enhertu
+INQ-00382,HCP-00262,2026-04-06,CNS efficacy,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,3,False,2,Vanflyta
+INQ-00383,HCP-00258,2026-08-07,Efficacy data request,Real-World Evidence,EGFR-mutant NSCLC (investigational),In Progress,50,False,5,HER3-DXd
+INQ-00384,HCP-00177,2026-03-22,Biomarker testing,Subgroup Analysis,HER2-mutant metastatic NSCLC,Closed,2,True,3,Enhertu
+INQ-00385,HCP-00030,2026-07-18,Dosing guidance,Mechanism of Action,HER2-low metastatic breast cancer,Closed,8,False,2,Enhertu
+INQ-00386,HCP-00090,2026-04-29,CNS efficacy,Mechanism of Action,HR+/HER2- metastatic breast cancer,In Progress,150,False,3,Datroway
+INQ-00387,HCP-00289,2026-07-22,CNS efficacy,Efficacy,EGFR-mutant NSCLC (investigational),Closed,1,True,5,HER3-DXd
+INQ-00388,HCP-00264,2026-04-15,Safety / ILD management,Safety,EGFR-mutant NSCLC (investigational),Closed,5,False,3,HER3-DXd
+INQ-00389,HCP-00175,2026-04-12,Biomarker testing,Real-World Evidence,HER2-mutant metastatic NSCLC,Closed,5,False,3,Enhertu
+INQ-00390,HCP-00150,2026-02-05,Trial enrollment,Mechanism of Action,HER2+ metastatic breast cancer,Closed,1,True,3,Enhertu
+INQ-00391,HCP-00070,2026-02-26,Safety / ILD management,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,5,False,2,HER3-DXd
+INQ-00392,HCP-00055,2026-09-06,Trial enrollment,Real-World Evidence,FLT3-ITD+ acute myeloid leukemia,Closed,7,False,2,Vanflyta
+INQ-00393,HCP-00059,2026-09-11,Subgroup analysis,Subgroup Analysis,EGFR-mutant NSCLC (investigational),Open,15,False,2,HER3-DXd
+INQ-00394,HCP-00078,2026-02-18,CNS efficacy,Biomarker,EGFR-mutant NSCLC (investigational),Closed,7,False,3,HER3-DXd
+INQ-00395,HCP-00076,2026-05-30,CNS efficacy,Safety,FLT3-ITD+ acute myeloid leukemia,Closed,1,True,2,Vanflyta
+INQ-00396,HCP-00249,2026-05-14,CNS efficacy,Real-World Evidence,EGFR-mutant NSCLC (investigational),Closed,6,False,5,HER3-DXd
+INQ-00397,HCP-00180,2026-06-01,Safety / ILD management,Subgroup Analysis,HER2+ metastatic gastric cancer,Closed,4,False,3,Enhertu
+INQ-00398,HCP-00153,2026-06-08,Dosing guidance,Subgroup Analysis,FLT3-ITD+ acute myeloid leukemia,Closed,2,True,5,Vanflyta
+INQ-00399,HCP-00015,2026-08-31,CNS efficacy,Biomarker,HER2+ metastatic breast cancer,Closed,6,False,5,Enhertu
+INQ-00400,HCP-00017,2026-05-26,Trial enrollment,Safety,HER2+ metastatic gastric cancer,In Progress,123,False,2,Enhertu

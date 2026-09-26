@@ -1,0 +1,421 @@
+event_attendance_id,hcp_id,event_name,event_date,session_topic,therapeutic_area,attendance_status,visited_medical_booth
+EVT-00001,HCP-00189,ASH Annual Meeting 2025,2025-12-06,TROP2 expression and biomarker-driven patient selection,Oncology,Registered,False
+EVT-00002,HCP-00153,ASH Annual Meeting 2025,2025-12-06,long-term duration of response and survival outcomes,Oncology,Attended,True
+EVT-00003,HCP-00065,ESMO Congress 2025,2025-10-17,CNS activity and brain metastases outcomes,Oncology,Registered,False
+EVT-00004,HCP-00207,ASCO Annual Meeting 2026,2026-06-01,general scientific exchange on the oncology portfolio,Oncology,Attended,True
+EVT-00005,HCP-00243,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world outcomes and treatment patterns post-T-DXd,Oncology,Registered,False
+EVT-00006,HCP-00133,ESMO Congress 2025,2025-10-17,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00007,HCP-00164,AACR Annual Meeting 2026,2026-04-25,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,No-show,False
+EVT-00008,HCP-00106,ESMO Congress 2025,2025-10-17,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00009,HCP-00003,AACR Annual Meeting 2026,2026-04-25,general scientific exchange on the oncology portfolio,Oncology,Attended,False
+EVT-00010,HCP-00227,AACR Annual Meeting 2026,2026-04-25,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00011,HCP-00252,San Antonio Breast Cancer Symposium 2025,2025-12-09,optimal sequencing after T-DXd progression,Oncology,Registered,False
+EVT-00012,HCP-00081,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00013,HCP-00090,ASCO GI 2026,2026-01-18,real-world evidence for T-DXd in HER2-low populations,Oncology,No-show,False
+EVT-00014,HCP-00046,World Conference on Lung Cancer 2025,2025-09-06,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00015,HCP-00157,ESMO Congress 2025,2025-10-17,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00016,HCP-00169,ESMO Congress 2025,2025-10-17,general scientific exchange on the oncology portfolio,Oncology,Registered,False
+EVT-00017,HCP-00040,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00018,HCP-00134,ASH Annual Meeting 2025,2025-12-06,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00019,HCP-00196,ESMO Congress 2025,2025-10-17,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00020,HCP-00101,ASH Annual Meeting 2025,2025-12-06,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00021,HCP-00080,ESMO Congress 2025,2025-10-17,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00022,HCP-00111,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,No-show,False
+EVT-00023,HCP-00087,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,True
+EVT-00024,HCP-00023,World Conference on Lung Cancer 2025,2025-09-06,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00025,HCP-00022,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00026,HCP-00052,World Conference on Lung Cancer 2025,2025-09-06,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00027,HCP-00012,San Antonio Breast Cancer Symposium 2025,2025-12-09,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00028,HCP-00176,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00029,HCP-00224,World Conference on Lung Cancer 2025,2025-09-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,False
+EVT-00030,HCP-00209,San Antonio Breast Cancer Symposium 2025,2025-12-09,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False
+EVT-00031,HCP-00187,ASH Annual Meeting 2025,2025-12-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Registered,False
+EVT-00032,HCP-00166,ASH Annual Meeting 2025,2025-12-06,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00033,HCP-00255,San Antonio Breast Cancer Symposium 2025,2025-12-09,intracranial response in patients with brain metastases,Oncology,Registered,False
+EVT-00034,HCP-00139,AACR Annual Meeting 2026,2026-04-25,CNS activity and brain metastases outcomes,Oncology,Attended,True
+EVT-00035,HCP-00109,AACR Annual Meeting 2026,2026-04-25,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00036,HCP-00130,ASCO Annual Meeting 2026,2026-06-01,real-world outcomes and treatment patterns post-T-DXd,Oncology,Registered,False
+EVT-00037,HCP-00077,ESMO Congress 2025,2025-10-17,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,True
+EVT-00038,HCP-00300,ASCO GI 2026,2026-01-18,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00039,HCP-00004,ASCO Annual Meeting 2026,2026-06-01,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00040,HCP-00125,ESMO Congress 2025,2025-10-17,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00041,HCP-00217,ASCO Annual Meeting 2026,2026-06-01,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00042,HCP-00047,AACR Annual Meeting 2026,2026-04-25,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00043,HCP-00237,ASCO GI 2026,2026-01-18,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00044,HCP-00171,AACR Annual Meeting 2026,2026-04-25,general scientific exchange on the oncology portfolio,Oncology,Registered,False
+EVT-00045,HCP-00226,ASH Annual Meeting 2025,2025-12-06,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00046,HCP-00009,AACR Annual Meeting 2026,2026-04-25,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00047,HCP-00053,ESMO Congress 2025,2025-10-17,intracranial response in patients with brain metastases,Oncology,Registered,False
+EVT-00048,HCP-00236,San Antonio Breast Cancer Symposium 2025,2025-12-09,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00049,HCP-00156,ASCO Annual Meeting 2026,2026-06-01,TROP2 expression and biomarker-driven patient selection,Oncology,Registered,False
+EVT-00050,HCP-00146,ESMO Congress 2025,2025-10-17,head-to-head data and comparative effectiveness,Oncology,Registered,False
+EVT-00051,HCP-00290,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,True
+EVT-00052,HCP-00068,World Conference on Lung Cancer 2025,2025-09-06,real-world evidence for T-DXd in HER2-low populations,Oncology,No-show,False
+EVT-00053,HCP-00113,San Antonio Breast Cancer Symposium 2025,2025-12-09,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00054,HCP-00239,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00055,HCP-00158,World Conference on Lung Cancer 2025,2025-09-06,intracranial response in patients with brain metastases,Oncology,No-show,False
+EVT-00056,HCP-00225,ASCO GI 2026,2026-01-18,head-to-head data and comparative effectiveness,Oncology,Registered,False
+EVT-00057,HCP-00037,San Antonio Breast Cancer Symposium 2025,2025-12-09,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,False
+EVT-00058,HCP-00176,San Antonio Breast Cancer Symposium 2025,2025-12-09,CNS activity and brain metastases outcomes,Oncology,Attended,False
+EVT-00059,HCP-00229,ASCO Annual Meeting 2026,2026-06-01,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00060,HCP-00262,ASCO GI 2026,2026-01-18,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Registered,False
+EVT-00061,HCP-00155,World Conference on Lung Cancer 2025,2025-09-06,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00062,HCP-00027,ASCO GI 2026,2026-01-18,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00063,HCP-00125,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,No-show,False
+EVT-00064,HCP-00024,San Antonio Breast Cancer Symposium 2025,2025-12-09,CNS activity and brain metastases outcomes,Oncology,Attended,False
+EVT-00065,HCP-00222,ASH Annual Meeting 2025,2025-12-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Registered,False
+EVT-00066,HCP-00152,ESMO Congress 2025,2025-10-17,TROPION-Lung and TROPION-Breast trial design,Oncology,Registered,False
+EVT-00067,HCP-00038,World Conference on Lung Cancer 2025,2025-09-06,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00068,HCP-00140,ASCO Annual Meeting 2026,2026-06-01,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Registered,False
+EVT-00069,HCP-00001,World Conference on Lung Cancer 2025,2025-09-06,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00070,HCP-00164,ESMO Congress 2025,2025-10-17,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00071,HCP-00103,ASH Annual Meeting 2025,2025-12-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00072,HCP-00189,ASCO GI 2026,2026-01-18,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False
+EVT-00073,HCP-00109,AACR Annual Meeting 2026,2026-04-25,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,True
+EVT-00074,HCP-00008,AACR Annual Meeting 2026,2026-04-25,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00075,HCP-00251,ASCO GI 2026,2026-01-18,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00076,HCP-00043,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00077,HCP-00222,ASCO Annual Meeting 2026,2026-06-01,general scientific exchange on the oncology portfolio,Oncology,Attended,True
+EVT-00078,HCP-00128,ASCO Annual Meeting 2026,2026-06-01,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00079,HCP-00257,ESMO Congress 2025,2025-10-17,long-term duration of response and survival outcomes,Oncology,Attended,True
+EVT-00080,HCP-00288,San Antonio Breast Cancer Symposium 2025,2025-12-09,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00081,HCP-00173,World Conference on Lung Cancer 2025,2025-09-06,general scientific exchange on the oncology portfolio,Oncology,Attended,False
+EVT-00082,HCP-00212,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00083,HCP-00178,ASCO GI 2026,2026-01-18,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Registered,False
+EVT-00084,HCP-00195,ESMO Congress 2025,2025-10-17,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00085,HCP-00270,ESMO Congress 2025,2025-10-17,real-world evidence for T-DXd in HER2-low populations,Oncology,No-show,False
+EVT-00086,HCP-00089,ASH Annual Meeting 2025,2025-12-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,False
+EVT-00087,HCP-00131,San Antonio Breast Cancer Symposium 2025,2025-12-09,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00088,HCP-00017,AACR Annual Meeting 2026,2026-04-25,CNS activity and brain metastases outcomes,Oncology,Attended,False
+EVT-00089,HCP-00111,AACR Annual Meeting 2026,2026-04-25,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00090,HCP-00246,San Antonio Breast Cancer Symposium 2025,2025-12-09,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00091,HCP-00260,World Conference on Lung Cancer 2025,2025-09-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,False
+EVT-00092,HCP-00292,ASCO GI 2026,2026-01-18,general scientific exchange on the oncology portfolio,Oncology,No-show,False
+EVT-00093,HCP-00123,ASCO GI 2026,2026-01-18,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,True
+EVT-00094,HCP-00237,ASH Annual Meeting 2025,2025-12-06,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00095,HCP-00028,World Conference on Lung Cancer 2025,2025-09-06,head-to-head data and comparative effectiveness,Oncology,Registered,False
+EVT-00096,HCP-00292,ESMO Congress 2025,2025-10-17,real-world outcomes and treatment patterns post-T-DXd,Oncology,No-show,False
+EVT-00097,HCP-00105,ASH Annual Meeting 2025,2025-12-06,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00098,HCP-00202,ASCO Annual Meeting 2026,2026-06-01,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00099,HCP-00267,San Antonio Breast Cancer Symposium 2025,2025-12-09,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00100,HCP-00021,AACR Annual Meeting 2026,2026-04-25,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00101,HCP-00001,ASH Annual Meeting 2025,2025-12-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00102,HCP-00155,ASCO Annual Meeting 2026,2026-06-01,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,False
+EVT-00103,HCP-00092,AACR Annual Meeting 2026,2026-04-25,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00104,HCP-00092,AACR Annual Meeting 2026,2026-04-25,long-term duration of response and survival outcomes,Oncology,Attended,True
+EVT-00105,HCP-00104,ASCO Annual Meeting 2026,2026-06-01,CNS activity and brain metastases outcomes,Oncology,No-show,False
+EVT-00106,HCP-00232,ASCO Annual Meeting 2026,2026-06-01,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00107,HCP-00176,ASCO Annual Meeting 2026,2026-06-01,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00108,HCP-00201,World Conference on Lung Cancer 2025,2025-09-06,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00109,HCP-00122,ASH Annual Meeting 2025,2025-12-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00110,HCP-00080,ASCO GI 2026,2026-01-18,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00111,HCP-00256,San Antonio Breast Cancer Symposium 2025,2025-12-09,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00112,HCP-00245,ASCO Annual Meeting 2026,2026-06-01,long-term duration of response and survival outcomes,Oncology,Attended,False
+EVT-00113,HCP-00130,ASCO Annual Meeting 2026,2026-06-01,long-term duration of response and survival outcomes,Oncology,Registered,False
+EVT-00114,HCP-00275,ESMO Congress 2025,2025-10-17,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00115,HCP-00150,ASCO GI 2026,2026-01-18,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00116,HCP-00193,World Conference on Lung Cancer 2025,2025-09-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00117,HCP-00182,ASCO GI 2026,2026-01-18,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00118,HCP-00150,ASCO Annual Meeting 2026,2026-06-01,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00119,HCP-00285,ESMO Congress 2025,2025-10-17,real-world evidence for T-DXd in HER2-low populations,Oncology,No-show,False
+EVT-00120,HCP-00221,ASCO Annual Meeting 2026,2026-06-01,head-to-head data and comparative effectiveness,Oncology,No-show,False
+EVT-00121,HCP-00233,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00122,HCP-00254,World Conference on Lung Cancer 2025,2025-09-06,ADC-related ILD adverse event grading and dose interruption,Oncology,No-show,False
+EVT-00123,HCP-00070,ESMO Congress 2025,2025-10-17,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,True
+EVT-00124,HCP-00263,ASCO Annual Meeting 2026,2026-06-01,real-world evidence for T-DXd in HER2-low populations,Oncology,No-show,False
+EVT-00125,HCP-00197,ASCO Annual Meeting 2026,2026-06-01,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00126,HCP-00161,World Conference on Lung Cancer 2025,2025-09-06,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00127,HCP-00099,ESMO Congress 2025,2025-10-17,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00128,HCP-00010,AACR Annual Meeting 2026,2026-04-25,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,True
+EVT-00129,HCP-00212,ASCO GI 2026,2026-01-18,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00130,HCP-00116,ESMO Congress 2025,2025-10-17,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00131,HCP-00134,World Conference on Lung Cancer 2025,2025-09-06,long-term duration of response and survival outcomes,Oncology,No-show,False
+EVT-00132,HCP-00287,ESMO Congress 2025,2025-10-17,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00133,HCP-00093,San Antonio Breast Cancer Symposium 2025,2025-12-09,HER2 IHC testing and HER2-low patient identification,Oncology,Registered,False
+EVT-00134,HCP-00064,ASCO GI 2026,2026-01-18,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,True
+EVT-00135,HCP-00284,San Antonio Breast Cancer Symposium 2025,2025-12-09,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00136,HCP-00147,ESMO Congress 2025,2025-10-17,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False
+EVT-00137,HCP-00092,ASCO Annual Meeting 2026,2026-06-01,nausea and dosing management for antibody-drug conjugates,Oncology,No-show,False
+EVT-00138,HCP-00233,San Antonio Breast Cancer Symposium 2025,2025-12-09,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00139,HCP-00167,World Conference on Lung Cancer 2025,2025-09-06,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00140,HCP-00215,World Conference on Lung Cancer 2025,2025-09-06,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00141,HCP-00188,ESMO Congress 2025,2025-10-17,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00142,HCP-00142,San Antonio Breast Cancer Symposium 2025,2025-12-09,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Registered,False
+EVT-00143,HCP-00247,AACR Annual Meeting 2026,2026-04-25,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00144,HCP-00008,ESMO Congress 2025,2025-10-17,long-term duration of response and survival outcomes,Oncology,Attended,False
+EVT-00145,HCP-00069,ESMO Congress 2025,2025-10-17,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,True
+EVT-00146,HCP-00157,AACR Annual Meeting 2026,2026-04-25,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00147,HCP-00295,World Conference on Lung Cancer 2025,2025-09-06,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00148,HCP-00144,ESMO Congress 2025,2025-10-17,combination strategies with immunotherapy,Oncology,No-show,False
+EVT-00149,HCP-00119,ESMO Congress 2025,2025-10-17,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00150,HCP-00158,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00151,HCP-00153,San Antonio Breast Cancer Symposium 2025,2025-12-09,TROPION-Lung and TROPION-Breast trial design,Oncology,Registered,False
+EVT-00152,HCP-00173,San Antonio Breast Cancer Symposium 2025,2025-12-09,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00153,HCP-00120,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00154,HCP-00268,ASCO Annual Meeting 2026,2026-06-01,general scientific exchange on the oncology portfolio,Oncology,Attended,False
+EVT-00155,HCP-00046,World Conference on Lung Cancer 2025,2025-09-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00156,HCP-00231,AACR Annual Meeting 2026,2026-04-25,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00157,HCP-00297,ESMO Congress 2025,2025-10-17,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,True
+EVT-00158,HCP-00155,ASCO GI 2026,2026-01-18,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00159,HCP-00152,ASCO Annual Meeting 2026,2026-06-01,comparative evidence versus T-DM1 and trastuzumab,Oncology,No-show,False
+EVT-00160,HCP-00071,ESMO Congress 2025,2025-10-17,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,True
+EVT-00161,HCP-00043,ASH Annual Meeting 2025,2025-12-06,real-world outcomes and treatment patterns post-T-DXd,Oncology,Registered,False
+EVT-00162,HCP-00227,ASCO Annual Meeting 2026,2026-06-01,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00163,HCP-00171,ESMO Congress 2025,2025-10-17,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00164,HCP-00003,ASCO GI 2026,2026-01-18,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00165,HCP-00077,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00166,HCP-00145,ASH Annual Meeting 2025,2025-12-06,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00167,HCP-00245,ASCO Annual Meeting 2026,2026-06-01,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00168,HCP-00192,AACR Annual Meeting 2026,2026-04-25,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00169,HCP-00255,ASCO GI 2026,2026-01-18,real-world outcomes and treatment patterns post-T-DXd,Oncology,Registered,False
+EVT-00170,HCP-00052,San Antonio Breast Cancer Symposium 2025,2025-12-09,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,True
+EVT-00171,HCP-00015,San Antonio Breast Cancer Symposium 2025,2025-12-09,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Registered,False
+EVT-00172,HCP-00171,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00173,HCP-00134,ESMO Congress 2025,2025-10-17,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,True
+EVT-00174,HCP-00102,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00175,HCP-00118,World Conference on Lung Cancer 2025,2025-09-06,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,True
+EVT-00176,HCP-00270,ESMO Congress 2025,2025-10-17,combination strategies with immunotherapy,Oncology,No-show,False
+EVT-00177,HCP-00102,ASCO GI 2026,2026-01-18,CNS activity and brain metastases outcomes,Oncology,Registered,False
+EVT-00178,HCP-00179,ASCO Annual Meeting 2026,2026-06-01,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,True
+EVT-00179,HCP-00093,AACR Annual Meeting 2026,2026-04-25,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,True
+EVT-00180,HCP-00293,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00181,HCP-00054,ASCO Annual Meeting 2026,2026-06-01,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00182,HCP-00055,San Antonio Breast Cancer Symposium 2025,2025-12-09,general scientific exchange on the oncology portfolio,Oncology,Attended,False
+EVT-00183,HCP-00040,World Conference on Lung Cancer 2025,2025-09-06,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00184,HCP-00212,World Conference on Lung Cancer 2025,2025-09-06,optimal sequencing after T-DXd progression,Oncology,Registered,False
+EVT-00185,HCP-00011,World Conference on Lung Cancer 2025,2025-09-06,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Registered,False
+EVT-00186,HCP-00140,AACR Annual Meeting 2026,2026-04-25,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00187,HCP-00086,ASH Annual Meeting 2025,2025-12-06,optimal sequencing after T-DXd progression,Oncology,No-show,False
+EVT-00188,HCP-00010,ESMO Congress 2025,2025-10-17,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00189,HCP-00034,ASCO GI 2026,2026-01-18,TROPION-Lung and TROPION-Breast trial design,Oncology,No-show,False
+EVT-00190,HCP-00130,AACR Annual Meeting 2026,2026-04-25,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,True
+EVT-00191,HCP-00033,ASH Annual Meeting 2025,2025-12-06,TROP2 expression and biomarker-driven patient selection,Oncology,Registered,False
+EVT-00192,HCP-00029,ASH Annual Meeting 2025,2025-12-06,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00193,HCP-00179,ASCO Annual Meeting 2026,2026-06-01,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,True
+EVT-00194,HCP-00172,ESMO Congress 2025,2025-10-17,general scientific exchange on the oncology portfolio,Oncology,Attended,False
+EVT-00195,HCP-00202,World Conference on Lung Cancer 2025,2025-09-06,CNS activity and brain metastases outcomes,Oncology,Attended,True
+EVT-00196,HCP-00035,World Conference on Lung Cancer 2025,2025-09-06,ADC-related ILD adverse event grading and dose interruption,Oncology,Registered,False
+EVT-00197,HCP-00056,ASCO Annual Meeting 2026,2026-06-01,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00198,HCP-00135,ASCO GI 2026,2026-01-18,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00199,HCP-00086,San Antonio Breast Cancer Symposium 2025,2025-12-09,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00200,HCP-00109,ASH Annual Meeting 2025,2025-12-06,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,False
+EVT-00201,HCP-00218,ESMO Congress 2025,2025-10-17,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00202,HCP-00001,ASH Annual Meeting 2025,2025-12-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00203,HCP-00007,San Antonio Breast Cancer Symposium 2025,2025-12-09,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,True
+EVT-00204,HCP-00103,ASCO GI 2026,2026-01-18,TROP2 expression and biomarker-driven patient selection,Oncology,No-show,False
+EVT-00205,HCP-00111,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00206,HCP-00079,ESMO Congress 2025,2025-10-17,TROP2 expression and biomarker-driven patient selection,Oncology,Registered,False
+EVT-00207,HCP-00100,AACR Annual Meeting 2026,2026-04-25,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00208,HCP-00183,AACR Annual Meeting 2026,2026-04-25,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00209,HCP-00148,ASCO GI 2026,2026-01-18,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00210,HCP-00058,San Antonio Breast Cancer Symposium 2025,2025-12-09,intracranial response in patients with brain metastases,Oncology,No-show,False
+EVT-00211,HCP-00073,San Antonio Breast Cancer Symposium 2025,2025-12-09,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00212,HCP-00013,San Antonio Breast Cancer Symposium 2025,2025-12-09,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00213,HCP-00182,San Antonio Breast Cancer Symposium 2025,2025-12-09,head-to-head data and comparative effectiveness,Oncology,No-show,False
+EVT-00214,HCP-00153,AACR Annual Meeting 2026,2026-04-25,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00215,HCP-00068,World Conference on Lung Cancer 2025,2025-09-06,CNS activity and brain metastases outcomes,Oncology,No-show,False
+EVT-00216,HCP-00162,ASCO Annual Meeting 2026,2026-06-01,nausea and dosing management for antibody-drug conjugates,Oncology,No-show,False
+EVT-00217,HCP-00118,ESMO Congress 2025,2025-10-17,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Registered,False
+EVT-00218,HCP-00089,World Conference on Lung Cancer 2025,2025-09-06,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00219,HCP-00099,San Antonio Breast Cancer Symposium 2025,2025-12-09,optimal sequencing after T-DXd progression,Oncology,No-show,False
+EVT-00220,HCP-00280,World Conference on Lung Cancer 2025,2025-09-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00221,HCP-00109,AACR Annual Meeting 2026,2026-04-25,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00222,HCP-00265,ASCO GI 2026,2026-01-18,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00223,HCP-00149,AACR Annual Meeting 2026,2026-04-25,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00224,HCP-00271,World Conference on Lung Cancer 2025,2025-09-06,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00225,HCP-00090,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world evidence for T-DXd in HER2-low populations,Oncology,Registered,False
+EVT-00226,HCP-00013,San Antonio Breast Cancer Symposium 2025,2025-12-09,TROP2 expression and biomarker-driven patient selection,Oncology,No-show,False
+EVT-00227,HCP-00068,World Conference on Lung Cancer 2025,2025-09-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,True
+EVT-00228,HCP-00143,AACR Annual Meeting 2026,2026-04-25,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00229,HCP-00114,ASCO GI 2026,2026-01-18,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False
+EVT-00230,HCP-00137,AACR Annual Meeting 2026,2026-04-25,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00231,HCP-00204,ASCO GI 2026,2026-01-18,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,False
+EVT-00232,HCP-00073,AACR Annual Meeting 2026,2026-04-25,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00233,HCP-00238,ASH Annual Meeting 2025,2025-12-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00234,HCP-00121,ASH Annual Meeting 2025,2025-12-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,True
+EVT-00235,HCP-00076,ASCO Annual Meeting 2026,2026-06-01,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00236,HCP-00042,ASCO Annual Meeting 2026,2026-06-01,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00237,HCP-00261,San Antonio Breast Cancer Symposium 2025,2025-12-09,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00238,HCP-00125,ESMO Congress 2025,2025-10-17,CNS activity and brain metastases outcomes,Oncology,Attended,False
+EVT-00239,HCP-00008,ASCO Annual Meeting 2026,2026-06-01,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00240,HCP-00072,ASCO GI 2026,2026-01-18,CNS activity and brain metastases outcomes,Oncology,No-show,False
+EVT-00241,HCP-00217,San Antonio Breast Cancer Symposium 2025,2025-12-09,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,True
+EVT-00242,HCP-00173,AACR Annual Meeting 2026,2026-04-25,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00243,HCP-00089,San Antonio Breast Cancer Symposium 2025,2025-12-09,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00244,HCP-00256,ASH Annual Meeting 2025,2025-12-06,CNS activity and brain metastases outcomes,Oncology,No-show,False
+EVT-00245,HCP-00244,World Conference on Lung Cancer 2025,2025-09-06,general scientific exchange on the oncology portfolio,Oncology,Attended,True
+EVT-00246,HCP-00168,San Antonio Breast Cancer Symposium 2025,2025-12-09,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00247,HCP-00145,ESMO Congress 2025,2025-10-17,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00248,HCP-00094,World Conference on Lung Cancer 2025,2025-09-06,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00249,HCP-00111,ESMO Congress 2025,2025-10-17,CNS activity and brain metastases outcomes,Oncology,Attended,False
+EVT-00250,HCP-00072,AACR Annual Meeting 2026,2026-04-25,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,True
+EVT-00251,HCP-00177,ESMO Congress 2025,2025-10-17,head-to-head data and comparative effectiveness,Oncology,Registered,False
+EVT-00252,HCP-00006,ASH Annual Meeting 2025,2025-12-06,head-to-head data and comparative effectiveness,Oncology,No-show,False
+EVT-00253,HCP-00077,ASCO GI 2026,2026-01-18,nausea and dosing management for antibody-drug conjugates,Oncology,No-show,False
+EVT-00254,HCP-00295,ASCO Annual Meeting 2026,2026-06-01,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00255,HCP-00171,AACR Annual Meeting 2026,2026-04-25,intracranial response in patients with brain metastases,Oncology,Registered,False
+EVT-00256,HCP-00170,ESMO Congress 2025,2025-10-17,CNS activity and brain metastases outcomes,Oncology,Registered,False
+EVT-00257,HCP-00260,World Conference on Lung Cancer 2025,2025-09-06,real-world outcomes and treatment patterns post-T-DXd,Oncology,No-show,False
+EVT-00258,HCP-00045,ASH Annual Meeting 2025,2025-12-06,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00259,HCP-00047,ASCO Annual Meeting 2026,2026-06-01,long-term duration of response and survival outcomes,Oncology,No-show,False
+EVT-00260,HCP-00265,World Conference on Lung Cancer 2025,2025-09-06,CNS activity and brain metastases outcomes,Oncology,Attended,False
+EVT-00261,HCP-00239,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,No-show,False
+EVT-00262,HCP-00230,ASCO Annual Meeting 2026,2026-06-01,CNS activity and brain metastases outcomes,Oncology,Attended,True
+EVT-00263,HCP-00043,World Conference on Lung Cancer 2025,2025-09-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,True
+EVT-00264,HCP-00150,San Antonio Breast Cancer Symposium 2025,2025-12-09,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00265,HCP-00133,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00266,HCP-00225,ASCO GI 2026,2026-01-18,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00267,HCP-00272,ASCO Annual Meeting 2026,2026-06-01,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00268,HCP-00039,ASCO GI 2026,2026-01-18,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00269,HCP-00186,World Conference on Lung Cancer 2025,2025-09-06,optimal sequencing after T-DXd progression,Oncology,Registered,False
+EVT-00270,HCP-00002,ASCO GI 2026,2026-01-18,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00271,HCP-00233,World Conference on Lung Cancer 2025,2025-09-06,CNS activity and brain metastases outcomes,Oncology,Attended,True
+EVT-00272,HCP-00002,World Conference on Lung Cancer 2025,2025-09-06,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,True
+EVT-00273,HCP-00265,World Conference on Lung Cancer 2025,2025-09-06,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00274,HCP-00095,AACR Annual Meeting 2026,2026-04-25,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00275,HCP-00105,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00276,HCP-00149,ASCO GI 2026,2026-01-18,CNS activity and brain metastases outcomes,Oncology,Attended,False
+EVT-00277,HCP-00098,ASCO Annual Meeting 2026,2026-06-01,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,True
+EVT-00278,HCP-00083,ESMO Congress 2025,2025-10-17,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00279,HCP-00094,ASCO Annual Meeting 2026,2026-06-01,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00280,HCP-00173,World Conference on Lung Cancer 2025,2025-09-06,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,True
+EVT-00281,HCP-00149,AACR Annual Meeting 2026,2026-04-25,combination strategies with immunotherapy,Oncology,No-show,False
+EVT-00282,HCP-00174,San Antonio Breast Cancer Symposium 2025,2025-12-09,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00283,HCP-00056,San Antonio Breast Cancer Symposium 2025,2025-12-09,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Registered,False
+EVT-00284,HCP-00132,ASCO GI 2026,2026-01-18,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,True
+EVT-00285,HCP-00244,San Antonio Breast Cancer Symposium 2025,2025-12-09,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00286,HCP-00049,San Antonio Breast Cancer Symposium 2025,2025-12-09,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Registered,False
+EVT-00287,HCP-00057,ASH Annual Meeting 2025,2025-12-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00288,HCP-00131,AACR Annual Meeting 2026,2026-04-25,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00289,HCP-00087,ESMO Congress 2025,2025-10-17,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00290,HCP-00039,ASCO GI 2026,2026-01-18,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00291,HCP-00006,AACR Annual Meeting 2026,2026-04-25,intracranial response in patients with brain metastases,Oncology,No-show,False
+EVT-00292,HCP-00007,ASCO Annual Meeting 2026,2026-06-01,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00293,HCP-00147,ASH Annual Meeting 2025,2025-12-06,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,False
+EVT-00294,HCP-00198,ASCO GI 2026,2026-01-18,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00295,HCP-00145,ASCO Annual Meeting 2026,2026-06-01,TROP2 expression and biomarker-driven patient selection,Oncology,No-show,False
+EVT-00296,HCP-00064,World Conference on Lung Cancer 2025,2025-09-06,long-term duration of response and survival outcomes,Oncology,Attended,False
+EVT-00297,HCP-00229,World Conference on Lung Cancer 2025,2025-09-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00298,HCP-00026,San Antonio Breast Cancer Symposium 2025,2025-12-09,general scientific exchange on the oncology portfolio,Oncology,Attended,True
+EVT-00299,HCP-00240,ESMO Congress 2025,2025-10-17,ADC-related ILD adverse event grading and dose interruption,Oncology,Registered,False
+EVT-00300,HCP-00232,AACR Annual Meeting 2026,2026-04-25,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00301,HCP-00172,ESMO Congress 2025,2025-10-17,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,True
+EVT-00302,HCP-00059,ESMO Congress 2025,2025-10-17,general scientific exchange on the oncology portfolio,Oncology,Registered,False
+EVT-00303,HCP-00275,San Antonio Breast Cancer Symposium 2025,2025-12-09,ADC-related ILD adverse event grading and dose interruption,Oncology,Registered,False
+EVT-00304,HCP-00256,AACR Annual Meeting 2026,2026-04-25,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00305,HCP-00108,ASH Annual Meeting 2025,2025-12-06,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00306,HCP-00093,World Conference on Lung Cancer 2025,2025-09-06,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False
+EVT-00307,HCP-00248,ASCO GI 2026,2026-01-18,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,True
+EVT-00308,HCP-00224,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00309,HCP-00182,ASH Annual Meeting 2025,2025-12-06,general scientific exchange on the oncology portfolio,Oncology,Attended,True
+EVT-00310,HCP-00237,World Conference on Lung Cancer 2025,2025-09-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,False
+EVT-00311,HCP-00118,World Conference on Lung Cancer 2025,2025-09-06,HER2 IHC testing and HER2-low patient identification,Oncology,Registered,False
+EVT-00312,HCP-00288,World Conference on Lung Cancer 2025,2025-09-06,general scientific exchange on the oncology portfolio,Oncology,Registered,False
+EVT-00313,HCP-00228,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00314,HCP-00282,World Conference on Lung Cancer 2025,2025-09-06,head-to-head data and comparative effectiveness,Oncology,Attended,True
+EVT-00315,HCP-00169,ASCO Annual Meeting 2026,2026-06-01,head-to-head data and comparative effectiveness,Oncology,No-show,False
+EVT-00316,HCP-00070,ESMO Congress 2025,2025-10-17,general scientific exchange on the oncology portfolio,Oncology,Attended,False
+EVT-00317,HCP-00104,World Conference on Lung Cancer 2025,2025-09-06,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,False
+EVT-00318,HCP-00267,ASCO GI 2026,2026-01-18,head-to-head data and comparative effectiveness,Oncology,Registered,False
+EVT-00319,HCP-00145,San Antonio Breast Cancer Symposium 2025,2025-12-09,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,True
+EVT-00320,HCP-00028,World Conference on Lung Cancer 2025,2025-09-06,intracranial response in patients with brain metastases,Oncology,Attended,False
+EVT-00321,HCP-00098,ASCO Annual Meeting 2026,2026-06-01,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,True
+EVT-00322,HCP-00024,ASCO Annual Meeting 2026,2026-06-01,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,True
+EVT-00323,HCP-00034,ASH Annual Meeting 2025,2025-12-06,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,True
+EVT-00324,HCP-00035,ASH Annual Meeting 2025,2025-12-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00325,HCP-00067,ESMO Congress 2025,2025-10-17,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00326,HCP-00055,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,True
+EVT-00327,HCP-00274,ASCO Annual Meeting 2026,2026-06-01,CNS activity and brain metastases outcomes,Oncology,Attended,True
+EVT-00328,HCP-00101,ESMO Congress 2025,2025-10-17,long-term duration of response and survival outcomes,Oncology,Attended,False
+EVT-00329,HCP-00088,ASCO Annual Meeting 2026,2026-06-01,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00330,HCP-00283,AACR Annual Meeting 2026,2026-04-25,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00331,HCP-00273,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00332,HCP-00270,ASCO GI 2026,2026-01-18,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00333,HCP-00066,ASH Annual Meeting 2025,2025-12-06,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00334,HCP-00233,World Conference on Lung Cancer 2025,2025-09-06,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00335,HCP-00243,World Conference on Lung Cancer 2025,2025-09-06,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00336,HCP-00115,World Conference on Lung Cancer 2025,2025-09-06,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00337,HCP-00279,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world outcomes and treatment patterns post-T-DXd,Oncology,No-show,False
+EVT-00338,HCP-00207,San Antonio Breast Cancer Symposium 2025,2025-12-09,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00339,HCP-00272,San Antonio Breast Cancer Symposium 2025,2025-12-09,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,True
+EVT-00340,HCP-00043,ASCO GI 2026,2026-01-18,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00341,HCP-00074,World Conference on Lung Cancer 2025,2025-09-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,True
+EVT-00342,HCP-00079,AACR Annual Meeting 2026,2026-04-25,general scientific exchange on the oncology portfolio,Oncology,Attended,False
+EVT-00343,HCP-00039,ASCO Annual Meeting 2026,2026-06-01,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00344,HCP-00169,AACR Annual Meeting 2026,2026-04-25,head-to-head data and comparative effectiveness,Oncology,Registered,False
+EVT-00345,HCP-00273,ASCO GI 2026,2026-01-18,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00346,HCP-00072,World Conference on Lung Cancer 2025,2025-09-06,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00347,HCP-00257,AACR Annual Meeting 2026,2026-04-25,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00348,HCP-00282,ESMO Congress 2025,2025-10-17,optimal sequencing after T-DXd progression,Oncology,Attended,True
+EVT-00349,HCP-00181,San Antonio Breast Cancer Symposium 2025,2025-12-09,long-term duration of response and survival outcomes,Oncology,Attended,False
+EVT-00350,HCP-00083,ASCO GI 2026,2026-01-18,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,No-show,False
+EVT-00351,HCP-00186,ASCO GI 2026,2026-01-18,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00352,HCP-00003,World Conference on Lung Cancer 2025,2025-09-06,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,False
+EVT-00353,HCP-00005,San Antonio Breast Cancer Symposium 2025,2025-12-09,optimal sequencing after T-DXd progression,Oncology,Registered,False
+EVT-00354,HCP-00264,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00355,HCP-00193,ASCO GI 2026,2026-01-18,TROPION-Lung and TROPION-Breast trial design,Oncology,Registered,False
+EVT-00356,HCP-00039,ASH Annual Meeting 2025,2025-12-06,general scientific exchange on the oncology portfolio,Oncology,Registered,False
+EVT-00357,HCP-00163,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00358,HCP-00300,ESMO Congress 2025,2025-10-17,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00359,HCP-00217,World Conference on Lung Cancer 2025,2025-09-06,combination strategies with immunotherapy,Oncology,Attended,False
+EVT-00360,HCP-00056,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Registered,False
+EVT-00361,HCP-00243,ASH Annual Meeting 2025,2025-12-06,TROP2 expression and biomarker-driven patient selection,Oncology,No-show,False
+EVT-00362,HCP-00149,ASCO Annual Meeting 2026,2026-06-01,long-term duration of response and survival outcomes,Oncology,Attended,True
+EVT-00363,HCP-00071,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00364,HCP-00267,San Antonio Breast Cancer Symposium 2025,2025-12-09,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00365,HCP-00015,San Antonio Breast Cancer Symposium 2025,2025-12-09,head-to-head data and comparative effectiveness,Oncology,Attended,False
+EVT-00366,HCP-00215,San Antonio Breast Cancer Symposium 2025,2025-12-09,ADC-related ILD adverse event grading and dose interruption,Oncology,No-show,False
+EVT-00367,HCP-00107,ASCO Annual Meeting 2026,2026-06-01,real-world outcomes and treatment patterns post-T-DXd,Oncology,No-show,False
+EVT-00368,HCP-00160,ASCO Annual Meeting 2026,2026-06-01,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00369,HCP-00199,ESMO Congress 2025,2025-10-17,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,True
+EVT-00370,HCP-00235,AACR Annual Meeting 2026,2026-04-25,long-term duration of response and survival outcomes,Oncology,Attended,False
+EVT-00371,HCP-00224,ASH Annual Meeting 2025,2025-12-06,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,True
+EVT-00372,HCP-00207,ASCO Annual Meeting 2026,2026-06-01,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00373,HCP-00080,AACR Annual Meeting 2026,2026-04-25,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00374,HCP-00104,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00375,HCP-00086,San Antonio Breast Cancer Symposium 2025,2025-12-09,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False
+EVT-00376,HCP-00079,San Antonio Breast Cancer Symposium 2025,2025-12-09,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00377,HCP-00266,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world outcomes and treatment patterns post-T-DXd,Oncology,Attended,True
+EVT-00378,HCP-00089,AACR Annual Meeting 2026,2026-04-25,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00379,HCP-00263,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Registered,False
+EVT-00380,HCP-00163,ASCO GI 2026,2026-01-18,optimal sequencing after T-DXd progression,Oncology,Registered,False
+EVT-00381,HCP-00242,San Antonio Breast Cancer Symposium 2025,2025-12-09,real-world evidence for T-DXd in HER2-low populations,Oncology,No-show,False
+EVT-00382,HCP-00108,San Antonio Breast Cancer Symposium 2025,2025-12-09,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00383,HCP-00075,ASH Annual Meeting 2025,2025-12-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Attended,False
+EVT-00384,HCP-00194,San Antonio Breast Cancer Symposium 2025,2025-12-09,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00385,HCP-00208,World Conference on Lung Cancer 2025,2025-09-06,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Attended,False
+EVT-00386,HCP-00188,ASH Annual Meeting 2025,2025-12-06,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00387,HCP-00254,World Conference on Lung Cancer 2025,2025-09-06,intracranial response in patients with brain metastases,Oncology,Attended,True
+EVT-00388,HCP-00150,ASCO GI 2026,2026-01-18,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00389,HCP-00028,World Conference on Lung Cancer 2025,2025-09-06,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Registered,False
+EVT-00390,HCP-00140,ASH Annual Meeting 2025,2025-12-06,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,True
+EVT-00391,HCP-00129,ASCO Annual Meeting 2026,2026-06-01,general scientific exchange on the oncology portfolio,Oncology,Registered,False
+EVT-00392,HCP-00119,AACR Annual Meeting 2026,2026-04-25,CNS activity and brain metastases outcomes,Oncology,Attended,True
+EVT-00393,HCP-00227,ASCO Annual Meeting 2026,2026-06-01,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,True
+EVT-00394,HCP-00075,ASCO Annual Meeting 2026,2026-06-01,combination strategies with immunotherapy,Oncology,Attended,True
+EVT-00395,HCP-00021,World Conference on Lung Cancer 2025,2025-09-06,optimal sequencing after T-DXd progression,Oncology,Attended,False
+EVT-00396,HCP-00266,ASCO Annual Meeting 2026,2026-06-01,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00397,HCP-00054,ESMO Congress 2025,2025-10-17,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00398,HCP-00155,AACR Annual Meeting 2026,2026-04-25,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,False
+EVT-00399,HCP-00028,ASCO GI 2026,2026-01-18,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False
+EVT-00400,HCP-00287,World Conference on Lung Cancer 2025,2025-09-06,comparative evidence versus T-DM1 and trastuzumab,Oncology,Registered,False
+EVT-00401,HCP-00077,ESMO Congress 2025,2025-10-17,optimal sequencing after T-DXd progression,Oncology,Registered,False
+EVT-00402,HCP-00080,World Conference on Lung Cancer 2025,2025-09-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,True
+EVT-00403,HCP-00177,ASCO Annual Meeting 2026,2026-06-01,comparative evidence versus T-DM1 and trastuzumab,Oncology,Attended,False
+EVT-00404,HCP-00201,ASH Annual Meeting 2025,2025-12-06,nausea and dosing management for antibody-drug conjugates,Oncology,Attended,False
+EVT-00405,HCP-00240,AACR Annual Meeting 2026,2026-04-25,general scientific exchange on the oncology portfolio,Oncology,Attended,True
+EVT-00406,HCP-00202,ESMO Congress 2025,2025-10-17,nausea and dosing management for antibody-drug conjugates,Oncology,Registered,False
+EVT-00407,HCP-00015,AACR Annual Meeting 2026,2026-04-25,intracranial response in patients with brain metastases,Oncology,No-show,False
+EVT-00408,HCP-00198,ASCO Annual Meeting 2026,2026-06-01,HER2-ultralow diagnostic thresholds and assay standardizatio,Oncology,Registered,False
+EVT-00409,HCP-00132,San Antonio Breast Cancer Symposium 2025,2025-12-09,intracranial response in patients with brain metastases,Oncology,Registered,False
+EVT-00410,HCP-00252,ASH Annual Meeting 2025,2025-12-06,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,False
+EVT-00411,HCP-00254,AACR Annual Meeting 2026,2026-04-25,real-world evidence for T-DXd in HER2-low populations,Oncology,Attended,False
+EVT-00412,HCP-00191,ASCO GI 2026,2026-01-18,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Attended,True
+EVT-00413,HCP-00228,ASCO GI 2026,2026-01-18,long-term duration of response and survival outcomes,Oncology,Attended,True
+EVT-00414,HCP-00283,San Antonio Breast Cancer Symposium 2025,2025-12-09,HER2 IHC testing and HER2-low patient identification,Oncology,Attended,False
+EVT-00415,HCP-00131,World Conference on Lung Cancer 2025,2025-09-06,TROPION-Lung and TROPION-Breast trial design,Oncology,Registered,False
+EVT-00416,HCP-00289,ESMO Congress 2025,2025-10-17,ADC-related ILD adverse event grading and dose interruption,Oncology,No-show,False
+EVT-00417,HCP-00200,AACR Annual Meeting 2026,2026-04-25,DESTINY-Breast04 and DESTINY-Breast06 efficacy data,Oncology,Attended,False
+EVT-00418,HCP-00089,ASH Annual Meeting 2025,2025-12-06,TROP2 expression and biomarker-driven patient selection,Oncology,Attended,False
+EVT-00419,HCP-00053,AACR Annual Meeting 2026,2026-04-25,interstitial lung disease / pneumonitis monitoring and manag,Oncology,Registered,False
+EVT-00420,HCP-00026,ESMO Congress 2025,2025-10-17,ADC-related ILD adverse event grading and dose interruption,Oncology,Attended,False

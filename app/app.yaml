@@ -1,0 +1,15 @@
+command: ["streamlit", "run", "app.py"]
+
+env:
+  - name: DATABRICKS_WAREHOUSE_ID
+    valueFrom: sql_warehouse
+  - name: MOA_CATALOG
+    value: "_sa701"
+  - name: MOA_SCHEMA
+    value: "moa"
+  - name: MOA_LLM_ENDPOINT
+    value: "databricks-meta-llama-3-3-70b-instruct"
+  - name: LAKEBASE_INSTANCE_NAME
+    value: "moa-medical-copilot"
+  - name: LAKEBASE_DATABASE_NAME
+    value: "databricks_postgres"

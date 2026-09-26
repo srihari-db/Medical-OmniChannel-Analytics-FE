@@ -1,0 +1,351 @@
+record_id,hcp_id,record_type,title,journal_or_registry,year,therapeutic_area,trial_id,citation_count
+REC-00001,HCP-00049,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Lancet Oncology,2023,Oncology,,77
+REC-00002,HCP-00109,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2026,Oncology,NCT05779693,0
+REC-00003,HCP-00266,Publication,Intracranial efficacy of T-DXd in brain metastases,Cancer Discovery,2025,Oncology,,99
+REC-00004,HCP-00187,Publication,Datopotamab deruxtecan in previously treated NSCLC,JCO,2026,Oncology,,166
+REC-00005,HCP-00231,Publication,Datopotamab deruxtecan in previously treated NSCLC,Nature Medicine,2025,Oncology,,165
+REC-00006,HCP-00168,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2025,Oncology,,112
+REC-00007,HCP-00128,Publication,Sequencing strategies after T-DXd progression,JCO,2025,Oncology,,103
+REC-00008,HCP-00227,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2023,Oncology,NCT06572223,0
+REC-00009,HCP-00179,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2024,Oncology,,69
+REC-00010,HCP-00074,Publication,Management of ADC-related interstitial lung disease,Cancer Discovery,2024,Oncology,,73
+REC-00011,HCP-00016,Publication,Real-world outcomes with antibody-drug conjugates,Annals of Oncology,2024,Oncology,,105
+REC-00012,HCP-00197,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2025,Oncology,NCT05882148,0
+REC-00013,HCP-00016,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JAMA Oncology,2024,Oncology,,187
+REC-00014,HCP-00062,Publication,Datopotamab deruxtecan in previously treated NSCLC,Cancer Discovery,2023,Oncology,,117
+REC-00015,HCP-00105,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT04807485,0
+REC-00016,HCP-00080,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT06738234,0
+REC-00017,HCP-00244,Publication,Management of ADC-related interstitial lung disease,Lancet Oncology,2024,Oncology,,72
+REC-00018,HCP-00142,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2023,Oncology,NCT04223816,0
+REC-00019,HCP-00183,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2024,Oncology,,74
+REC-00020,HCP-00110,Publication,Datopotamab deruxtecan in previously treated NSCLC,JCO,2025,Oncology,,150
+REC-00021,HCP-00201,Publication,Intracranial efficacy of T-DXd in brain metastases,JAMA Oncology,2024,Oncology,,187
+REC-00022,HCP-00117,Publication,Real-world outcomes with antibody-drug conjugates,Cancer Discovery,2023,Oncology,,9
+REC-00023,HCP-00211,Publication,HER2-ultralow: redefining biomarker thresholds,Lancet Oncology,2025,Oncology,,188
+REC-00024,HCP-00282,Publication,HER2-ultralow: redefining biomarker thresholds,Lancet Oncology,2023,Oncology,,53
+REC-00025,HCP-00231,Publication,Real-world outcomes with antibody-drug conjugates,NEJM,2026,Oncology,,136
+REC-00026,HCP-00227,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JAMA Oncology,2025,Oncology,,192
+REC-00027,HCP-00200,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2025,Oncology,NCT05151702,0
+REC-00028,HCP-00018,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2023,Oncology,NCT05257078,0
+REC-00029,HCP-00235,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2026,Oncology,NCT04820099,0
+REC-00030,HCP-00283,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2025,Oncology,NCT05524842,0
+REC-00031,HCP-00202,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2025,Oncology,NCT06636830,0
+REC-00032,HCP-00045,Publication,Datopotamab deruxtecan in previously treated NSCLC,Nature Medicine,2024,Oncology,,154
+REC-00033,HCP-00215,Publication,Management of ADC-related interstitial lung disease,NEJM,2023,Oncology,,89
+REC-00034,HCP-00073,Publication,Real-world outcomes with antibody-drug conjugates,JAMA Oncology,2023,Oncology,,186
+REC-00035,HCP-00083,Publication,Sequencing strategies after T-DXd progression,Nature Medicine,2024,Oncology,,201
+REC-00036,HCP-00037,Publication,Datopotamab deruxtecan in previously treated NSCLC,Cancer Discovery,2024,Oncology,,38
+REC-00037,HCP-00001,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JAMA Oncology,2026,Oncology,,0
+REC-00038,HCP-00210,Publication,Management of ADC-related interstitial lung disease,NEJM,2023,Oncology,,85
+REC-00039,HCP-00280,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2026,Oncology,NCT04046174,0
+REC-00040,HCP-00047,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2026,Oncology,NCT06668444,0
+REC-00041,HCP-00061,Publication,Real-world outcomes with antibody-drug conjugates,Lancet Oncology,2023,Oncology,,74
+REC-00042,HCP-00197,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2024,Oncology,NCT06905133,0
+REC-00043,HCP-00198,Publication,Management of ADC-related interstitial lung disease,Annals of Oncology,2024,Oncology,,142
+REC-00044,HCP-00153,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Cancer Discovery,2023,Oncology,,209
+REC-00045,HCP-00246,Publication,Real-world outcomes with antibody-drug conjugates,Lancet Oncology,2025,Oncology,,128
+REC-00046,HCP-00088,Publication,Real-world outcomes with antibody-drug conjugates,JCO,2024,Oncology,,186
+REC-00047,HCP-00263,Publication,HER2-ultralow: redefining biomarker thresholds,JAMA Oncology,2025,Oncology,,37
+REC-00048,HCP-00245,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Annals of Oncology,2024,Oncology,,113
+REC-00049,HCP-00003,Publication,Sequencing strategies after T-DXd progression,Nature Medicine,2024,Oncology,,197
+REC-00050,HCP-00109,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2025,Oncology,,71
+REC-00051,HCP-00288,Publication,HER2-ultralow: redefining biomarker thresholds,JAMA Oncology,2026,Oncology,,87
+REC-00052,HCP-00163,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Annals of Oncology,2026,Oncology,,182
+REC-00053,HCP-00275,Publication,HER2-ultralow: redefining biomarker thresholds,JCO,2024,Oncology,,32
+REC-00054,HCP-00061,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2024,Oncology,NCT04215867,0
+REC-00055,HCP-00035,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2024,Oncology,NCT06771763,0
+REC-00056,HCP-00004,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2024,Oncology,NCT05609934,0
+REC-00057,HCP-00046,Publication,Management of ADC-related interstitial lung disease,Cancer Discovery,2026,Oncology,,144
+REC-00058,HCP-00060,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2025,Oncology,,27
+REC-00059,HCP-00139,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2025,Oncology,NCT04994157,0
+REC-00060,HCP-00230,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Annals of Oncology,2025,Oncology,,86
+REC-00061,HCP-00150,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2026,Oncology,NCT06606378,0
+REC-00062,HCP-00161,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Lancet Oncology,2024,Oncology,,33
+REC-00063,HCP-00293,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2023,Oncology,NCT05041990,0
+REC-00064,HCP-00179,Publication,Datopotamab deruxtecan in previously treated NSCLC,Nature Medicine,2025,Oncology,,112
+REC-00065,HCP-00285,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2024,Oncology,NCT04824638,0
+REC-00066,HCP-00182,Publication,Sequencing strategies after T-DXd progression,Nature Medicine,2026,Oncology,,23
+REC-00067,HCP-00109,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2024,Oncology,NCT05898612,0
+REC-00068,HCP-00101,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2025,Oncology,NCT06692996,0
+REC-00069,HCP-00185,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2025,Oncology,NCT04464719,0
+REC-00070,HCP-00014,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2024,Oncology,NCT06762973,0
+REC-00071,HCP-00050,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT04120878,0
+REC-00072,HCP-00118,Publication,Datopotamab deruxtecan in previously treated NSCLC,JAMA Oncology,2024,Oncology,,205
+REC-00073,HCP-00164,Publication,HER2-ultralow: redefining biomarker thresholds,Annals of Oncology,2025,Oncology,,79
+REC-00074,HCP-00207,Publication,Sequencing strategies after T-DXd progression,JCO,2026,Oncology,,56
+REC-00075,HCP-00039,Publication,Management of ADC-related interstitial lung disease,Annals of Oncology,2026,Oncology,,104
+REC-00076,HCP-00267,Publication,Real-world outcomes with antibody-drug conjugates,Cancer Discovery,2025,Oncology,,87
+REC-00077,HCP-00067,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2026,Oncology,NCT06890837,0
+REC-00078,HCP-00131,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,NEJM,2024,Oncology,,218
+REC-00079,HCP-00116,Publication,Intracranial efficacy of T-DXd in brain metastases,Cancer Discovery,2024,Oncology,,29
+REC-00080,HCP-00091,Publication,HER2-ultralow: redefining biomarker thresholds,NEJM,2025,Oncology,,182
+REC-00081,HCP-00193,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2025,Oncology,NCT05573457,0
+REC-00082,HCP-00271,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JCO,2024,Oncology,,138
+REC-00083,HCP-00273,Publication,Intracranial efficacy of T-DXd in brain metastases,Cancer Discovery,2026,Oncology,,5
+REC-00084,HCP-00297,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2026,Oncology,,146
+REC-00085,HCP-00208,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2024,Oncology,NCT04335737,0
+REC-00086,HCP-00237,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2025,Oncology,NCT06909479,0
+REC-00087,HCP-00266,Publication,Real-world outcomes with antibody-drug conjugates,Nature Medicine,2025,Oncology,,66
+REC-00088,HCP-00272,Publication,Real-world outcomes with antibody-drug conjugates,Nature Medicine,2024,Oncology,,171
+REC-00089,HCP-00169,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2025,Oncology,NCT06548159,0
+REC-00090,HCP-00151,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2024,Oncology,,80
+REC-00091,HCP-00273,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT04040573,0
+REC-00092,HCP-00200,Publication,Sequencing strategies after T-DXd progression,JCO,2025,Oncology,,218
+REC-00093,HCP-00004,Publication,Intracranial efficacy of T-DXd in brain metastases,Nature Medicine,2023,Oncology,,31
+REC-00094,HCP-00038,Publication,Real-world outcomes with antibody-drug conjugates,Lancet Oncology,2024,Oncology,,162
+REC-00095,HCP-00027,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2026,Oncology,,38
+REC-00096,HCP-00293,Publication,Real-world outcomes with antibody-drug conjugates,Cancer Discovery,2025,Oncology,,10
+REC-00097,HCP-00268,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Annals of Oncology,2024,Oncology,,130
+REC-00098,HCP-00072,Publication,Datopotamab deruxtecan in previously treated NSCLC,Annals of Oncology,2024,Oncology,,128
+REC-00099,HCP-00090,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT04743159,0
+REC-00100,HCP-00238,Publication,Real-world outcomes with antibody-drug conjugates,Lancet Oncology,2024,Oncology,,109
+REC-00101,HCP-00130,Publication,HER2-ultralow: redefining biomarker thresholds,Nature Medicine,2024,Oncology,,193
+REC-00102,HCP-00099,Publication,Datopotamab deruxtecan in previously treated NSCLC,JAMA Oncology,2026,Oncology,,94
+REC-00103,HCP-00079,Publication,Intracranial efficacy of T-DXd in brain metastases,Cancer Discovery,2025,Oncology,,24
+REC-00104,HCP-00134,Publication,Sequencing strategies after T-DXd progression,JAMA Oncology,2024,Oncology,,71
+REC-00105,HCP-00088,Publication,Intracranial efficacy of T-DXd in brain metastases,JCO,2024,Oncology,,32
+REC-00106,HCP-00125,Publication,Datopotamab deruxtecan in previously treated NSCLC,JAMA Oncology,2025,Oncology,,183
+REC-00107,HCP-00178,Publication,HER2-ultralow: redefining biomarker thresholds,JCO,2025,Oncology,,97
+REC-00108,HCP-00083,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT04803082,0
+REC-00109,HCP-00183,Publication,Sequencing strategies after T-DXd progression,Lancet Oncology,2025,Oncology,,113
+REC-00110,HCP-00299,Publication,Datopotamab deruxtecan in previously treated NSCLC,Lancet Oncology,2025,Oncology,,149
+REC-00111,HCP-00206,Publication,Real-world outcomes with antibody-drug conjugates,JAMA Oncology,2024,Oncology,,156
+REC-00112,HCP-00273,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Nature Medicine,2024,Oncology,,166
+REC-00113,HCP-00062,Publication,HER2-ultralow: redefining biomarker thresholds,Annals of Oncology,2025,Oncology,,98
+REC-00114,HCP-00038,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Cancer Discovery,2024,Oncology,,2
+REC-00115,HCP-00187,Publication,Real-world outcomes with antibody-drug conjugates,Nature Medicine,2026,Oncology,,169
+REC-00116,HCP-00050,Publication,Sequencing strategies after T-DXd progression,NEJM,2023,Oncology,,20
+REC-00117,HCP-00208,Publication,Intracranial efficacy of T-DXd in brain metastases,NEJM,2025,Oncology,,67
+REC-00118,HCP-00034,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JAMA Oncology,2024,Oncology,,19
+REC-00119,HCP-00236,Publication,Datopotamab deruxtecan in previously treated NSCLC,Cancer Discovery,2024,Oncology,,29
+REC-00120,HCP-00259,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,NEJM,2024,Oncology,,77
+REC-00121,HCP-00286,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2024,Oncology,,47
+REC-00122,HCP-00048,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Lancet Oncology,2024,Oncology,,98
+REC-00123,HCP-00134,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2023,Oncology,NCT04251022,0
+REC-00124,HCP-00193,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2023,Oncology,NCT04611959,0
+REC-00125,HCP-00168,Publication,Intracranial efficacy of T-DXd in brain metastases,JAMA Oncology,2023,Oncology,,129
+REC-00126,HCP-00141,Publication,Intracranial efficacy of T-DXd in brain metastases,Nature Medicine,2023,Oncology,,91
+REC-00127,HCP-00068,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2026,Oncology,NCT06234369,0
+REC-00128,HCP-00103,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2025,Oncology,NCT04769209,0
+REC-00129,HCP-00278,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2023,Oncology,NCT05832593,0
+REC-00130,HCP-00136,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2024,Oncology,NCT04515114,0
+REC-00131,HCP-00020,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2025,Oncology,NCT04626746,0
+REC-00132,HCP-00181,Publication,Datopotamab deruxtecan in previously treated NSCLC,Annals of Oncology,2023,Oncology,,11
+REC-00133,HCP-00206,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,NEJM,2024,Oncology,,113
+REC-00134,HCP-00257,Publication,Datopotamab deruxtecan in previously treated NSCLC,Cancer Discovery,2026,Oncology,,35
+REC-00135,HCP-00208,Publication,Sequencing strategies after T-DXd progression,Annals of Oncology,2026,Oncology,,62
+REC-00136,HCP-00054,Publication,Management of ADC-related interstitial lung disease,JAMA Oncology,2025,Oncology,,205
+REC-00137,HCP-00287,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT06369374,0
+REC-00138,HCP-00275,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2023,Oncology,NCT04136793,0
+REC-00139,HCP-00164,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2024,Oncology,NCT04082175,0
+REC-00140,HCP-00165,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT05225665,0
+REC-00141,HCP-00114,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2026,Oncology,,9
+REC-00142,HCP-00118,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT05754390,0
+REC-00143,HCP-00142,Publication,Management of ADC-related interstitial lung disease,NEJM,2023,Oncology,,21
+REC-00144,HCP-00234,Publication,HER2-ultralow: redefining biomarker thresholds,Lancet Oncology,2025,Oncology,,135
+REC-00145,HCP-00263,Publication,HER2-ultralow: redefining biomarker thresholds,Lancet Oncology,2025,Oncology,,90
+REC-00146,HCP-00001,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2024,Oncology,NCT06326450,0
+REC-00147,HCP-00145,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2023,Oncology,,209
+REC-00148,HCP-00208,Publication,Datopotamab deruxtecan in previously treated NSCLC,NEJM,2025,Oncology,,60
+REC-00149,HCP-00178,Publication,Sequencing strategies after T-DXd progression,JCO,2026,Oncology,,24
+REC-00150,HCP-00108,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2025,Oncology,NCT05517230,0
+REC-00151,HCP-00182,Publication,Intracranial efficacy of T-DXd in brain metastases,Nature Medicine,2023,Oncology,,142
+REC-00152,HCP-00079,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2026,Oncology,,196
+REC-00153,HCP-00199,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Nature Medicine,2026,Oncology,,2
+REC-00154,HCP-00137,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2024,Oncology,,37
+REC-00155,HCP-00238,Publication,Intracranial efficacy of T-DXd in brain metastases,NEJM,2025,Oncology,,24
+REC-00156,HCP-00272,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT05060225,0
+REC-00157,HCP-00277,Publication,Real-world outcomes with antibody-drug conjugates,JCO,2025,Oncology,,22
+REC-00158,HCP-00117,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2024,Oncology,NCT06625611,0
+REC-00159,HCP-00143,Publication,Management of ADC-related interstitial lung disease,NEJM,2025,Oncology,,175
+REC-00160,HCP-00096,Publication,Management of ADC-related interstitial lung disease,JAMA Oncology,2025,Oncology,,129
+REC-00161,HCP-00272,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2026,Oncology,NCT05285035,0
+REC-00162,HCP-00062,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2023,Oncology,NCT06410569,0
+REC-00163,HCP-00268,Publication,Management of ADC-related interstitial lung disease,NEJM,2026,Oncology,,203
+REC-00164,HCP-00147,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2025,Oncology,,83
+REC-00165,HCP-00210,Publication,Sequencing strategies after T-DXd progression,JAMA Oncology,2024,Oncology,,132
+REC-00166,HCP-00253,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2024,Oncology,,188
+REC-00167,HCP-00128,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT06391895,0
+REC-00168,HCP-00094,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Cancer Discovery,2025,Oncology,,46
+REC-00169,HCP-00006,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2023,Oncology,NCT06857060,0
+REC-00170,HCP-00278,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2024,Oncology,NCT05539191,0
+REC-00171,HCP-00110,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JCO,2024,Oncology,,102
+REC-00172,HCP-00136,Publication,Management of ADC-related interstitial lung disease,Lancet Oncology,2023,Oncology,,7
+REC-00173,HCP-00134,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2023,Oncology,,175
+REC-00174,HCP-00101,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT04272327,0
+REC-00175,HCP-00157,Publication,HER2-ultralow: redefining biomarker thresholds,Lancet Oncology,2023,Oncology,,91
+REC-00176,HCP-00197,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2024,Oncology,,86
+REC-00177,HCP-00232,Publication,HER2-ultralow: redefining biomarker thresholds,NEJM,2025,Oncology,,58
+REC-00178,HCP-00075,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Nature Medicine,2025,Oncology,,168
+REC-00179,HCP-00267,Publication,Real-world outcomes with antibody-drug conjugates,JCO,2024,Oncology,,176
+REC-00180,HCP-00143,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2024,Oncology,NCT06914990,0
+REC-00181,HCP-00086,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2026,Oncology,NCT05305732,0
+REC-00182,HCP-00213,Publication,HER2-ultralow: redefining biomarker thresholds,JCO,2026,Oncology,,1
+REC-00183,HCP-00023,Publication,HER2-ultralow: redefining biomarker thresholds,Nature Medicine,2024,Oncology,,97
+REC-00184,HCP-00037,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Cancer Discovery,2025,Oncology,,54
+REC-00185,HCP-00010,Publication,Datopotamab deruxtecan in previously treated NSCLC,Annals of Oncology,2025,Oncology,,110
+REC-00186,HCP-00095,Publication,Datopotamab deruxtecan in previously treated NSCLC,JCO,2026,Oncology,,1
+REC-00187,HCP-00027,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Lancet Oncology,2024,Oncology,,95
+REC-00188,HCP-00226,Publication,HER2-ultralow: redefining biomarker thresholds,JCO,2025,Oncology,,172
+REC-00189,HCP-00039,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2023,Oncology,NCT06186314,0
+REC-00190,HCP-00257,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2026,Oncology,NCT05734362,0
+REC-00191,HCP-00197,Publication,Sequencing strategies after T-DXd progression,Annals of Oncology,2026,Oncology,,159
+REC-00192,HCP-00270,Publication,HER2-ultralow: redefining biomarker thresholds,Nature Medicine,2025,Oncology,,24
+REC-00193,HCP-00282,Publication,Intracranial efficacy of T-DXd in brain metastases,Nature Medicine,2024,Oncology,,103
+REC-00194,HCP-00152,Publication,HER2-ultralow: redefining biomarker thresholds,Cancer Discovery,2025,Oncology,,34
+REC-00195,HCP-00139,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2024,Oncology,NCT04233040,0
+REC-00196,HCP-00132,Publication,Datopotamab deruxtecan in previously treated NSCLC,Annals of Oncology,2024,Oncology,,122
+REC-00197,HCP-00130,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2025,Oncology,NCT05224483,0
+REC-00198,HCP-00253,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT05493746,0
+REC-00199,HCP-00055,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2023,Oncology,NCT06974802,0
+REC-00200,HCP-00262,Publication,Real-world outcomes with antibody-drug conjugates,Lancet Oncology,2025,Oncology,,171
+REC-00201,HCP-00293,Publication,Management of ADC-related interstitial lung disease,JAMA Oncology,2026,Oncology,,152
+REC-00202,HCP-00256,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2024,Oncology,NCT06761100,0
+REC-00203,HCP-00202,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2023,Oncology,,181
+REC-00204,HCP-00232,Publication,Datopotamab deruxtecan in previously treated NSCLC,JCO,2025,Oncology,,206
+REC-00205,HCP-00003,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2025,Oncology,NCT04970580,0
+REC-00206,HCP-00246,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2025,Oncology,NCT04080300,0
+REC-00207,HCP-00099,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2026,Oncology,NCT06177954,0
+REC-00208,HCP-00048,Publication,Sequencing strategies after T-DXd progression,NEJM,2024,Oncology,,108
+REC-00209,HCP-00043,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,NEJM,2024,Oncology,,199
+REC-00210,HCP-00170,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2023,Oncology,NCT06043818,0
+REC-00211,HCP-00287,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2024,Oncology,NCT04186624,0
+REC-00212,HCP-00177,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2023,Oncology,NCT05691649,0
+REC-00213,HCP-00233,Publication,HER2-ultralow: redefining biomarker thresholds,Cancer Discovery,2024,Oncology,,43
+REC-00214,HCP-00298,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT06691914,0
+REC-00215,HCP-00274,Publication,Real-world outcomes with antibody-drug conjugates,NEJM,2024,Oncology,,121
+REC-00216,HCP-00055,Publication,Intracranial efficacy of T-DXd in brain metastases,NEJM,2024,Oncology,,192
+REC-00217,HCP-00032,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT05365995,0
+REC-00218,HCP-00047,Publication,Management of ADC-related interstitial lung disease,Cancer Discovery,2024,Oncology,,213
+REC-00219,HCP-00043,Publication,HER2-ultralow: redefining biomarker thresholds,JCO,2026,Oncology,,105
+REC-00220,HCP-00198,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT06312457,0
+REC-00221,HCP-00122,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2025,Oncology,,136
+REC-00222,HCP-00022,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2026,Oncology,NCT05150231,0
+REC-00223,HCP-00086,Publication,Sequencing strategies after T-DXd progression,Cancer Discovery,2025,Oncology,,70
+REC-00224,HCP-00299,Publication,Sequencing strategies after T-DXd progression,Cancer Discovery,2024,Oncology,,46
+REC-00225,HCP-00265,Publication,Real-world outcomes with antibody-drug conjugates,JCO,2024,Oncology,,95
+REC-00226,HCP-00034,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2024,Oncology,NCT04020924,0
+REC-00227,HCP-00274,Publication,Datopotamab deruxtecan in previously treated NSCLC,NEJM,2023,Oncology,,27
+REC-00228,HCP-00033,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2025,Oncology,NCT05767275,0
+REC-00229,HCP-00157,Publication,Datopotamab deruxtecan in previously treated NSCLC,Annals of Oncology,2024,Oncology,,209
+REC-00230,HCP-00190,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2023,Oncology,NCT04501210,0
+REC-00231,HCP-00044,Publication,Datopotamab deruxtecan in previously treated NSCLC,Lancet Oncology,2025,Oncology,,98
+REC-00232,HCP-00197,Publication,Management of ADC-related interstitial lung disease,JAMA Oncology,2025,Oncology,,205
+REC-00233,HCP-00141,Publication,HER2-ultralow: redefining biomarker thresholds,Annals of Oncology,2026,Oncology,,14
+REC-00234,HCP-00079,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Nature Medicine,2026,Oncology,,63
+REC-00235,HCP-00037,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2024,Oncology,NCT04691523,0
+REC-00236,HCP-00217,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2023,Oncology,NCT06279509,0
+REC-00237,HCP-00069,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2024,Oncology,,12
+REC-00238,HCP-00028,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2026,Oncology,NCT06930447,0
+REC-00239,HCP-00175,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2023,Oncology,NCT06597638,0
+REC-00240,HCP-00220,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2025,Oncology,NCT06036347,0
+REC-00241,HCP-00283,Publication,Datopotamab deruxtecan in previously treated NSCLC,JCO,2024,Oncology,,148
+REC-00242,HCP-00016,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2026,Oncology,NCT04321891,0
+REC-00243,HCP-00095,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2026,Oncology,NCT05565769,0
+REC-00244,HCP-00205,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2025,Oncology,NCT05573840,0
+REC-00245,HCP-00199,Publication,Intracranial efficacy of T-DXd in brain metastases,Lancet Oncology,2024,Oncology,,0
+REC-00246,HCP-00219,Publication,Real-world outcomes with antibody-drug conjugates,JCO,2025,Oncology,,56
+REC-00247,HCP-00189,Publication,Management of ADC-related interstitial lung disease,JCO,2024,Oncology,,3
+REC-00248,HCP-00240,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2024,Oncology,,164
+REC-00249,HCP-00242,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2024,Oncology,NCT05667625,0
+REC-00250,HCP-00034,Publication,HER2-ultralow: redefining biomarker thresholds,Cancer Discovery,2025,Oncology,,107
+REC-00251,HCP-00043,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT04481494,0
+REC-00252,HCP-00030,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2025,Oncology,NCT06015066,0
+REC-00253,HCP-00149,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2025,Oncology,NCT06363310,0
+REC-00254,HCP-00057,Publication,HER2-ultralow: redefining biomarker thresholds,Annals of Oncology,2025,Oncology,,39
+REC-00255,HCP-00276,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2025,Oncology,NCT04101675,0
+REC-00256,HCP-00007,Publication,Management of ADC-related interstitial lung disease,Cancer Discovery,2023,Oncology,,8
+REC-00257,HCP-00083,Publication,Real-world outcomes with antibody-drug conjugates,JCO,2023,Oncology,,92
+REC-00258,HCP-00102,Publication,Intracranial efficacy of T-DXd in brain metastases,Cancer Discovery,2024,Oncology,,163
+REC-00259,HCP-00008,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2026,Oncology,NCT04173851,0
+REC-00260,HCP-00057,Publication,HER2-ultralow: redefining biomarker thresholds,Cancer Discovery,2026,Oncology,,201
+REC-00261,HCP-00056,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2023,Oncology,NCT04705942,0
+REC-00262,HCP-00223,Publication,Datopotamab deruxtecan in previously treated NSCLC,NEJM,2026,Oncology,,56
+REC-00263,HCP-00187,Publication,Intracranial efficacy of T-DXd in brain metastases,JCO,2026,Oncology,,195
+REC-00264,HCP-00070,Publication,HER2-ultralow: redefining biomarker thresholds,Cancer Discovery,2024,Oncology,,209
+REC-00265,HCP-00105,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2025,Oncology,NCT04257485,0
+REC-00266,HCP-00094,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2025,Oncology,NCT05509749,0
+REC-00267,HCP-00042,Publication,Real-world outcomes with antibody-drug conjugates,Cancer Discovery,2023,Oncology,,3
+REC-00268,HCP-00178,Publication,Management of ADC-related interstitial lung disease,Lancet Oncology,2024,Oncology,,117
+REC-00269,HCP-00126,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JAMA Oncology,2025,Oncology,,147
+REC-00270,HCP-00243,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT06361735,0
+REC-00271,HCP-00185,Publication,Real-world outcomes with antibody-drug conjugates,NEJM,2024,Oncology,,102
+REC-00272,HCP-00082,Publication,Real-world outcomes with antibody-drug conjugates,JAMA Oncology,2026,Oncology,,30
+REC-00273,HCP-00024,Publication,HER2-ultralow: redefining biomarker thresholds,Cancer Discovery,2026,Oncology,,56
+REC-00274,HCP-00121,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2024,Oncology,NCT05886395,0
+REC-00275,HCP-00088,Publication,HER2-ultralow: redefining biomarker thresholds,NEJM,2023,Oncology,,194
+REC-00276,HCP-00153,Publication,Management of ADC-related interstitial lung disease,Nature Medicine,2023,Oncology,,95
+REC-00277,HCP-00172,Publication,HER2-ultralow: redefining biomarker thresholds,JCO,2024,Oncology,,166
+REC-00278,HCP-00016,Publication,Management of ADC-related interstitial lung disease,JAMA Oncology,2026,Oncology,,127
+REC-00279,HCP-00194,Publication,Datopotamab deruxtecan in previously treated NSCLC,Cancer Discovery,2024,Oncology,,140
+REC-00280,HCP-00007,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT05322650,0
+REC-00281,HCP-00198,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2026,Oncology,NCT04421598,0
+REC-00282,HCP-00178,Publication,Sequencing strategies after T-DXd progression,Annals of Oncology,2025,Oncology,,139
+REC-00283,HCP-00249,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2024,Oncology,,47
+REC-00284,HCP-00025,Publication,Real-world outcomes with antibody-drug conjugates,Lancet Oncology,2024,Oncology,,52
+REC-00285,HCP-00225,Publication,Sequencing strategies after T-DXd progression,Annals of Oncology,2025,Oncology,,43
+REC-00286,HCP-00120,Publication,Management of ADC-related interstitial lung disease,JAMA Oncology,2025,Oncology,,206
+REC-00287,HCP-00029,Publication,Real-world outcomes with antibody-drug conjugates,Annals of Oncology,2026,Oncology,,100
+REC-00288,HCP-00101,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT05769771,0
+REC-00289,HCP-00036,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2024,Oncology,NCT05860083,0
+REC-00290,HCP-00088,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2025,Oncology,NCT05849499,0
+REC-00291,HCP-00189,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,NEJM,2024,Oncology,,34
+REC-00292,HCP-00215,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT06239373,0
+REC-00293,HCP-00262,Publication,HER2-ultralow: redefining biomarker thresholds,Nature Medicine,2023,Oncology,,207
+REC-00294,HCP-00245,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2023,Oncology,NCT05470854,0
+REC-00295,HCP-00072,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2024,Oncology,,156
+REC-00296,HCP-00088,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JAMA Oncology,2026,Oncology,,182
+REC-00297,HCP-00225,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,NEJM,2025,Oncology,,14
+REC-00298,HCP-00152,Publication,Datopotamab deruxtecan in previously treated NSCLC,Cancer Discovery,2025,Oncology,,76
+REC-00299,HCP-00154,Publication,Real-world outcomes with antibody-drug conjugates,Nature Medicine,2024,Oncology,,77
+REC-00300,HCP-00205,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2025,Oncology,NCT06230836,0
+REC-00301,HCP-00062,Publication,Sequencing strategies after T-DXd progression,JAMA Oncology,2024,Oncology,,25
+REC-00302,HCP-00063,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,Lancet Oncology,2025,Oncology,,18
+REC-00303,HCP-00141,Publication,HER2-ultralow: redefining biomarker thresholds,JCO,2025,Oncology,,37
+REC-00304,HCP-00018,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2025,Oncology,NCT05741703,0
+REC-00305,HCP-00264,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2023,Oncology,NCT04087819,0
+REC-00306,HCP-00187,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2023,Oncology,NCT06432207,0
+REC-00307,HCP-00180,Publication,Sequencing strategies after T-DXd progression,Nature Medicine,2025,Oncology,,47
+REC-00308,HCP-00224,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2024,Oncology,NCT04163946,0
+REC-00309,HCP-00177,Publication,Sequencing strategies after T-DXd progression,JCO,2023,Oncology,,14
+REC-00310,HCP-00035,Publication,Real-world outcomes with antibody-drug conjugates,Nature Medicine,2026,Oncology,,110
+REC-00311,HCP-00162,Publication,Datopotamab deruxtecan in previously treated NSCLC,JAMA Oncology,2026,Oncology,,109
+REC-00312,HCP-00280,Publication,Sequencing strategies after T-DXd progression,Cancer Discovery,2024,Oncology,,65
+REC-00313,HCP-00224,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2024,Oncology,NCT04981126,0
+REC-00314,HCP-00300,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2025,Oncology,NCT04006603,0
+REC-00315,HCP-00223,Publication,Real-world outcomes with antibody-drug conjugates,Nature Medicine,2026,Oncology,,60
+REC-00316,HCP-00017,Publication,Real-world outcomes with antibody-drug conjugates,Nature Medicine,2023,Oncology,,118
+REC-00317,HCP-00060,Publication,Sequencing strategies after T-DXd progression,Cancer Discovery,2023,Oncology,,121
+REC-00318,HCP-00133,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2023,Oncology,NCT06938657,0
+REC-00319,HCP-00272,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2023,Oncology,,70
+REC-00320,HCP-00059,Publication,Real-world outcomes with antibody-drug conjugates,Cancer Discovery,2024,Oncology,,22
+REC-00321,HCP-00266,Publication,Intracranial efficacy of T-DXd in brain metastases,Annals of Oncology,2024,Oncology,,142
+REC-00322,HCP-00284,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2023,Oncology,NCT06167141,0
+REC-00323,HCP-00003,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT06042248,0
+REC-00324,HCP-00059,Publication,Datopotamab deruxtecan in previously treated NSCLC,Nature Medicine,2025,Oncology,,193
+REC-00325,HCP-00102,Publication,Sequencing strategies after T-DXd progression,NEJM,2024,Oncology,,150
+REC-00326,HCP-00082,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2025,Oncology,NCT05462414,0
+REC-00327,HCP-00108,Publication,HER2-ultralow: redefining biomarker thresholds,NEJM,2025,Oncology,,196
+REC-00328,HCP-00034,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2026,Oncology,NCT04618072,0
+REC-00329,HCP-00292,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT04379824,0
+REC-00330,HCP-00152,Clinical Trial,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,ClinicalTrials.gov,2025,Oncology,NCT06465500,0
+REC-00331,HCP-00280,Publication,Sequencing strategies after T-DXd progression,JAMA Oncology,2026,Oncology,,118
+REC-00332,HCP-00198,Publication,Management of ADC-related interstitial lung disease,Annals of Oncology,2026,Oncology,,160
+REC-00333,HCP-00289,Publication,Sequencing strategies after T-DXd progression,JCO,2025,Oncology,,116
+REC-00334,HCP-00144,Publication,Datopotamab deruxtecan in previously treated NSCLC,Lancet Oncology,2025,Oncology,,204
+REC-00335,HCP-00083,Publication,Real-world outcomes with antibody-drug conjugates,Cancer Discovery,2025,Oncology,,112
+REC-00336,HCP-00095,Publication,Management of ADC-related interstitial lung disease,NEJM,2024,Oncology,,39
+REC-00337,HCP-00034,Publication,Real-world outcomes with antibody-drug conjugates,JAMA Oncology,2025,Oncology,,133
+REC-00338,HCP-00187,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2023,Oncology,NCT06232637,0
+REC-00339,HCP-00099,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2023,Oncology,NCT04666892,0
+REC-00340,HCP-00056,Clinical Trial,Intracranial efficacy of T-DXd in brain metastases,ClinicalTrials.gov,2024,Oncology,NCT06856501,0
+REC-00341,HCP-00297,Clinical Trial,Management of ADC-related interstitial lung disease,ClinicalTrials.gov,2025,Oncology,NCT06193873,0
+REC-00342,HCP-00117,Clinical Trial,HER2-ultralow: redefining biomarker thresholds,ClinicalTrials.gov,2024,Oncology,NCT06445347,0
+REC-00343,HCP-00107,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2023,Oncology,NCT06016928,0
+REC-00344,HCP-00090,Publication,Datopotamab deruxtecan in previously treated NSCLC,JAMA Oncology,2025,Oncology,,108
+REC-00345,HCP-00292,Publication,Trastuzumab deruxtecan in HER2-low metastatic breast cancer,JCO,2023,Oncology,,81
+REC-00346,HCP-00048,Clinical Trial,Sequencing strategies after T-DXd progression,ClinicalTrials.gov,2024,Oncology,NCT06190891,0
+REC-00347,HCP-00180,Clinical Trial,Datopotamab deruxtecan in previously treated NSCLC,ClinicalTrials.gov,2024,Oncology,NCT06694930,0
+REC-00348,HCP-00190,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2024,Oncology,NCT06424298,0
+REC-00349,HCP-00285,Publication,Intracranial efficacy of T-DXd in brain metastases,Cancer Discovery,2024,Oncology,,30
+REC-00350,HCP-00064,Clinical Trial,Real-world outcomes with antibody-drug conjugates,ClinicalTrials.gov,2025,Oncology,NCT05600697,0

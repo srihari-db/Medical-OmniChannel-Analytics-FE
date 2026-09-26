@@ -1,0 +1,301 @@
+hcp_id,hcp_name,specialty,institution,city,state,territory,practice_setting,hcp_tier,publication_count,trial_participation,influence_score,npi,primary_therapeutic_area
+HCP-00001,Dr. Priya Garcia,Hematology-Oncology,MD Anderson Cancer Center,Houston,TX,SO-01,NCI-Designated Cancer Center,Tier 1 KOL,64,2,84,1531831465,Oncology
+HCP-00002,Dr. Ahmed Tanaka,Radiation Oncology,UCSF Helen Diller,San Francisco,CA,WE-01,Private Practice,Tier 1 KOL,52,11,85,1645907690,Oncology
+HCP-00003,Dr. Nina Wong,Pathology,City of Hope,Duarte,CA,WE-03,Community Oncology,Tier 1 KOL,15,8,63,1360911340,Oncology
+HCP-00004,Dr. James Nguyen,Breast Oncology,Memorial Sloan Kettering,New York,NY,NE-02,Community Oncology,Tier 3,35,2,70,1597211390,Oncology
+HCP-00005,Dr. Aisha Williams,Pathology,Fred Hutchinson,Seattle,WA,WE-03,Integrated Health System,Tier 2,11,3,56,1166514122,Oncology
+HCP-00006,Dr. Priya Kim,Pathology,Stanford Cancer Institute,Palo Alto,CA,WE-01,Integrated Health System,Tier 3,12,0,38,1873345588,Oncology
+HCP-00007,Dr. Aisha Lee,Breast Oncology,UCSF Helen Diller,San Francisco,CA,WE-02,NCI-Designated Cancer Center,Tier 3,27,0,57,1805243306,Oncology
+HCP-00008,Dr. Leila Reyes,Medical Oncology,Mayo Clinic,Rochester,MN,MW-01,Integrated Health System,Tier 2,14,1,51,1080024219,Oncology
+HCP-00009,Dr. Yuki Wong,Thoracic Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-01,NCI-Designated Cancer Center,Tier 2,31,3,61,1607647167,Oncology
+HCP-00010,Dr. Chloe Okafor,Gastrointestinal Oncology,Yale Cancer Center,New Haven,CT,NE-03,Community Oncology,Tier 2,2,3,39,1426641814,Oncology
+HCP-00011,Dr. Hannah Okafor,Gastrointestinal Oncology,Memorial Sloan Kettering,New York,NY,NE-03,Community Oncology,Tier 1 KOL,6,4,42,1263824736,Oncology
+HCP-00012,Dr. Ling Cohen,Medical Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,Private Practice,Tier 3,5,3,42,1631148802,Oncology
+HCP-00013,Dr. Aisha Petrov,Thoracic Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,NCI-Designated Cancer Center,Tier 3,1,2,26,1606949814,Oncology
+HCP-00014,Dr. George Kim,Radiation Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Integrated Health System,Tier 3,15,0,40,1061367679,Oncology
+HCP-00015,Dr. Ling Khan,Breast Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-02,NCI-Designated Cancer Center,Tier 2,23,4,55,1018586667,Oncology
+HCP-00016,Dr. Omar Chen,Pathology,UPMC Hillman,Pittsburgh,PA,NE-02,Private Practice,Tier 3,19,3,43,1891033172,Oncology
+HCP-00017,Dr. Grace Chen,Hematology-Oncology,City of Hope,Duarte,CA,WE-02,Community Oncology,Tier 3,28,4,61,1055439455,Oncology
+HCP-00018,Dr. Kevin Williams,Breast Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Integrated Health System,Tier 1 KOL,48,4,69,1190633825,Oncology
+HCP-00019,Dr. Chloe Chen,Thoracic Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-03,NCI-Designated Cancer Center,Tier 1 KOL,14,0,30,1435961759,Oncology
+HCP-00020,Dr. Priya Kim,Radiation Oncology,UPMC Hillman,Pittsburgh,PA,NE-03,Integrated Health System,Tier 1 KOL,50,9,100,1458141062,Oncology
+HCP-00021,Dr. James Wong,Gastrointestinal Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-01,NCI-Designated Cancer Center,Tier 1 KOL,2,7,61,1565740503,Oncology
+HCP-00022,Dr. John Patel,Gastrointestinal Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-03,NCI-Designated Cancer Center,Tier 1 KOL,3,7,42,1031240388,Oncology
+HCP-00023,Dr. Laura Williams,Radiation Oncology,UCSF Helen Diller,San Francisco,CA,WE-02,Integrated Health System,Tier 3,12,0,40,1611436933,Oncology
+HCP-00024,Dr. Robert Martinez,Radiation Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-02,Community Oncology,Tier 2,13,4,61,1834338008,Oncology
+HCP-00025,Dr. Raj Smith,Gastrointestinal Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,NCI-Designated Cancer Center,Tier 3,5,3,44,1453006458,Oncology
+HCP-00026,Dr. James Reyes,Gastrointestinal Oncology,Mayo Clinic,Rochester,MN,MW-01,Integrated Health System,Tier 1 KOL,78,9,100,1908767434,Oncology
+HCP-00027,Dr. John Andersson,Thoracic Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-02,Integrated Health System,Tier 2,24,0,58,1327640117,Oncology
+HCP-00028,Dr. Rachel Andersson,Hematology-Oncology,City of Hope,Duarte,CA,WE-02,Community Oncology,Tier 3,5,2,35,1157878243,Oncology
+HCP-00029,Dr. Elena Rodriguez,Breast Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-02,Integrated Health System,Tier 3,4,0,28,1115520456,Oncology
+HCP-00030,Dr. Fatima Rodriguez,Breast Oncology,UCSF Helen Diller,San Francisco,CA,WE-03,Academic Medical Center,Tier 1 KOL,88,0,75,1779157276,Oncology
+HCP-00031,Dr. Robert Silva,Gastrointestinal Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,Academic Medical Center,Tier 2,14,1,37,1849609530,Oncology
+HCP-00032,Dr. Omar Novak,Pathology,Fred Hutchinson,Seattle,WA,WE-02,Private Practice,Tier 3,34,1,49,1102753270,Oncology
+HCP-00033,Dr. Robert Reyes,Gastrointestinal Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-02,Private Practice,Tier 2,21,1,43,1664592374,Oncology
+HCP-00034,Dr. Yuki Anderson,Hematology-Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-02,Integrated Health System,Tier 3,32,3,57,1418269223,Oncology
+HCP-00035,Dr. Laura Muller,Gastrointestinal Oncology,Fred Hutchinson,Seattle,WA,WE-02,NCI-Designated Cancer Center,Tier 3,8,1,50,1748381580,Oncology
+HCP-00036,Dr. Ahmed Tanaka,Gastrointestinal Oncology,Memorial Sloan Kettering,New York,NY,NE-02,Community Oncology,Tier 1 KOL,26,10,69,1776464243,Oncology
+HCP-00037,Dr. Elena Nguyen,Thoracic Oncology,Memorial Sloan Kettering,New York,NY,NE-02,Private Practice,Tier 3,0,1,40,1127999944,Oncology
+HCP-00038,Dr. William Davis,Hematology-Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,Academic Medical Center,Tier 1 KOL,86,10,100,1523924908,Oncology
+HCP-00039,Dr. Sarah Smith,Radiation Oncology,Fred Hutchinson,Seattle,WA,WE-02,Community Oncology,Tier 3,25,1,63,1169964602,Oncology
+HCP-00040,Dr. Julia Silva,Breast Oncology,Duke Cancer Institute,Durham,NC,SO-01,NCI-Designated Cancer Center,Tier 1 KOL,32,12,95,1114660741,Oncology
+HCP-00041,Dr. Leila Ali,Pathology,Vanderbilt-Ingram,Nashville,TN,SO-03,Integrated Health System,Tier 3,25,4,49,1718546252,Oncology
+HCP-00042,Dr. Priya Patel,Gastrointestinal Oncology,Duke Cancer Institute,Durham,NC,SO-03,Community Oncology,Tier 2,26,2,54,1304807575,Oncology
+HCP-00043,Dr. Paul Petrov,Thoracic Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Community Oncology,Tier 2,34,3,71,1247710329,Oncology
+HCP-00044,Dr. Sofia Silva,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-03,Private Practice,Tier 2,34,3,63,1460921450,Oncology
+HCP-00045,Dr. Leila Muller,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Integrated Health System,Tier 3,9,0,30,1758761458,Oncology
+HCP-00046,Dr. Sarah Brown,Medical Oncology,Memorial Sloan Kettering,New York,NY,NE-03,Academic Medical Center,Tier 2,31,0,47,1882797157,Oncology
+HCP-00047,Dr. Yuki Smith,Hematology-Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-01,Academic Medical Center,Tier 1 KOL,27,6,66,1425662006,Oncology
+HCP-00048,Dr. Fatima Garcia,Pathology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,Academic Medical Center,Tier 2,12,1,51,1117131523,Oncology
+HCP-00049,Dr. John Nguyen,Gastrointestinal Oncology,City of Hope,Duarte,CA,WE-02,Private Practice,Tier 1 KOL,39,2,52,1229457704,Oncology
+HCP-00050,Dr. Kevin Muller,Medical Oncology,MD Anderson Cancer Center,Houston,TX,SO-02,Academic Medical Center,Tier 2,3,4,44,1141899250,Oncology
+HCP-00051,Dr. Ahmed Garcia,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Private Practice,Tier 3,6,2,43,1490503122,Oncology
+HCP-00052,Dr. Michael Davis,Radiation Oncology,City of Hope,Duarte,CA,WE-02,Academic Medical Center,Tier 3,17,1,42,1988329124,Oncology
+HCP-00053,Dr. William Khan,Hematology-Oncology,Mayo Clinic,Rochester,MN,MW-01,Community Oncology,Tier 2,29,1,64,1702158565,Oncology
+HCP-00054,Dr. William Yamamoto,Radiation Oncology,Moffitt Cancer Center,Tampa,FL,SO-03,Integrated Health System,Tier 2,18,1,53,1765716056,Oncology
+HCP-00055,Dr. Peter Anderson,Radiation Oncology,Northwestern Lurie,Chicago,IL,MW-01,Community Oncology,Tier 2,19,2,44,1893099954,Oncology
+HCP-00056,Dr. George Patel,Breast Oncology,Vanderbilt-Ingram,Nashville,TN,SO-01,Integrated Health System,Tier 3,11,0,46,1353193837,Oncology
+HCP-00057,Dr. Omar Singh,Gastrointestinal Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,Integrated Health System,Tier 2,34,1,63,1997746911,Oncology
+HCP-00058,Dr. Peter Chen,Hematology-Oncology,Northwestern Lurie,Chicago,IL,MW-02,NCI-Designated Cancer Center,Tier 3,20,3,44,1617021351,Oncology
+HCP-00059,Dr. Grace Muller,Pathology,University of Michigan Rogel,Ann Arbor,MI,MW-02,Integrated Health System,Tier 1 KOL,14,11,80,1304386811,Oncology
+HCP-00060,Dr. Steven Silva,Thoracic Oncology,UCSF Helen Diller,San Francisco,CA,WE-02,NCI-Designated Cancer Center,Tier 2,18,3,44,1104631898,Oncology
+HCP-00061,Dr. Leila Costa,Thoracic Oncology,Mayo Clinic,Rochester,MN,MW-01,Academic Medical Center,Tier 2,35,1,65,1736654558,Oncology
+HCP-00062,Dr. Sofia Dubois,Gastrointestinal Oncology,MD Anderson Cancer Center,Houston,TX,SO-01,Community Oncology,Tier 1 KOL,78,3,75,1009782405,Oncology
+HCP-00063,Dr. Ahmed Chen,Pathology,Mayo Clinic,Rochester,MN,MW-01,Academic Medical Center,Tier 2,4,2,50,1113760474,Oncology
+HCP-00064,Dr. Daniel Johnson,Pathology,Yale Cancer Center,New Haven,CT,NE-03,Private Practice,Tier 2,0,4,50,1835565870,Oncology
+HCP-00065,Dr. Rachel Schmidt,Breast Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-02,Integrated Health System,Tier 1 KOL,90,6,95,1158988792,Oncology
+HCP-00066,Dr. Leila Martinez,Hematology-Oncology,Moffitt Cancer Center,Tampa,FL,SO-01,Academic Medical Center,Tier 2,14,2,40,1418658114,Oncology
+HCP-00067,Dr. Raj Khan,Medical Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-03,Academic Medical Center,Tier 3,19,3,47,1117573994,Oncology
+HCP-00068,Dr. Julia Schmidt,Pathology,Memorial Sloan Kettering,New York,NY,NE-01,Academic Medical Center,Tier 1 KOL,61,1,61,1937545451,Oncology
+HCP-00069,Dr. Kevin Reyes,Breast Oncology,MD Anderson Cancer Center,Houston,TX,SO-03,NCI-Designated Cancer Center,Tier 3,24,0,57,1484885544,Oncology
+HCP-00070,Dr. David Brown,Medical Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Integrated Health System,Tier 3,33,0,56,1289453217,Oncology
+HCP-00071,Dr. David Nguyen,Thoracic Oncology,Northwestern Lurie,Chicago,IL,MW-01,Integrated Health System,Tier 2,4,0,25,1861817163,Oncology
+HCP-00072,Dr. Peter Smith,Medical Oncology,Vanderbilt-Ingram,Nashville,TN,SO-02,NCI-Designated Cancer Center,Tier 2,25,1,59,1688206140,Oncology
+HCP-00073,Dr. Raj Okafor,Thoracic Oncology,Fred Hutchinson,Seattle,WA,WE-01,Integrated Health System,Tier 2,4,0,33,1053868465,Oncology
+HCP-00074,Dr. Sarah Kim,Pathology,Northwestern Lurie,Chicago,IL,MW-02,Academic Medical Center,Tier 2,31,3,63,1333467417,Oncology
+HCP-00075,Dr. Maria Smith,Gastrointestinal Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,NCI-Designated Cancer Center,Tier 2,16,2,48,1148176072,Oncology
+HCP-00076,Dr. George Chen,Thoracic Oncology,Memorial Sloan Kettering,New York,NY,NE-03,Private Practice,Tier 3,23,4,67,1026075133,Oncology
+HCP-00077,Dr. Rachel Patel,Pathology,Moffitt Cancer Center,Tampa,FL,SO-01,Private Practice,Tier 2,14,0,30,1160023137,Oncology
+HCP-00078,Dr. Raj Dubois,Gastrointestinal Oncology,City of Hope,Duarte,CA,WE-02,Private Practice,Tier 2,13,3,47,1674091448,Oncology
+HCP-00079,Dr. Yuki Brown,Radiation Oncology,Mayo Clinic,Rochester,MN,MW-02,Integrated Health System,Tier 1 KOL,59,4,89,1005552932,Oncology
+HCP-00080,Dr. Yuki Johnson,Pathology,Vanderbilt-Ingram,Nashville,TN,SO-02,Community Oncology,Tier 2,13,4,43,1587793614,Oncology
+HCP-00081,Dr. Omar Brown,Pathology,MD Anderson Cancer Center,Houston,TX,SO-03,NCI-Designated Cancer Center,Tier 3,5,0,39,1797616066,Oncology
+HCP-00082,Dr. Fatima Rossi,Breast Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Private Practice,Tier 1 KOL,4,8,59,1427147646,Oncology
+HCP-00083,Dr. Fatima Kim,Thoracic Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,Integrated Health System,Tier 3,3,4,40,1360861652,Oncology
+HCP-00084,Dr. Steven Costa,Medical Oncology,MD Anderson Cancer Center,Houston,TX,SO-03,Academic Medical Center,Tier 2,23,4,54,1146164383,Oncology
+HCP-00085,Dr. Yuki Singh,Radiation Oncology,Duke Cancer Institute,Durham,NC,SO-01,Community Oncology,Tier 3,25,3,50,1960846384,Oncology
+HCP-00086,Dr. George Wong,Breast Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,Private Practice,Tier 2,27,4,52,1775867804,Oncology
+HCP-00087,Dr. William Martinez,Gastrointestinal Oncology,Fred Hutchinson,Seattle,WA,WE-02,Community Oncology,Tier 1 KOL,76,3,85,1332842196,Oncology
+HCP-00088,Dr. David Costa,Breast Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-02,Academic Medical Center,Tier 2,30,4,57,1278178554,Oncology
+HCP-00089,Dr. Laura Silva,Radiation Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-03,Integrated Health System,Tier 3,34,2,62,1104910308,Oncology
+HCP-00090,Dr. Daniel Andersson,Medical Oncology,Fred Hutchinson,Seattle,WA,WE-03,Academic Medical Center,Tier 3,17,3,52,1688907628,Oncology
+HCP-00091,Dr. Paul Costa,Breast Oncology,Fred Hutchinson,Seattle,WA,WE-02,Integrated Health System,Tier 3,23,4,59,1253103779,Oncology
+HCP-00092,Dr. Grace Rossi,Breast Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-02,Academic Medical Center,Tier 3,27,1,57,1565912421,Oncology
+HCP-00093,Dr. David Brown,Radiation Oncology,Duke Cancer Institute,Durham,NC,SO-03,NCI-Designated Cancer Center,Tier 2,22,4,66,1765681719,Oncology
+HCP-00094,Dr. James Singh,Pathology,UCSF Helen Diller,San Francisco,CA,WE-02,Integrated Health System,Tier 3,7,1,42,1103960545,Oncology
+HCP-00095,Dr. Steven Smith,Pathology,Memorial Sloan Kettering,New York,NY,NE-01,Private Practice,Tier 3,31,0,45,1265902516,Oncology
+HCP-00096,Dr. Yuki Reyes,Gastrointestinal Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Academic Medical Center,Tier 3,2,4,46,1283079083,Oncology
+HCP-00097,Dr. Nina Williams,Gastrointestinal Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,Private Practice,Tier 2,34,1,48,1873602299,Oncology
+HCP-00098,Dr. Nina Andersson,Radiation Oncology,City of Hope,Duarte,CA,WE-03,Academic Medical Center,Tier 3,22,1,50,1692317225,Oncology
+HCP-00099,Dr. Sofia Costa,Gastrointestinal Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Integrated Health System,Tier 1 KOL,60,10,100,1977514667,Oncology
+HCP-00100,Dr. Ling Ivanova,Pathology,Fred Hutchinson,Seattle,WA,WE-03,Community Oncology,Tier 2,22,4,61,1365591629,Oncology
+HCP-00101,Dr. Grace Nguyen,Hematology-Oncology,Memorial Sloan Kettering,New York,NY,NE-02,Academic Medical Center,Tier 3,1,3,47,1405179475,Oncology
+HCP-00102,Dr. George Smith,Gastrointestinal Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-02,NCI-Designated Cancer Center,Tier 3,23,4,55,1065439847,Oncology
+HCP-00103,Dr. James Wong,Pathology,Moffitt Cancer Center,Tampa,FL,SO-03,Private Practice,Tier 3,17,1,56,1412023948,Oncology
+HCP-00104,Dr. Nina Ali,Hematology-Oncology,Fred Hutchinson,Seattle,WA,WE-01,Community Oncology,Tier 2,33,0,43,1978832979,Oncology
+HCP-00105,Dr. William Brown,Hematology-Oncology,MD Anderson Cancer Center,Houston,TX,SO-03,NCI-Designated Cancer Center,Tier 3,14,2,36,1657745370,Oncology
+HCP-00106,Dr. George Silva,Gastrointestinal Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-02,Private Practice,Tier 2,19,3,45,1144973696,Oncology
+HCP-00107,Dr. Rachel Garcia,Hematology-Oncology,Mayo Clinic,Rochester,MN,MW-02,Academic Medical Center,Tier 1 KOL,72,2,72,1250188611,Oncology
+HCP-00108,Dr. Raj Ali,Medical Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,Integrated Health System,Tier 3,7,0,31,1828935158,Oncology
+HCP-00109,Dr. Laura Lee,Gastrointestinal Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-01,Private Practice,Tier 2,29,1,62,1460205487,Oncology
+HCP-00110,Dr. Carlos Davis,Medical Oncology,Yale Cancer Center,New Haven,CT,NE-02,Community Oncology,Tier 3,29,0,37,1220083016,Oncology
+HCP-00111,Dr. Priya Silva,Medical Oncology,Northwestern Lurie,Chicago,IL,MW-01,Private Practice,Tier 2,2,3,44,1088143865,Oncology
+HCP-00112,Dr. William Khan,Pathology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,Academic Medical Center,Tier 1 KOL,85,12,100,1471230133,Oncology
+HCP-00113,Dr. Fatima Rossi,Radiation Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,Private Practice,Tier 1 KOL,82,10,100,1295911534,Oncology
+HCP-00114,Dr. James Andersson,Gastrointestinal Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,Academic Medical Center,Tier 2,27,0,60,1329203009,Oncology
+HCP-00115,Dr. Ahmed Okafor,Pathology,Duke Cancer Institute,Durham,NC,SO-01,Academic Medical Center,Tier 2,17,1,45,1587467579,Oncology
+HCP-00116,Dr. Anna Rossi,Hematology-Oncology,MD Anderson Cancer Center,Houston,TX,SO-02,Community Oncology,Tier 1 KOL,14,10,75,1254092592,Oncology
+HCP-00117,Dr. Yuki Johnson,Thoracic Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-02,Private Practice,Tier 3,6,3,46,1652556156,Oncology
+HCP-00118,Dr. Omar Rodriguez,Pathology,City of Hope,Duarte,CA,WE-02,Academic Medical Center,Tier 3,0,0,42,1514981342,Oncology
+HCP-00119,Dr. Aisha Khan,Pathology,MD Anderson Cancer Center,Houston,TX,SO-03,NCI-Designated Cancer Center,Tier 1 KOL,60,12,100,1524799761,Oncology
+HCP-00120,Dr. William Reyes,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-03,Integrated Health System,Tier 2,7,4,50,1144267421,Oncology
+HCP-00121,Dr. Priya Wong,Breast Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Integrated Health System,Tier 2,14,1,49,1631944413,Oncology
+HCP-00122,Dr. Daniel Muller,Gastrointestinal Oncology,UPMC Hillman,Pittsburgh,PA,NE-02,Integrated Health System,Tier 2,5,3,49,1056300166,Oncology
+HCP-00123,Dr. Carlos Garcia,Thoracic Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,Private Practice,Tier 1 KOL,89,2,92,1622669602,Oncology
+HCP-00124,Dr. John Chen,Breast Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-01,NCI-Designated Cancer Center,Tier 1 KOL,60,9,90,1841697419,Oncology
+HCP-00125,Dr. Peter Reyes,Pathology,MD Anderson Cancer Center,Houston,TX,SO-02,Academic Medical Center,Tier 2,12,4,62,1802093907,Oncology
+HCP-00126,Dr. Raj Novak,Hematology-Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-02,Community Oncology,Tier 2,0,2,37,1391151251,Oncology
+HCP-00127,Dr. Sarah Costa,Medical Oncology,MD Anderson Cancer Center,Houston,TX,SO-02,Community Oncology,Tier 2,19,1,42,1863551053,Oncology
+HCP-00128,Dr. Mei Lee,Pathology,Winship Cancer Institute (Emory),Atlanta,GA,SO-02,Private Practice,Tier 2,20,1,43,1901292906,Oncology
+HCP-00129,Dr. Ling Tanaka,Thoracic Oncology,Memorial Sloan Kettering,New York,NY,NE-03,Private Practice,Tier 3,30,2,57,1970323334,Oncology
+HCP-00130,Dr. Fatima Johnson,Breast Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,Private Practice,Tier 1 KOL,34,11,77,1376943597,Oncology
+HCP-00131,Dr. Robert Lee,Radiation Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Academic Medical Center,Tier 2,12,0,50,1121595162,Oncology
+HCP-00132,Dr. Maria Novak,Gastrointestinal Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-02,Academic Medical Center,Tier 2,5,2,49,1510857481,Oncology
+HCP-00133,Dr. George Novak,Gastrointestinal Oncology,City of Hope,Duarte,CA,WE-03,Private Practice,Tier 3,3,0,29,1303180864,Oncology
+HCP-00134,Dr. Mei Davis,Radiation Oncology,UCSF Helen Diller,San Francisco,CA,WE-03,Private Practice,Tier 2,25,4,68,1985320570,Oncology
+HCP-00135,Dr. Omar Garcia,Gastrointestinal Oncology,Duke Cancer Institute,Durham,NC,SO-03,Academic Medical Center,Tier 3,0,4,53,1876333020,Oncology
+HCP-00136,Dr. Peter Rodriguez,Medical Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,Academic Medical Center,Tier 1 KOL,14,2,54,1893003018,Oncology
+HCP-00137,Dr. John Singh,Gastrointestinal Oncology,UPMC Hillman,Pittsburgh,PA,NE-03,Private Practice,Tier 3,9,3,44,1692111713,Oncology
+HCP-00138,Dr. Yuki Wong,Medical Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-01,Academic Medical Center,Tier 2,32,1,51,1389613897,Oncology
+HCP-00139,Dr. Ahmed Reyes,Gastrointestinal Oncology,Mayo Clinic,Rochester,MN,MW-01,Academic Medical Center,Tier 2,32,3,49,1247053111,Oncology
+HCP-00140,Dr. Grace Yamamoto,Radiation Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Private Practice,Tier 3,16,1,49,1273447271,Oncology
+HCP-00141,Dr. George Anderson,Thoracic Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-03,NCI-Designated Cancer Center,Tier 2,4,4,35,1221507588,Oncology
+HCP-00142,Dr. Julia Novak,Pathology,Fred Hutchinson,Seattle,WA,WE-03,Private Practice,Tier 3,33,1,59,1270093353,Oncology
+HCP-00143,Dr. Yuki Tanaka,Gastrointestinal Oncology,Moffitt Cancer Center,Tampa,FL,SO-01,Community Oncology,Tier 2,10,2,32,1234561816,Oncology
+HCP-00144,Dr. Steven Petrov,Gastrointestinal Oncology,Duke Cancer Institute,Durham,NC,SO-01,Private Practice,Tier 1 KOL,57,5,69,1281981395,Oncology
+HCP-00145,Dr. James Reyes,Hematology-Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-02,Academic Medical Center,Tier 2,7,4,46,1711167570,Oncology
+HCP-00146,Dr. David Okafor,Radiation Oncology,MD Anderson Cancer Center,Houston,TX,SO-01,Private Practice,Tier 2,6,1,30,1062602207,Oncology
+HCP-00147,Dr. Robert Lee,Radiation Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,NCI-Designated Cancer Center,Tier 2,17,2,58,1423838629,Oncology
+HCP-00148,Dr. Hannah Johnson,Thoracic Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-03,Community Oncology,Tier 3,21,3,52,1037726885,Oncology
+HCP-00149,Dr. James Rodriguez,Hematology-Oncology,UPMC Hillman,Pittsburgh,PA,NE-03,Community Oncology,Tier 2,17,3,61,1198050815,Oncology
+HCP-00150,Dr. James Garcia,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-01,Community Oncology,Tier 3,26,2,63,1459414509,Oncology
+HCP-00151,Dr. Paul Johnson,Medical Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-03,NCI-Designated Cancer Center,Tier 2,35,0,46,1904303603,Oncology
+HCP-00152,Dr. Priya Muller,Hematology-Oncology,Memorial Sloan Kettering,New York,NY,NE-02,Community Oncology,Tier 3,6,2,46,1805621356,Oncology
+HCP-00153,Dr. Rachel Singh,Thoracic Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,Integrated Health System,Tier 2,20,3,65,1816314885,Oncology
+HCP-00154,Dr. Daniel Dubois,Gastrointestinal Oncology,UCSF Helen Diller,San Francisco,CA,WE-02,Private Practice,Tier 2,32,4,64,1942271159,Oncology
+HCP-00155,Dr. Leila Reyes,Radiation Oncology,Fred Hutchinson,Seattle,WA,WE-01,Community Oncology,Tier 1 KOL,4,7,52,1638400099,Oncology
+HCP-00156,Dr. Aisha Wong,Pathology,Mayo Clinic,Rochester,MN,MW-02,Integrated Health System,Tier 2,2,2,46,1540096203,Oncology
+HCP-00157,Dr. Kevin Rodriguez,Thoracic Oncology,UPMC Hillman,Pittsburgh,PA,NE-02,Private Practice,Tier 3,14,4,46,1285125196,Oncology
+HCP-00158,Dr. Sofia Ali,Medical Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-02,Integrated Health System,Tier 3,5,4,55,1571035698,Oncology
+HCP-00159,Dr. Maria Singh,Medical Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-02,Academic Medical Center,Tier 3,16,4,42,1655348955,Oncology
+HCP-00160,Dr. Steven Martinez,Breast Oncology,Northwestern Lurie,Chicago,IL,MW-01,NCI-Designated Cancer Center,Tier 2,14,0,50,1762689210,Oncology
+HCP-00161,Dr. Chloe Yamamoto,Pathology,Fred Hutchinson,Seattle,WA,WE-01,Integrated Health System,Tier 2,22,4,49,1329581090,Oncology
+HCP-00162,Dr. Leila Singh,Hematology-Oncology,Vanderbilt-Ingram,Nashville,TN,SO-02,Academic Medical Center,Tier 3,24,2,43,1170920545,Oncology
+HCP-00163,Dr. Paul Garcia,Radiation Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-03,Community Oncology,Tier 2,19,3,51,1957878968,Oncology
+HCP-00164,Dr. Thomas Muller,Breast Oncology,Fred Hutchinson,Seattle,WA,WE-01,Academic Medical Center,Tier 2,14,2,43,1083543076,Oncology
+HCP-00165,Dr. Ling Petrov,Radiation Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,Academic Medical Center,Tier 3,27,4,70,1297301869,Oncology
+HCP-00166,Dr. Mei Novak,Hematology-Oncology,Yale Cancer Center,New Haven,CT,NE-03,Private Practice,Tier 2,27,2,54,1155981058,Oncology
+HCP-00167,Dr. Rachel Petrov,Medical Oncology,UCSF Helen Diller,San Francisco,CA,WE-02,Private Practice,Tier 3,0,1,37,1846723128,Oncology
+HCP-00168,Dr. William Ali,Gastrointestinal Oncology,UPMC Hillman,Pittsburgh,PA,NE-03,Community Oncology,Tier 2,19,0,51,1190496810,Oncology
+HCP-00169,Dr. Elena Williams,Medical Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,Integrated Health System,Tier 3,20,0,43,1636066733,Oncology
+HCP-00170,Dr. Mei Johnson,Hematology-Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-03,Integrated Health System,Tier 3,7,1,35,1084108791,Oncology
+HCP-00171,Dr. Anna Silva,Gastrointestinal Oncology,Mayo Clinic,Rochester,MN,MW-01,Private Practice,Tier 2,5,2,52,1538513023,Oncology
+HCP-00172,Dr. Anna Johnson,Hematology-Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-03,NCI-Designated Cancer Center,Tier 3,23,1,54,1141516950,Oncology
+HCP-00173,Dr. Priya Reyes,Medical Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,Community Oncology,Tier 3,25,0,47,1764135800,Oncology
+HCP-00174,Dr. Laura Yamamoto,Thoracic Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-02,NCI-Designated Cancer Center,Tier 3,17,4,52,1927302865,Oncology
+HCP-00175,Dr. James Yamamoto,Thoracic Oncology,UCSF Helen Diller,San Francisco,CA,WE-01,Academic Medical Center,Tier 3,21,1,41,1142316127,Oncology
+HCP-00176,Dr. Julia Yamamoto,Thoracic Oncology,City of Hope,Duarte,CA,WE-01,Private Practice,Tier 3,21,0,33,1465602968,Oncology
+HCP-00177,Dr. Mei Rodriguez,Radiation Oncology,Duke Cancer Institute,Durham,NC,SO-03,Community Oncology,Tier 1 KOL,12,2,58,1783423068,Oncology
+HCP-00178,Dr. Aisha Andersson,Medical Oncology,City of Hope,Duarte,CA,WE-03,Integrated Health System,Tier 2,26,0,45,1543076075,Oncology
+HCP-00179,Dr. Carlos Williams,Gastrointestinal Oncology,Moffitt Cancer Center,Tampa,FL,SO-02,NCI-Designated Cancer Center,Tier 2,15,0,43,1708135494,Oncology
+HCP-00180,Dr. Nina Schmidt,Hematology-Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-01,Academic Medical Center,Tier 3,3,0,34,1821181180,Oncology
+HCP-00181,Dr. Peter Reyes,Gastrointestinal Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-02,Integrated Health System,Tier 2,34,2,54,1424280329,Oncology
+HCP-00182,Dr. George Petrov,Hematology-Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-02,Integrated Health System,Tier 3,4,3,49,1373566600,Oncology
+HCP-00183,Dr. Nina Williams,Thoracic Oncology,Memorial Sloan Kettering,New York,NY,NE-02,Integrated Health System,Tier 3,32,2,58,1066611223,Oncology
+HCP-00184,Dr. Fatima Brown,Gastrointestinal Oncology,UCSF Helen Diller,San Francisco,CA,WE-02,Community Oncology,Tier 3,16,0,36,1859555078,Oncology
+HCP-00185,Dr. Hannah Patel,Gastrointestinal Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-03,NCI-Designated Cancer Center,Tier 3,33,3,63,1513018355,Oncology
+HCP-00186,Dr. Julia Costa,Pathology,Dana-Farber Cancer Institute,Boston,MA,NE-02,Academic Medical Center,Tier 3,30,0,44,1635936976,Oncology
+HCP-00187,Dr. Chloe Khan,Thoracic Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-01,Community Oncology,Tier 2,11,1,33,1724140795,Oncology
+HCP-00188,Dr. Peter Ivanova,Breast Oncology,Moffitt Cancer Center,Tampa,FL,SO-03,Community Oncology,Tier 1 KOL,22,8,67,1427703914,Oncology
+HCP-00189,Dr. Chloe Yamamoto,Gastrointestinal Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-02,Academic Medical Center,Tier 1 KOL,73,5,90,1103739749,Oncology
+HCP-00190,Dr. Sarah Smith,Breast Oncology,City of Hope,Duarte,CA,WE-01,Community Oncology,Tier 2,32,2,48,1341363433,Oncology
+HCP-00191,Dr. Mei Reyes,Pathology,Moffitt Cancer Center,Tampa,FL,SO-03,Community Oncology,Tier 3,3,3,37,1702616964,Oncology
+HCP-00192,Dr. Leila Wong,Breast Oncology,Fred Hutchinson,Seattle,WA,WE-02,Community Oncology,Tier 2,15,0,47,1884822835,Oncology
+HCP-00193,Dr. Fatima Williams,Radiation Oncology,Vanderbilt-Ingram,Nashville,TN,SO-01,NCI-Designated Cancer Center,Tier 3,25,1,49,1267779168,Oncology
+HCP-00194,Dr. Yuki Tanaka,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Integrated Health System,Tier 3,21,2,46,1865294139,Oncology
+HCP-00195,Dr. Rachel Okafor,Hematology-Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-03,Academic Medical Center,Tier 1 KOL,61,11,100,1429699489,Oncology
+HCP-00196,Dr. Laura Kim,Breast Oncology,Fred Hutchinson,Seattle,WA,WE-01,Academic Medical Center,Tier 1 KOL,19,11,89,1530933654,Oncology
+HCP-00197,Dr. Kevin Anderson,Gastrointestinal Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-02,NCI-Designated Cancer Center,Tier 3,12,3,53,1408279519,Oncology
+HCP-00198,Dr. Nina Nguyen,Gastrointestinal Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-02,Community Oncology,Tier 1 KOL,65,7,100,1810523558,Oncology
+HCP-00199,Dr. Julia Martinez,Medical Oncology,Northwestern Lurie,Chicago,IL,MW-02,NCI-Designated Cancer Center,Tier 2,19,3,49,1102993951,Oncology
+HCP-00200,Dr. Nina Smith,Radiation Oncology,Fred Hutchinson,Seattle,WA,WE-02,Integrated Health System,Tier 1 KOL,83,5,99,1970973455,Oncology
+HCP-00201,Dr. Raj Anderson,Radiation Oncology,Yale Cancer Center,New Haven,CT,NE-01,NCI-Designated Cancer Center,Tier 3,3,1,25,1345481104,Oncology
+HCP-00202,Dr. Steven Kim,Radiation Oncology,Duke Cancer Institute,Durham,NC,SO-03,Private Practice,Tier 2,16,0,39,1076747819,Oncology
+HCP-00203,Dr. Paul Okafor,Breast Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-03,NCI-Designated Cancer Center,Tier 2,29,3,57,1732057620,Oncology
+HCP-00204,Dr. George Novak,Medical Oncology,Yale Cancer Center,New Haven,CT,NE-01,Integrated Health System,Tier 1 KOL,60,9,100,1317894297,Oncology
+HCP-00205,Dr. Omar Okafor,Hematology-Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Community Oncology,Tier 2,4,2,36,1213763704,Oncology
+HCP-00206,Dr. Michael Yamamoto,Gastrointestinal Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-01,Academic Medical Center,Tier 3,21,4,67,1929282336,Oncology
+HCP-00207,Dr. William Lee,Hematology-Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-02,NCI-Designated Cancer Center,Tier 1 KOL,82,5,86,1861733431,Oncology
+HCP-00208,Dr. Omar Dubois,Breast Oncology,City of Hope,Duarte,CA,WE-02,Private Practice,Tier 2,7,4,57,1512449482,Oncology
+HCP-00209,Dr. James Reyes,Medical Oncology,Yale Cancer Center,New Haven,CT,NE-02,Academic Medical Center,Tier 3,1,3,47,1419102142,Oncology
+HCP-00210,Dr. Priya Wong,Gastrointestinal Oncology,Mayo Clinic,Rochester,MN,MW-01,Community Oncology,Tier 3,28,3,60,1979145968,Oncology
+HCP-00211,Dr. Priya Smith,Breast Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-01,Academic Medical Center,Tier 1 KOL,14,5,62,1813949366,Oncology
+HCP-00212,Dr. William Davis,Medical Oncology,Yale Cancer Center,New Haven,CT,NE-03,Private Practice,Tier 1 KOL,89,10,100,1687784582,Oncology
+HCP-00213,Dr. Raj Rossi,Thoracic Oncology,Yale Cancer Center,New Haven,CT,NE-02,Private Practice,Tier 2,18,0,30,1195699740,Oncology
+HCP-00214,Dr. Laura Rossi,Gastrointestinal Oncology,Moffitt Cancer Center,Tampa,FL,SO-02,Integrated Health System,Tier 2,9,0,32,1297765710,Oncology
+HCP-00215,Dr. Michael Williams,Thoracic Oncology,UPMC Hillman,Pittsburgh,PA,NE-02,Academic Medical Center,Tier 1 KOL,33,1,54,1305992573,Oncology
+HCP-00216,Dr. Ahmed Reyes,Breast Oncology,MD Anderson Cancer Center,Houston,TX,SO-02,Academic Medical Center,Tier 2,11,4,51,1124596654,Oncology
+HCP-00217,Dr. Kevin Smith,Thoracic Oncology,City of Hope,Duarte,CA,WE-02,Integrated Health System,Tier 3,32,4,64,1453173752,Oncology
+HCP-00218,Dr. William Rossi,Thoracic Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-01,NCI-Designated Cancer Center,Tier 1 KOL,80,8,98,1891546468,Oncology
+HCP-00219,Dr. Fatima Wong,Thoracic Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-03,Private Practice,Tier 2,16,1,51,1151626499,Oncology
+HCP-00220,Dr. Leila Ivanova,Gastrointestinal Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,Academic Medical Center,Tier 2,28,0,39,1083610878,Oncology
+HCP-00221,Dr. Kevin Davis,Medical Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-01,Community Oncology,Tier 2,27,2,64,1245383074,Oncology
+HCP-00222,Dr. Chloe Muller,Hematology-Oncology,MD Anderson Cancer Center,Houston,TX,SO-03,Community Oncology,Tier 3,19,0,43,1808772102,Oncology
+HCP-00223,Dr. Fatima Silva,Pathology,UCSF Helen Diller,San Francisco,CA,WE-01,Private Practice,Tier 3,0,4,35,1591662461,Oncology
+HCP-00224,Dr. Ling Okafor,Breast Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-02,Community Oncology,Tier 3,8,1,43,1357823950,Oncology
+HCP-00225,Dr. Sarah Chen,Hematology-Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,Integrated Health System,Tier 1 KOL,79,2,87,1684254746,Oncology
+HCP-00226,Dr. Anna Khan,Gastrointestinal Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Private Practice,Tier 3,14,3,58,1120641058,Oncology
+HCP-00227,Dr. Grace Williams,Gastrointestinal Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-03,NCI-Designated Cancer Center,Tier 2,0,2,26,1969378455,Oncology
+HCP-00228,Dr. Peter Garcia,Thoracic Oncology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,Academic Medical Center,Tier 2,6,2,50,1420874409,Oncology
+HCP-00229,Dr. Grace Silva,Medical Oncology,Duke Cancer Institute,Durham,NC,SO-03,Private Practice,Tier 2,21,2,39,1771490550,Oncology
+HCP-00230,Dr. Laura Williams,Pathology,UPMC Hillman,Pittsburgh,PA,NE-03,Integrated Health System,Tier 3,33,4,76,1138471105,Oncology
+HCP-00231,Dr. Rachel Tanaka,Breast Oncology,Memorial Sloan Kettering,New York,NY,NE-03,Private Practice,Tier 3,29,4,74,1350871453,Oncology
+HCP-00232,Dr. Kevin Brown,Gastrointestinal Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-02,Integrated Health System,Tier 1 KOL,8,4,61,1974813711,Oncology
+HCP-00233,Dr. Steven Schmidt,Hematology-Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-03,Integrated Health System,Tier 2,13,3,39,1777910662,Oncology
+HCP-00234,Dr. Hannah Smith,Thoracic Oncology,Yale Cancer Center,New Haven,CT,NE-02,Academic Medical Center,Tier 2,29,2,48,1198336774,Oncology
+HCP-00235,Dr. Sofia Tanaka,Breast Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-03,Academic Medical Center,Tier 1 KOL,45,1,57,1115556732,Oncology
+HCP-00236,Dr. Leila Novak,Radiation Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-01,Private Practice,Tier 3,25,0,50,1406617389,Oncology
+HCP-00237,Dr. Ling Ali,Medical Oncology,Yale Cancer Center,New Haven,CT,NE-01,NCI-Designated Cancer Center,Tier 3,0,0,39,1089891365,Oncology
+HCP-00238,Dr. Carlos Ali,Pathology,Moffitt Cancer Center,Tampa,FL,SO-03,Community Oncology,Tier 3,27,0,36,1460435345,Oncology
+HCP-00239,Dr. Mei Garcia,Radiation Oncology,Fred Hutchinson,Seattle,WA,WE-02,Integrated Health System,Tier 2,7,1,47,1222001606,Oncology
+HCP-00240,Dr. Thomas Schmidt,Hematology-Oncology,Moffitt Cancer Center,Tampa,FL,SO-01,Community Oncology,Tier 2,26,1,60,1675828034,Oncology
+HCP-00241,Dr. Steven Smith,Thoracic Oncology,UPMC Hillman,Pittsburgh,PA,NE-01,Community Oncology,Tier 1 KOL,35,4,69,1414231025,Oncology
+HCP-00242,Dr. Thomas Muller,Gastrointestinal Oncology,MD Anderson Cancer Center,Houston,TX,SO-02,Private Practice,Tier 2,26,0,46,1817928071,Oncology
+HCP-00243,Dr. Michael Davis,Thoracic Oncology,City of Hope,Duarte,CA,WE-01,NCI-Designated Cancer Center,Tier 1 KOL,64,9,87,1369962432,Oncology
+HCP-00244,Dr. James Reyes,Pathology,Stanford Cancer Institute,Palo Alto,CA,WE-01,NCI-Designated Cancer Center,Tier 3,33,3,66,1210200481,Oncology
+HCP-00245,Dr. David Reyes,Gastrointestinal Oncology,Vanderbilt-Ingram,Nashville,TN,SO-02,Academic Medical Center,Tier 3,4,2,40,1803729039,Oncology
+HCP-00246,Dr. Ling Tanaka,Thoracic Oncology,UCSF Helen Diller,San Francisco,CA,WE-03,Academic Medical Center,Tier 3,27,0,56,1024088870,Oncology
+HCP-00247,Dr. William Williams,Thoracic Oncology,Yale Cancer Center,New Haven,CT,NE-03,Private Practice,Tier 3,28,0,51,1996165462,Oncology
+HCP-00248,Dr. Sofia Williams,Medical Oncology,Moffitt Cancer Center,Tampa,FL,SO-02,NCI-Designated Cancer Center,Tier 3,30,3,56,1594840772,Oncology
+HCP-00249,Dr. Hannah Davis,Radiation Oncology,Vanderbilt-Ingram,Nashville,TN,SO-01,Community Oncology,Tier 3,3,3,32,1675448423,Oncology
+HCP-00250,Dr. Steven Martinez,Pathology,Winship Cancer Institute (Emory),Atlanta,GA,SO-01,Private Practice,Tier 3,23,0,41,1808140645,Oncology
+HCP-00251,Dr. William Rossi,Thoracic Oncology,Yale Cancer Center,New Haven,CT,NE-02,NCI-Designated Cancer Center,Tier 3,33,1,47,1668746068,Oncology
+HCP-00252,Dr. Ahmed Schmidt,Pathology,UPMC Hillman,Pittsburgh,PA,NE-03,Integrated Health System,Tier 2,15,1,57,1917497322,Oncology
+HCP-00253,Dr. Fatima Brown,Radiation Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-02,Community Oncology,Tier 3,0,2,37,1677715094,Oncology
+HCP-00254,Dr. Leila Martinez,Pathology,Duke Cancer Institute,Durham,NC,SO-01,Integrated Health System,Tier 2,27,2,51,1517677623,Oncology
+HCP-00255,Dr. William Khan,Medical Oncology,UPMC Hillman,Pittsburgh,PA,NE-02,Integrated Health System,Tier 2,18,4,57,1981878072,Oncology
+HCP-00256,Dr. Yuki Singh,Gastrointestinal Oncology,Fred Hutchinson,Seattle,WA,WE-02,Private Practice,Tier 2,34,4,61,1208876457,Oncology
+HCP-00257,Dr. Carlos Anderson,Medical Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Academic Medical Center,Tier 2,1,1,39,1229033631,Oncology
+HCP-00258,Dr. Kevin Martinez,Hematology-Oncology,Johns Hopkins Sidney Kimmel,Baltimore,MD,NE-02,Integrated Health System,Tier 3,19,0,43,1479091742,Oncology
+HCP-00259,Dr. Aisha Reyes,Medical Oncology,Fred Hutchinson,Seattle,WA,WE-02,NCI-Designated Cancer Center,Tier 2,24,4,46,1426111661,Oncology
+HCP-00260,Dr. Raj Rossi,Breast Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,Academic Medical Center,Tier 1 KOL,22,11,68,1082583371,Oncology
+HCP-00261,Dr. Sofia Garcia,Radiation Oncology,Yale Cancer Center,New Haven,CT,NE-03,Community Oncology,Tier 2,17,3,48,1611590470,Oncology
+HCP-00262,Dr. Ahmed Schmidt,Medical Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-03,Community Oncology,Tier 2,26,2,41,1670132365,Oncology
+HCP-00263,Dr. Aisha Cohen,Hematology-Oncology,Moffitt Cancer Center,Tampa,FL,SO-03,NCI-Designated Cancer Center,Tier 2,21,0,34,1766063908,Oncology
+HCP-00264,Dr. Steven Reyes,Gastrointestinal Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-01,NCI-Designated Cancer Center,Tier 3,4,0,26,1582985129,Oncology
+HCP-00265,Dr. Elena Yamamoto,Pathology,University of Michigan Rogel,Ann Arbor,MI,MW-02,NCI-Designated Cancer Center,Tier 2,13,2,57,1942257671,Oncology
+HCP-00266,Dr. Kevin Novak,Thoracic Oncology,Memorial Sloan Kettering,New York,NY,NE-01,NCI-Designated Cancer Center,Tier 2,33,4,53,1750014144,Oncology
+HCP-00267,Dr. Nina Ali,Medical Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,Private Practice,Tier 2,14,3,42,1510192957,Oncology
+HCP-00268,Dr. Elena Davis,Gastrointestinal Oncology,City of Hope,Duarte,CA,WE-02,Integrated Health System,Tier 2,24,0,40,1925757749,Oncology
+HCP-00269,Dr. Peter Muller,Hematology-Oncology,Moffitt Cancer Center,Tampa,FL,SO-03,Community Oncology,Tier 3,29,3,55,1293391973,Oncology
+HCP-00270,Dr. John Tanaka,Medical Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-03,Integrated Health System,Tier 3,17,1,40,1180540513,Oncology
+HCP-00271,Dr. William Muller,Medical Oncology,Duke Cancer Institute,Durham,NC,SO-01,NCI-Designated Cancer Center,Tier 1 KOL,48,7,83,1993675210,Oncology
+HCP-00272,Dr. Carlos Ivanova,Pathology,Stanford Cancer Institute,Palo Alto,CA,WE-01,NCI-Designated Cancer Center,Tier 1 KOL,75,7,100,1552931876,Oncology
+HCP-00273,Dr. Thomas Johnson,Radiation Oncology,Huntsman Cancer Institute,Salt Lake City,UT,WE-01,Community Oncology,Tier 3,9,1,43,1501135582,Oncology
+HCP-00274,Dr. Fatima Williams,Pathology,Vanderbilt-Ingram,Nashville,TN,SO-01,Academic Medical Center,Tier 2,30,0,61,1890151533,Oncology
+HCP-00275,Dr. John Rossi,Pathology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,Academic Medical Center,Tier 3,14,2,52,1615969926,Oncology
+HCP-00276,Dr. Grace Muller,Radiation Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-02,Academic Medical Center,Tier 3,3,0,28,1409183969,Oncology
+HCP-00277,Dr. Mei Wong,Thoracic Oncology,Mayo Clinic,Rochester,MN,MW-02,Integrated Health System,Tier 3,5,3,43,1250520769,Oncology
+HCP-00278,Dr. John Dubois,Gastrointestinal Oncology,City of Hope,Duarte,CA,WE-03,Integrated Health System,Tier 2,24,4,51,1354024582,Oncology
+HCP-00279,Dr. Sarah Muller,Radiation Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-03,Community Oncology,Tier 3,25,2,49,1032598914,Oncology
+HCP-00280,Dr. Maria Muller,Thoracic Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-01,Academic Medical Center,Tier 3,22,3,58,1149499418,Oncology
+HCP-00281,Dr. John Muller,Thoracic Oncology,Moffitt Cancer Center,Tampa,FL,SO-03,NCI-Designated Cancer Center,Tier 3,2,1,49,1470896739,Oncology
+HCP-00282,Dr. Kevin Schmidt,Thoracic Oncology,Cleveland Clinic Taussig,Cleveland,OH,MW-01,NCI-Designated Cancer Center,Tier 3,25,4,56,1467358447,Oncology
+HCP-00283,Dr. Sofia Tanaka,Breast Oncology,City of Hope,Duarte,CA,WE-02,NCI-Designated Cancer Center,Tier 3,20,2,43,1115250810,Oncology
+HCP-00284,Dr. Steven Garcia,Gastrointestinal Oncology,University of Michigan Rogel,Ann Arbor,MI,MW-02,Integrated Health System,Tier 2,25,4,55,1759701574,Oncology
+HCP-00285,Dr. Michael Wong,Pathology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-01,NCI-Designated Cancer Center,Tier 2,24,1,46,1524988981,Oncology
+HCP-00286,Dr. Hannah Anderson,Thoracic Oncology,Vanderbilt-Ingram,Nashville,TN,SO-02,Academic Medical Center,Tier 1 KOL,12,1,36,1719551178,Oncology
+HCP-00287,Dr. Ahmed Ali,Medical Oncology,UCLA Jonsson Cancer Center,Los Angeles,CA,WE-03,Private Practice,Tier 3,22,2,40,1985383172,Oncology
+HCP-00288,Dr. Chloe Johnson,Hematology-Oncology,Dana-Farber Cancer Institute,Boston,MA,NE-03,Integrated Health System,Tier 2,14,4,54,1851893025,Oncology
+HCP-00289,Dr. Sarah Ali,Breast Oncology,City of Hope,Duarte,CA,WE-01,Private Practice,Tier 2,7,2,47,1928315077,Oncology
+HCP-00290,Dr. Ling Anderson,Medical Oncology,Vanderbilt-Ingram,Nashville,TN,SO-03,Academic Medical Center,Tier 3,33,3,58,1347114739,Oncology
+HCP-00291,Dr. Laura Ivanova,Pathology,Northwestern Lurie,Chicago,IL,MW-02,Integrated Health System,Tier 3,26,1,59,1523509802,Oncology
+HCP-00292,Dr. Priya Andersson,Thoracic Oncology,Fred Hutchinson,Seattle,WA,WE-03,Private Practice,Tier 2,19,4,61,1525265441,Oncology
+HCP-00293,Dr. Robert Silva,Pathology,Duke Cancer Institute,Durham,NC,SO-03,NCI-Designated Cancer Center,Tier 2,12,4,57,1434270052,Oncology
+HCP-00294,Dr. Raj Chen,Hematology-Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-01,Private Practice,Tier 1 KOL,30,7,77,1623572730,Oncology
+HCP-00295,Dr. John Williams,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-02,Integrated Health System,Tier 2,23,2,63,1098069933,Oncology
+HCP-00296,Dr. Kevin Davis,Hematology-Oncology,Moffitt Cancer Center,Tampa,FL,SO-01,Community Oncology,Tier 3,19,2,60,1827362706,Oncology
+HCP-00297,Dr. Sofia Wong,Thoracic Oncology,MD Anderson Cancer Center,Houston,TX,SO-02,Community Oncology,Tier 2,35,0,41,1542229539,Oncology
+HCP-00298,Dr. Paul Williams,Medical Oncology,MD Anderson Cancer Center,Houston,TX,SO-02,Academic Medical Center,Tier 1 KOL,49,11,100,1897821174,Oncology
+HCP-00299,Dr. Daniel Chen,Radiation Oncology,UCSF Helen Diller,San Francisco,CA,WE-02,Community Oncology,Tier 3,9,2,42,1643269104,Oncology
+HCP-00300,Dr. Robert Patel,Thoracic Oncology,Stanford Cancer Institute,Palo Alto,CA,WE-01,Private Practice,Tier 3,18,1,56,1234779444,Oncology

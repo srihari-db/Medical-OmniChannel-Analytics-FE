@@ -1,0 +1,26 @@
+{
+  "display_name": "Medical Omnichannel Intelligence — Daiichi Sankyo",
+  "space_id": "01f1b9f40b3d1499a1dde849fe4ecaf0",
+  "warehouse_id": "148ccb90800933a1",
+  "description": "Natural-language exploration of Daiichi Sankyo oncology Medical Affairs omnichannel engagement: MSL priorities, HCP 360, scientific topic interest, medical inquiry SLAs, congress activity, and territory opportunity. All data is synthetic and non-promotional.",
+  "tables": [
+    "_sa701.moa.gold_hcp_360",
+    "_sa701.moa.gold_hcp_priority",
+    "_sa701.moa.gold_next_best_engagement",
+    "_sa701.moa.gold_medical_topic_interest",
+    "_sa701.moa.gold_medical_information_requests",
+    "_sa701.moa.gold_congress_engagement",
+    "_sa701.moa.gold_territory_opportunity",
+    "_sa701.moa.metric_hcp_engagement",
+    "_sa701.moa.metric_medical_inquiries"
+  ],
+  "sample_questions": [
+    "Which high-priority HCPs are under-engaged and overdue for an MSL visit?",
+    "What are the top scientific topics of interest across oncology KOLs?",
+    "Which territories have the lowest 90-day HCP reach rate?",
+    "How many medical inquiries are overdue and what is the average response time?",
+    "List the Tier 1 KOLs with open medical inquiries about Safety / ILD Management",
+    "What is the SLA-met percentage for medical inquiries by product?"
+  ],
+  "notes": "Metric views (metric_hcp_engagement, metric_medical_inquiries) provide governed measure definitions so Genie answers match the dashboard and app. Repoint warehouse_id on import. See evidence/07_genie_nl_query.md for a verified live query."
+}

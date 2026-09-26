@@ -1,0 +1,321 @@
+share_id,hcp_id,content_id,content_title,content_type,topic_category,shared_date,shared_by_msl,share_channel
+SHR-00001,HCP-00181,CON-00026,Dosing & Administration: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Dosing & Administration,2026-08-31,Dr. Devin Rao,Virtual
+SHR-00002,HCP-00132,CON-00010,CNS / Brain Metastases: Enhertu HER2-ultralow metastatic bre,Congress Summary,CNS / Brain Metastases,2026-05-27,Dr. Grace Lim,Email
+SHR-00003,HCP-00233,CON-00053,Long-term Efficacy & Outcomes: Enhertu HER2-ultralow metastatic bre,FAQ Document,Long-term Efficacy & Outcomes,2026-03-27,Dr. Amara Osei,Virtual
+SHR-00004,HCP-00147,CON-00010,CNS / Brain Metastases: Enhertu HER2-ultralow metastatic bre,Congress Summary,CNS / Brain Metastases,2026-07-03,Dr. Grace Lim,Congress
+SHR-00005,HCP-00144,CON-00005,Biomarker & Patient Selection: Datroway HR+/HER2- metastatic breast ,Slide Deck,Biomarker & Patient Selection,2026-03-15,Dr. Elise Fournier,In-person
+SHR-00006,HCP-00023,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-09-23,Dr. Farid Nazari,Virtual
+SHR-00007,HCP-00149,CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,2026-03-14,Dr. Grace Lim,Virtual
+SHR-00008,HCP-00200,CON-00068,Safety / ILD Management: Datroway TROP2 metastatic NSCLC,Publication Reprint,Safety / ILD Management,2026-06-17,Dr. Elise Fournier,Congress
+SHR-00009,HCP-00153,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-06-13,Dr. Grace Lim,Congress
+SHR-00010,HCP-00065,CON-00048,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Long-term Efficacy & Outcomes,2026-07-26,Dr. Amara Osei,Virtual
+SHR-00011,HCP-00029,CON-00049,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,Long-term Efficacy & Outcomes,2026-06-21,Dr. Henry Kwon,In-person
+SHR-00012,HCP-00156,CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,2026-09-24,Dr. Elise Fournier,Email
+SHR-00013,HCP-00026,CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-05-15,Dr. Devin Rao,In-person
+SHR-00014,HCP-00173,CON-00035,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-03-29,Dr. Amara Osei,Email
+SHR-00015,HCP-00007,CON-00055,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,Long-term Efficacy & Outcomes,2026-04-12,Dr. Ben Carrington,Congress
+SHR-00016,HCP-00006,CON-00018,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Comparative Evidence,2026-09-25,Dr. Elise Fournier,Virtual
+SHR-00017,HCP-00036,CON-00068,Safety / ILD Management: Datroway TROP2 metastatic NSCLC,Publication Reprint,Safety / ILD Management,2026-08-29,Dr. Grace Lim,Congress
+SHR-00018,HCP-00271,CON-00025,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Comparative Evidence,2026-06-26,Dr. Devin Rao,In-person
+SHR-00019,HCP-00297,CON-00019,Comparative Evidence: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Comparative Evidence,2026-07-14,Dr. Henry Kwon,Congress
+SHR-00020,HCP-00174,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-09-07,Dr. Grace Lim,Email
+SHR-00021,HCP-00295,CON-00009,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,CNS / Brain Metastases,2026-05-11,Dr. Farid Nazari,Virtual
+SHR-00022,HCP-00108,CON-00028,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Dosing & Administration,2026-03-19,Dr. Amara Osei,Email
+SHR-00023,HCP-00006,CON-00068,Safety / ILD Management: Datroway TROP2 metastatic NSCLC,Publication Reprint,Safety / ILD Management,2026-06-20,Dr. Farid Nazari,Email
+SHR-00024,HCP-00121,CON-00013,CNS / Brain Metastases: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,CNS / Brain Metastases,2026-09-10,Dr. Devin Rao,Congress
+SHR-00025,HCP-00201,CON-00040,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,General Scientific Exchange,2026-08-28,Dr. Devin Rao,In-person
+SHR-00026,HCP-00001,CON-00060,Real-World Evidence: Enhertu HER2-mutant metastatic NSCLC,Congress Summary,Real-World Evidence,2026-04-28,Dr. Ben Carrington,Email
+SHR-00027,HCP-00154,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-04-04,Dr. Grace Lim,In-person
+SHR-00028,HCP-00051,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-08-29,Dr. Farid Nazari,Virtual
+SHR-00029,HCP-00294,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-08-15,Dr. Farid Nazari,Email
+SHR-00030,HCP-00174,CON-00010,CNS / Brain Metastases: Enhertu HER2-ultralow metastatic bre,Congress Summary,CNS / Brain Metastases,2026-04-15,Dr. Amara Osei,Email
+SHR-00031,HCP-00044,CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-07-04,Dr. Ben Carrington,Congress
+SHR-00032,HCP-00026,CON-00065,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-04-11,Dr. Farid Nazari,Congress
+SHR-00033,HCP-00178,CON-00070,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Safety / ILD Management,2026-09-16,Dr. Clara Winters,Email
+SHR-00034,HCP-00011,CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-08-04,Dr. Clara Winters,Congress
+SHR-00035,HCP-00283,CON-00005,Biomarker & Patient Selection: Datroway HR+/HER2- metastatic breast ,Slide Deck,Biomarker & Patient Selection,2026-04-10,Dr. Elise Fournier,Virtual
+SHR-00036,HCP-00296,CON-00046,General Scientific Exchange: Enhertu HER2-low metastatic breast c,FAQ Document,General Scientific Exchange,2026-05-11,Dr. Clara Winters,Congress
+SHR-00037,HCP-00022,CON-00009,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,CNS / Brain Metastases,2026-04-23,Dr. Farid Nazari,Congress
+SHR-00038,HCP-00160,CON-00063,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Real-World Evidence,2026-09-24,Dr. Henry Kwon,In-person
+SHR-00039,HCP-00136,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-07-27,Dr. Amara Osei,In-person
+SHR-00040,HCP-00277,CON-00018,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Comparative Evidence,2026-03-21,Dr. Farid Nazari,Email
+SHR-00041,HCP-00142,CON-00051,Long-term Efficacy & Outcomes: Datroway HR+/HER2- metastatic breast ,Congress Summary,Long-term Efficacy & Outcomes,2026-09-01,Dr. Devin Rao,In-person
+SHR-00042,HCP-00058,CON-00037,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-07-13,Dr. Farid Nazari,Congress
+SHR-00043,HCP-00059,CON-00014,CNS / Brain Metastases: Enhertu HER2-mutant metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-06-26,Dr. Devin Rao,Congress
+SHR-00044,HCP-00179,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-06-16,Dr. Henry Kwon,Congress
+SHR-00045,HCP-00078,CON-00026,Dosing & Administration: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Dosing & Administration,2026-06-05,Dr. Henry Kwon,Email
+SHR-00046,HCP-00247,CON-00041,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,General Scientific Exchange,2026-08-16,Dr. Henry Kwon,Email
+SHR-00047,HCP-00189,CON-00052,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-07-18,Dr. Amara Osei,In-person
+SHR-00048,HCP-00191,CON-00012,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,CNS / Brain Metastases,2026-05-26,Dr. Henry Kwon,Virtual
+SHR-00049,HCP-00251,CON-00051,Long-term Efficacy & Outcomes: Datroway HR+/HER2- metastatic breast ,Congress Summary,Long-term Efficacy & Outcomes,2026-09-04,Dr. Grace Lim,Congress
+SHR-00050,HCP-00223,CON-00059,Real-World Evidence: Enhertu HER2+ metastatic breast canc,Safety Guide,Real-World Evidence,2026-03-18,Dr. Devin Rao,Congress
+SHR-00051,HCP-00251,CON-00016,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,CNS / Brain Metastases,2026-03-21,Dr. Elise Fournier,In-person
+SHR-00052,HCP-00299,CON-00022,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,2026-07-13,Dr. Henry Kwon,Email
+SHR-00053,HCP-00269,CON-00021,Comparative Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Comparative Evidence,2026-07-26,Dr. Clara Winters,Email
+SHR-00054,HCP-00162,CON-00068,Safety / ILD Management: Datroway TROP2 metastatic NSCLC,Publication Reprint,Safety / ILD Management,2026-03-25,Dr. Elise Fournier,In-person
+SHR-00055,HCP-00015,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-04-12,Dr. Elise Fournier,Congress
+SHR-00056,HCP-00247,CON-00046,General Scientific Exchange: Enhertu HER2-low metastatic breast c,FAQ Document,General Scientific Exchange,2026-07-11,Dr. Devin Rao,Email
+SHR-00057,HCP-00063,CON-00054,Long-term Efficacy & Outcomes: Enhertu HER2+ metastatic gastric can,Safety Guide,Long-term Efficacy & Outcomes,2026-07-19,Dr. Ben Carrington,Email
+SHR-00058,HCP-00081,CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-04-18,Dr. Henry Kwon,In-person
+SHR-00059,HCP-00298,CON-00024,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Comparative Evidence,2026-04-20,Dr. Elise Fournier,In-person
+SHR-00060,HCP-00218,CON-00010,CNS / Brain Metastases: Enhertu HER2-ultralow metastatic bre,Congress Summary,CNS / Brain Metastases,2026-09-19,Dr. Farid Nazari,Virtual
+SHR-00061,HCP-00251,CON-00011,CNS / Brain Metastases: Datroway TROP2 metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-03-24,Dr. Amara Osei,Congress
+SHR-00062,HCP-00018,CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,2026-08-10,Dr. Ben Carrington,Email
+SHR-00063,HCP-00172,CON-00040,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,General Scientific Exchange,2026-04-23,Dr. Devin Rao,Email
+SHR-00064,HCP-00275,CON-00046,General Scientific Exchange: Enhertu HER2-low metastatic breast c,FAQ Document,General Scientific Exchange,2026-07-08,Dr. Farid Nazari,Virtual
+SHR-00065,HCP-00288,CON-00007,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Biomarker & Patient Selection,2026-04-07,Dr. Ben Carrington,Virtual
+SHR-00066,HCP-00169,CON-00041,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,General Scientific Exchange,2026-03-14,Dr. Grace Lim,Virtual
+SHR-00067,HCP-00129,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-03-29,Dr. Devin Rao,Congress
+SHR-00068,HCP-00244,CON-00022,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,2026-05-25,Dr. Amara Osei,In-person
+SHR-00069,HCP-00260,CON-00063,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Real-World Evidence,2026-05-20,Dr. Farid Nazari,Virtual
+SHR-00070,HCP-00110,CON-00025,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Comparative Evidence,2026-08-09,Dr. Clara Winters,Virtual
+SHR-00071,HCP-00218,CON-00027,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Dosing & Administration,2026-03-31,Dr. Clara Winters,Email
+SHR-00072,HCP-00024,CON-00014,CNS / Brain Metastases: Enhertu HER2-mutant metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-07-09,Dr. Farid Nazari,Email
+SHR-00073,HCP-00285,CON-00027,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Dosing & Administration,2026-09-24,Dr. Amara Osei,Virtual
+SHR-00074,HCP-00292,CON-00034,Dosing & Administration: Enhertu HER2-mutant metastatic NSCLC,FAQ Document,Dosing & Administration,2026-03-24,Dr. Ben Carrington,Congress
+SHR-00075,HCP-00177,CON-00023,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,2026-07-17,Dr. Farid Nazari,Email
+SHR-00076,HCP-00295,CON-00067,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Safety / ILD Management,2026-05-10,Dr. Amara Osei,Email
+SHR-00077,HCP-00231,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-08-18,Dr. Farid Nazari,Congress
+SHR-00078,HCP-00256,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-09-07,Dr. Henry Kwon,Congress
+SHR-00079,HCP-00147,CON-00036,General Scientific Exchange: Enhertu HER2+ metastatic gastric can,Publication Reprint,General Scientific Exchange,2026-09-12,Dr. Ben Carrington,Email
+SHR-00080,HCP-00086,CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,2026-07-13,Dr. Farid Nazari,Congress
+SHR-00081,HCP-00086,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-04-20,Dr. Farid Nazari,Email
+SHR-00082,HCP-00151,CON-00032,Dosing & Administration: Enhertu HER2+ metastatic breast canc,Slide Deck,Dosing & Administration,2026-08-30,Dr. Ben Carrington,Virtual
+SHR-00083,HCP-00293,CON-00047,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-09-01,Dr. Clara Winters,Email
+SHR-00084,HCP-00053,CON-00032,Dosing & Administration: Enhertu HER2+ metastatic breast canc,Slide Deck,Dosing & Administration,2026-07-16,Dr. Clara Winters,Email
+SHR-00085,HCP-00068,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-03-22,Dr. Farid Nazari,Virtual
+SHR-00086,HCP-00101,CON-00041,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,General Scientific Exchange,2026-07-17,Dr. Devin Rao,Email
+SHR-00087,HCP-00288,CON-00036,General Scientific Exchange: Enhertu HER2+ metastatic gastric can,Publication Reprint,General Scientific Exchange,2026-05-06,Dr. Elise Fournier,Virtual
+SHR-00088,HCP-00140,CON-00022,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,2026-05-12,Dr. Farid Nazari,Congress
+SHR-00089,HCP-00012,CON-00057,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Real-World Evidence,2026-08-28,Dr. Clara Winters,Virtual
+SHR-00090,HCP-00050,CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,2026-07-19,Dr. Henry Kwon,Virtual
+SHR-00091,HCP-00081,CON-00026,Dosing & Administration: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Dosing & Administration,2026-05-20,Dr. Clara Winters,Congress
+SHR-00092,HCP-00239,CON-00034,Dosing & Administration: Enhertu HER2-mutant metastatic NSCLC,FAQ Document,Dosing & Administration,2026-08-11,Dr. Farid Nazari,In-person
+SHR-00093,HCP-00213,CON-00031,Dosing & Administration: Datroway HR+/HER2- metastatic breast ,Publication Reprint,Dosing & Administration,2026-07-22,Dr. Farid Nazari,In-person
+SHR-00094,HCP-00017,CON-00050,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Long-term Efficacy & Outcomes,2026-05-25,Dr. Farid Nazari,Email
+SHR-00095,HCP-00164,CON-00052,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-05-18,Dr. Elise Fournier,Email
+SHR-00096,HCP-00035,CON-00025,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Comparative Evidence,2026-07-31,Dr. Farid Nazari,In-person
+SHR-00097,HCP-00105,CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-04-14,Dr. Amara Osei,Email
+SHR-00098,HCP-00099,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-08-11,Dr. Grace Lim,In-person
+SHR-00099,HCP-00255,CON-00062,Real-World Evidence: Datroway TROP2 metastatic NSCLC,FAQ Document,Real-World Evidence,2026-04-03,Dr. Amara Osei,Virtual
+SHR-00100,HCP-00234,CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,2026-06-25,Dr. Grace Lim,Congress
+SHR-00101,HCP-00006,CON-00021,Comparative Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Comparative Evidence,2026-06-16,Dr. Amara Osei,In-person
+SHR-00102,HCP-00161,CON-00009,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,CNS / Brain Metastases,2026-09-09,Dr. Henry Kwon,Virtual
+SHR-00103,HCP-00058,CON-00049,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,Long-term Efficacy & Outcomes,2026-09-24,Dr. Farid Nazari,Email
+SHR-00104,HCP-00253,CON-00034,Dosing & Administration: Enhertu HER2-mutant metastatic NSCLC,FAQ Document,Dosing & Administration,2026-04-26,Dr. Clara Winters,Email
+SHR-00105,HCP-00059,CON-00047,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-04-06,Dr. Henry Kwon,In-person
+SHR-00106,HCP-00224,CON-00048,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Long-term Efficacy & Outcomes,2026-08-22,Dr. Amara Osei,Congress
+SHR-00107,HCP-00071,CON-00063,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Real-World Evidence,2026-04-28,Dr. Grace Lim,Email
+SHR-00108,HCP-00156,CON-00032,Dosing & Administration: Enhertu HER2+ metastatic breast canc,Slide Deck,Dosing & Administration,2026-08-06,Dr. Devin Rao,Email
+SHR-00109,HCP-00059,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-04-18,Dr. Henry Kwon,In-person
+SHR-00110,HCP-00058,CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,2026-06-22,Dr. Henry Kwon,Email
+SHR-00111,HCP-00218,CON-00049,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,Long-term Efficacy & Outcomes,2026-04-26,Dr. Farid Nazari,Congress
+SHR-00112,HCP-00155,CON-00039,General Scientific Exchange: Datroway HR+/HER2- metastatic breast ,Publication Reprint,General Scientific Exchange,2026-06-22,Dr. Clara Winters,Congress
+SHR-00113,HCP-00126,CON-00052,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-05-04,Dr. Clara Winters,Email
+SHR-00114,HCP-00146,CON-00023,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,2026-03-30,Dr. Grace Lim,Congress
+SHR-00115,HCP-00080,CON-00016,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,CNS / Brain Metastases,2026-04-18,Dr. Henry Kwon,Email
+SHR-00116,HCP-00228,CON-00065,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-07-25,Dr. Elise Fournier,Email
+SHR-00117,HCP-00209,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-04-17,Dr. Henry Kwon,Congress
+SHR-00118,HCP-00080,CON-00032,Dosing & Administration: Enhertu HER2+ metastatic breast canc,Slide Deck,Dosing & Administration,2026-06-13,Dr. Clara Winters,Congress
+SHR-00119,HCP-00292,CON-00067,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Safety / ILD Management,2026-08-04,Dr. Farid Nazari,Congress
+SHR-00120,HCP-00171,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-05-20,Dr. Grace Lim,Email
+SHR-00121,HCP-00139,CON-00018,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Comparative Evidence,2026-09-11,Dr. Elise Fournier,Congress
+SHR-00122,HCP-00012,CON-00011,CNS / Brain Metastases: Datroway TROP2 metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-09-21,Dr. Devin Rao,Congress
+SHR-00123,HCP-00029,CON-00025,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Comparative Evidence,2026-05-30,Dr. Amara Osei,Virtual
+SHR-00124,HCP-00032,CON-00047,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-05-14,Dr. Elise Fournier,Congress
+SHR-00125,HCP-00164,CON-00037,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-04-05,Dr. Elise Fournier,In-person
+SHR-00126,HCP-00088,CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-08-06,Dr. Grace Lim,Virtual
+SHR-00127,HCP-00103,CON-00013,CNS / Brain Metastases: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,CNS / Brain Metastases,2026-09-13,Dr. Elise Fournier,In-person
+SHR-00128,HCP-00002,CON-00062,Real-World Evidence: Datroway TROP2 metastatic NSCLC,FAQ Document,Real-World Evidence,2026-05-03,Dr. Devin Rao,In-person
+SHR-00129,HCP-00202,CON-00052,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-09-18,Dr. Henry Kwon,Email
+SHR-00130,HCP-00189,CON-00042,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-03-15,Dr. Clara Winters,Congress
+SHR-00131,HCP-00056,CON-00067,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Safety / ILD Management,2026-04-04,Dr. Devin Rao,Email
+SHR-00132,HCP-00281,CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-09-25,Dr. Devin Rao,In-person
+SHR-00133,HCP-00153,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-08-15,Dr. Henry Kwon,In-person
+SHR-00134,HCP-00024,CON-00065,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-08-18,Dr. Elise Fournier,Email
+SHR-00135,HCP-00073,CON-00006,Biomarker & Patient Selection: Datroway TROP2 metastatic NSCLC,FAQ Document,Biomarker & Patient Selection,2026-05-08,Dr. Farid Nazari,Virtual
+SHR-00136,HCP-00210,CON-00059,Real-World Evidence: Enhertu HER2+ metastatic breast canc,Safety Guide,Real-World Evidence,2026-08-02,Dr. Elise Fournier,In-person
+SHR-00137,HCP-00147,CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,2026-08-17,Dr. Ben Carrington,Email
+SHR-00138,HCP-00224,CON-00021,Comparative Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Comparative Evidence,2026-07-31,Dr. Elise Fournier,Email
+SHR-00139,HCP-00033,CON-00014,CNS / Brain Metastases: Enhertu HER2-mutant metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-05-07,Dr. Devin Rao,Congress
+SHR-00140,HCP-00275,CON-00063,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Real-World Evidence,2026-05-13,Dr. Farid Nazari,Virtual
+SHR-00141,HCP-00021,CON-00054,Long-term Efficacy & Outcomes: Enhertu HER2+ metastatic gastric can,Safety Guide,Long-term Efficacy & Outcomes,2026-05-08,Dr. Farid Nazari,In-person
+SHR-00142,HCP-00187,CON-00070,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Safety / ILD Management,2026-06-01,Dr. Ben Carrington,Congress
+SHR-00143,HCP-00235,CON-00040,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,General Scientific Exchange,2026-08-19,Dr. Henry Kwon,Virtual
+SHR-00144,HCP-00054,CON-00017,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,CNS / Brain Metastases,2026-07-17,Dr. Ben Carrington,Virtual
+SHR-00145,HCP-00080,CON-00039,General Scientific Exchange: Datroway HR+/HER2- metastatic breast ,Publication Reprint,General Scientific Exchange,2026-04-25,Dr. Amara Osei,Email
+SHR-00146,HCP-00017,CON-00010,CNS / Brain Metastases: Enhertu HER2-ultralow metastatic bre,Congress Summary,CNS / Brain Metastases,2026-05-10,Dr. Henry Kwon,Virtual
+SHR-00147,HCP-00161,CON-00012,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,CNS / Brain Metastases,2026-03-28,Dr. Clara Winters,Email
+SHR-00148,HCP-00144,CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-09-16,Dr. Elise Fournier,Email
+SHR-00149,HCP-00210,CON-00027,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Dosing & Administration,2026-07-29,Dr. Farid Nazari,Congress
+SHR-00150,HCP-00036,CON-00056,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Long-term Efficacy & Outcomes,2026-09-06,Dr. Clara Winters,Email
+SHR-00151,HCP-00200,CON-00026,Dosing & Administration: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Dosing & Administration,2026-05-22,Dr. Amara Osei,In-person
+SHR-00152,HCP-00022,CON-00042,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-05-08,Dr. Devin Rao,In-person
+SHR-00153,HCP-00064,CON-00053,Long-term Efficacy & Outcomes: Enhertu HER2-ultralow metastatic bre,FAQ Document,Long-term Efficacy & Outcomes,2026-06-09,Dr. Elise Fournier,In-person
+SHR-00154,HCP-00156,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-09-20,Dr. Henry Kwon,Email
+SHR-00155,HCP-00245,CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-03-10,Dr. Elise Fournier,Email
+SHR-00156,HCP-00025,CON-00068,Safety / ILD Management: Datroway TROP2 metastatic NSCLC,Publication Reprint,Safety / ILD Management,2026-08-31,Dr. Farid Nazari,Congress
+SHR-00157,HCP-00123,CON-00067,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Safety / ILD Management,2026-06-24,Dr. Ben Carrington,In-person
+SHR-00158,HCP-00156,CON-00037,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-07-03,Dr. Amara Osei,In-person
+SHR-00159,HCP-00133,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-06-18,Dr. Farid Nazari,Congress
+SHR-00160,HCP-00201,CON-00019,Comparative Evidence: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Comparative Evidence,2026-08-18,Dr. Farid Nazari,Virtual
+SHR-00161,HCP-00022,CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,2026-07-05,Dr. Henry Kwon,Congress
+SHR-00162,HCP-00200,CON-00040,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,General Scientific Exchange,2026-06-27,Dr. Clara Winters,Congress
+SHR-00163,HCP-00191,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-09-23,Dr. Amara Osei,In-person
+SHR-00164,HCP-00119,CON-00027,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Dosing & Administration,2026-04-02,Dr. Clara Winters,Email
+SHR-00165,HCP-00138,CON-00051,Long-term Efficacy & Outcomes: Datroway HR+/HER2- metastatic breast ,Congress Summary,Long-term Efficacy & Outcomes,2026-08-10,Dr. Elise Fournier,Congress
+SHR-00166,HCP-00248,CON-00053,Long-term Efficacy & Outcomes: Enhertu HER2-ultralow metastatic bre,FAQ Document,Long-term Efficacy & Outcomes,2026-03-26,Dr. Ben Carrington,In-person
+SHR-00167,HCP-00214,CON-00017,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,CNS / Brain Metastases,2026-06-04,Dr. Ben Carrington,Virtual
+SHR-00168,HCP-00266,CON-00035,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-07-03,Dr. Henry Kwon,In-person
+SHR-00169,HCP-00270,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-07-29,Dr. Devin Rao,Email
+SHR-00170,HCP-00017,CON-00060,Real-World Evidence: Enhertu HER2-mutant metastatic NSCLC,Congress Summary,Real-World Evidence,2026-09-23,Dr. Clara Winters,Virtual
+SHR-00171,HCP-00124,CON-00013,CNS / Brain Metastases: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,CNS / Brain Metastases,2026-05-11,Dr. Clara Winters,Email
+SHR-00172,HCP-00196,CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-05-15,Dr. Ben Carrington,Email
+SHR-00173,HCP-00109,CON-00059,Real-World Evidence: Enhertu HER2+ metastatic breast canc,Safety Guide,Real-World Evidence,2026-05-06,Dr. Ben Carrington,Virtual
+SHR-00174,HCP-00272,CON-00034,Dosing & Administration: Enhertu HER2-mutant metastatic NSCLC,FAQ Document,Dosing & Administration,2026-04-03,Dr. Clara Winters,Email
+SHR-00175,HCP-00139,CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,2026-05-22,Dr. Grace Lim,In-person
+SHR-00176,HCP-00045,CON-00067,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Safety / ILD Management,2026-04-09,Dr. Grace Lim,Virtual
+SHR-00177,HCP-00137,CON-00032,Dosing & Administration: Enhertu HER2+ metastatic breast canc,Slide Deck,Dosing & Administration,2026-08-14,Dr. Devin Rao,Congress
+SHR-00178,HCP-00222,CON-00036,General Scientific Exchange: Enhertu HER2+ metastatic gastric can,Publication Reprint,General Scientific Exchange,2026-05-17,Dr. Henry Kwon,Email
+SHR-00179,HCP-00038,CON-00012,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,CNS / Brain Metastases,2026-05-10,Dr. Devin Rao,Virtual
+SHR-00180,HCP-00298,CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,2026-07-08,Dr. Henry Kwon,Email
+SHR-00181,HCP-00099,CON-00053,Long-term Efficacy & Outcomes: Enhertu HER2-ultralow metastatic bre,FAQ Document,Long-term Efficacy & Outcomes,2026-05-09,Dr. Amara Osei,Virtual
+SHR-00182,HCP-00022,CON-00057,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Real-World Evidence,2026-05-21,Dr. Henry Kwon,Email
+SHR-00183,HCP-00258,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-05-18,Dr. Ben Carrington,Email
+SHR-00184,HCP-00225,CON-00012,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,CNS / Brain Metastases,2026-08-07,Dr. Farid Nazari,Virtual
+SHR-00185,HCP-00208,CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,2026-09-08,Dr. Clara Winters,Email
+SHR-00186,HCP-00072,CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,2026-05-17,Dr. Amara Osei,Email
+SHR-00187,HCP-00255,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-08-03,Dr. Amara Osei,Congress
+SHR-00188,HCP-00213,CON-00039,General Scientific Exchange: Datroway HR+/HER2- metastatic breast ,Publication Reprint,General Scientific Exchange,2026-04-05,Dr. Elise Fournier,Congress
+SHR-00189,HCP-00182,CON-00048,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Long-term Efficacy & Outcomes,2026-07-15,Dr. Devin Rao,In-person
+SHR-00190,HCP-00045,CON-00037,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-04-07,Dr. Amara Osei,Congress
+SHR-00191,HCP-00175,CON-00057,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Real-World Evidence,2026-09-16,Dr. Amara Osei,In-person
+SHR-00192,HCP-00053,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-09-09,Dr. Elise Fournier,Email
+SHR-00193,HCP-00087,CON-00054,Long-term Efficacy & Outcomes: Enhertu HER2+ metastatic gastric can,Safety Guide,Long-term Efficacy & Outcomes,2026-04-16,Dr. Grace Lim,Congress
+SHR-00194,HCP-00241,CON-00011,CNS / Brain Metastases: Datroway TROP2 metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-04-21,Dr. Elise Fournier,Congress
+SHR-00195,HCP-00048,CON-00021,Comparative Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Comparative Evidence,2026-09-08,Dr. Ben Carrington,Virtual
+SHR-00196,HCP-00117,CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,2026-07-19,Dr. Henry Kwon,In-person
+SHR-00197,HCP-00258,CON-00048,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Long-term Efficacy & Outcomes,2026-07-24,Dr. Ben Carrington,In-person
+SHR-00198,HCP-00202,CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,2026-06-20,Dr. Grace Lim,Congress
+SHR-00199,HCP-00001,CON-00005,Biomarker & Patient Selection: Datroway HR+/HER2- metastatic breast ,Slide Deck,Biomarker & Patient Selection,2026-07-18,Dr. Farid Nazari,Virtual
+SHR-00200,HCP-00033,CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-06-12,Dr. Clara Winters,Email
+SHR-00201,HCP-00276,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-08-12,Dr. Henry Kwon,Email
+SHR-00202,HCP-00257,CON-00011,CNS / Brain Metastases: Datroway TROP2 metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-04-07,Dr. Henry Kwon,In-person
+SHR-00203,HCP-00035,CON-00037,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-08-02,Dr. Amara Osei,Congress
+SHR-00204,HCP-00192,CON-00056,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Long-term Efficacy & Outcomes,2026-05-18,Dr. Amara Osei,Congress
+SHR-00205,HCP-00037,CON-00004,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Biomarker & Patient Selection,2026-05-04,Dr. Farid Nazari,In-person
+SHR-00206,HCP-00068,CON-00006,Biomarker & Patient Selection: Datroway TROP2 metastatic NSCLC,FAQ Document,Biomarker & Patient Selection,2026-03-15,Dr. Devin Rao,Congress
+SHR-00207,HCP-00156,CON-00004,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Biomarker & Patient Selection,2026-07-18,Dr. Henry Kwon,Email
+SHR-00208,HCP-00198,CON-00026,Dosing & Administration: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Dosing & Administration,2026-04-25,Dr. Devin Rao,Email
+SHR-00209,HCP-00194,CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,2026-08-03,Dr. Devin Rao,Email
+SHR-00210,HCP-00075,CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,2026-09-23,Dr. Ben Carrington,Congress
+SHR-00211,HCP-00125,CON-00041,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,General Scientific Exchange,2026-03-16,Dr. Grace Lim,In-person
+SHR-00212,HCP-00249,CON-00024,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Comparative Evidence,2026-07-30,Dr. Henry Kwon,In-person
+SHR-00213,HCP-00130,CON-00060,Real-World Evidence: Enhertu HER2-mutant metastatic NSCLC,Congress Summary,Real-World Evidence,2026-03-14,Dr. Ben Carrington,Email
+SHR-00214,HCP-00018,CON-00011,CNS / Brain Metastases: Datroway TROP2 metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-07-21,Dr. Ben Carrington,In-person
+SHR-00215,HCP-00172,CON-00057,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Real-World Evidence,2026-05-21,Dr. Clara Winters,In-person
+SHR-00216,HCP-00200,CON-00048,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Long-term Efficacy & Outcomes,2026-06-01,Dr. Amara Osei,In-person
+SHR-00217,HCP-00039,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-07-30,Dr. Devin Rao,Virtual
+SHR-00218,HCP-00075,CON-00057,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Real-World Evidence,2026-07-06,Dr. Henry Kwon,Virtual
+SHR-00219,HCP-00071,CON-00070,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Safety / ILD Management,2026-03-31,Dr. Elise Fournier,Congress
+SHR-00220,HCP-00137,CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,2026-04-06,Dr. Henry Kwon,In-person
+SHR-00221,HCP-00219,CON-00070,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Safety / ILD Management,2026-03-13,Dr. Amara Osei,Virtual
+SHR-00222,HCP-00192,CON-00009,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,CNS / Brain Metastases,2026-04-17,Dr. Clara Winters,Congress
+SHR-00223,HCP-00119,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-08-26,Dr. Ben Carrington,In-person
+SHR-00224,HCP-00277,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-07-11,Dr. Farid Nazari,Email
+SHR-00225,HCP-00227,CON-00052,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-05-29,Dr. Henry Kwon,Congress
+SHR-00226,HCP-00290,CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-08-28,Dr. Grace Lim,In-person
+SHR-00227,HCP-00097,CON-00070,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Safety / ILD Management,2026-08-02,Dr. Amara Osei,Email
+SHR-00228,HCP-00050,CON-00024,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Comparative Evidence,2026-08-09,Dr. Farid Nazari,Virtual
+SHR-00229,HCP-00194,CON-00053,Long-term Efficacy & Outcomes: Enhertu HER2-ultralow metastatic bre,FAQ Document,Long-term Efficacy & Outcomes,2026-06-19,Dr. Ben Carrington,In-person
+SHR-00230,HCP-00279,CON-00012,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,CNS / Brain Metastases,2026-03-31,Dr. Ben Carrington,In-person
+SHR-00231,HCP-00059,CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,2026-06-22,Dr. Henry Kwon,In-person
+SHR-00232,HCP-00200,CON-00023,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,2026-06-12,Dr. Amara Osei,Congress
+SHR-00233,HCP-00216,CON-00019,Comparative Evidence: Enhertu HER2-ultralow metastatic bre,Publication Reprint,Comparative Evidence,2026-06-15,Dr. Ben Carrington,In-person
+SHR-00234,HCP-00262,CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,2026-05-21,Dr. Farid Nazari,Virtual
+SHR-00235,HCP-00165,CON-00062,Real-World Evidence: Datroway TROP2 metastatic NSCLC,FAQ Document,Real-World Evidence,2026-06-10,Dr. Devin Rao,In-person
+SHR-00236,HCP-00019,CON-00007,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Biomarker & Patient Selection,2026-09-10,Dr. Henry Kwon,Congress
+SHR-00237,HCP-00252,CON-00047,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-04-25,Dr. Devin Rao,Virtual
+SHR-00238,HCP-00135,CON-00032,Dosing & Administration: Enhertu HER2+ metastatic breast canc,Slide Deck,Dosing & Administration,2026-06-01,Dr. Henry Kwon,Congress
+SHR-00239,HCP-00197,CON-00034,Dosing & Administration: Enhertu HER2-mutant metastatic NSCLC,FAQ Document,Dosing & Administration,2026-07-02,Dr. Henry Kwon,Congress
+SHR-00240,HCP-00073,CON-00047,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-04-28,Dr. Clara Winters,Congress
+SHR-00241,HCP-00045,CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,2026-03-18,Dr. Clara Winters,Email
+SHR-00242,HCP-00231,CON-00004,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Biomarker & Patient Selection,2026-03-23,Dr. Devin Rao,Virtual
+SHR-00243,HCP-00063,CON-00015,CNS / Brain Metastases: Enhertu HER2-low metastatic breast c,Clinical Data Summary,CNS / Brain Metastases,2026-09-10,Dr. Amara Osei,Congress
+SHR-00244,HCP-00144,CON-00005,Biomarker & Patient Selection: Datroway HR+/HER2- metastatic breast ,Slide Deck,Biomarker & Patient Selection,2026-04-25,Dr. Clara Winters,Congress
+SHR-00245,HCP-00029,CON-00005,Biomarker & Patient Selection: Datroway HR+/HER2- metastatic breast ,Slide Deck,Biomarker & Patient Selection,2026-06-20,Dr. Clara Winters,Virtual
+SHR-00246,HCP-00114,CON-00060,Real-World Evidence: Enhertu HER2-mutant metastatic NSCLC,Congress Summary,Real-World Evidence,2026-07-12,Dr. Henry Kwon,Congress
+SHR-00247,HCP-00007,CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,2026-07-12,Dr. Henry Kwon,Congress
+SHR-00248,HCP-00285,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-07-04,Dr. Farid Nazari,Congress
+SHR-00249,HCP-00006,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-05-07,Dr. Grace Lim,In-person
+SHR-00250,HCP-00243,CON-00025,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Comparative Evidence,2026-04-26,Dr. Amara Osei,Email
+SHR-00251,HCP-00076,CON-00047,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-06-20,Dr. Elise Fournier,Email
+SHR-00252,HCP-00270,CON-00013,CNS / Brain Metastases: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,CNS / Brain Metastases,2026-04-03,Dr. Ben Carrington,In-person
+SHR-00253,HCP-00227,CON-00018,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Comparative Evidence,2026-06-29,Dr. Henry Kwon,Email
+SHR-00254,HCP-00064,CON-00040,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,General Scientific Exchange,2026-07-20,Dr. Amara Osei,Virtual
+SHR-00255,HCP-00084,CON-00014,CNS / Brain Metastases: Enhertu HER2-mutant metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-09-17,Dr. Elise Fournier,Email
+SHR-00256,HCP-00200,CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,2026-08-14,Dr. Elise Fournier,Virtual
+SHR-00257,HCP-00049,CON-00015,CNS / Brain Metastases: Enhertu HER2-low metastatic breast c,Clinical Data Summary,CNS / Brain Metastases,2026-08-01,Dr. Elise Fournier,In-person
+SHR-00258,HCP-00250,CON-00043,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Clinical Data Summary,General Scientific Exchange,2026-07-01,Dr. Clara Winters,Congress
+SHR-00259,HCP-00087,CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,2026-08-30,Dr. Devin Rao,In-person
+SHR-00260,HCP-00259,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-04-03,Dr. Farid Nazari,Virtual
+SHR-00261,HCP-00198,CON-00025,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Comparative Evidence,2026-03-16,Dr. Elise Fournier,Virtual
+SHR-00262,HCP-00243,CON-00036,General Scientific Exchange: Enhertu HER2+ metastatic gastric can,Publication Reprint,General Scientific Exchange,2026-07-22,Dr. Ben Carrington,Congress
+SHR-00263,HCP-00245,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-08-08,Dr. Elise Fournier,In-person
+SHR-00264,HCP-00069,CON-00065,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-05-16,Dr. Devin Rao,In-person
+SHR-00265,HCP-00162,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-09-13,Dr. Elise Fournier,Congress
+SHR-00266,HCP-00162,CON-00011,CNS / Brain Metastases: Datroway TROP2 metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-04-21,Dr. Devin Rao,In-person
+SHR-00267,HCP-00070,CON-00031,Dosing & Administration: Datroway HR+/HER2- metastatic breast ,Publication Reprint,Dosing & Administration,2026-07-06,Dr. Henry Kwon,Virtual
+SHR-00268,HCP-00199,CON-00042,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,General Scientific Exchange,2026-09-21,Dr. Grace Lim,In-person
+SHR-00269,HCP-00285,CON-00024,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Comparative Evidence,2026-09-11,Dr. Devin Rao,Virtual
+SHR-00270,HCP-00288,CON-00049,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Congress Summary,Long-term Efficacy & Outcomes,2026-05-06,Dr. Grace Lim,In-person
+SHR-00271,HCP-00278,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-07-10,Dr. Henry Kwon,In-person
+SHR-00272,HCP-00260,CON-00045,General Scientific Exchange: Datroway HR+/HER2- metastatic breast ,Publication Reprint,General Scientific Exchange,2026-09-16,Dr. Ben Carrington,Email
+SHR-00273,HCP-00146,CON-00028,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Dosing & Administration,2026-04-12,Dr. Elise Fournier,In-person
+SHR-00274,HCP-00276,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-05-27,Dr. Elise Fournier,Virtual
+SHR-00275,HCP-00061,CON-00014,CNS / Brain Metastases: Enhertu HER2-mutant metastatic NSCLC,Slide Deck,CNS / Brain Metastases,2026-07-16,Dr. Elise Fournier,Email
+SHR-00276,HCP-00008,CON-00063,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Real-World Evidence,2026-09-24,Dr. Clara Winters,In-person
+SHR-00277,HCP-00015,CON-00031,Dosing & Administration: Datroway HR+/HER2- metastatic breast ,Publication Reprint,Dosing & Administration,2026-04-16,Dr. Henry Kwon,In-person
+SHR-00278,HCP-00300,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-05-05,Dr. Clara Winters,Virtual
+SHR-00279,HCP-00099,CON-00022,Comparative Evidence: Enhertu HER2+ metastatic breast canc,Clinical Data Summary,Comparative Evidence,2026-03-14,Dr. Clara Winters,Email
+SHR-00280,HCP-00178,CON-00052,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Long-term Efficacy & Outcomes,2026-07-12,Dr. Clara Winters,Email
+SHR-00281,HCP-00069,CON-00057,Real-World Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,Real-World Evidence,2026-07-14,Dr. Ben Carrington,Congress
+SHR-00282,HCP-00170,CON-00028,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Dosing & Administration,2026-08-06,Dr. Farid Nazari,Virtual
+SHR-00283,HCP-00069,CON-00006,Biomarker & Patient Selection: Datroway TROP2 metastatic NSCLC,FAQ Document,Biomarker & Patient Selection,2026-03-10,Dr. Farid Nazari,In-person
+SHR-00284,HCP-00139,CON-00018,Comparative Evidence: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Comparative Evidence,2026-05-16,Dr. Amara Osei,In-person
+SHR-00285,HCP-00001,CON-00012,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,CNS / Brain Metastases,2026-09-11,Dr. Clara Winters,Virtual
+SHR-00286,HCP-00201,CON-00001,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Safety Guide,Biomarker & Patient Selection,2026-05-07,Dr. Ben Carrington,In-person
+SHR-00287,HCP-00059,CON-00046,General Scientific Exchange: Enhertu HER2-low metastatic breast c,FAQ Document,General Scientific Exchange,2026-05-14,Dr. Elise Fournier,Congress
+SHR-00288,HCP-00102,CON-00028,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Clinical Data Summary,Dosing & Administration,2026-06-22,Dr. Elise Fournier,In-person
+SHR-00289,HCP-00265,CON-00067,Safety / ILD Management: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,Safety / ILD Management,2026-09-14,Dr. Henry Kwon,In-person
+SHR-00290,HCP-00184,CON-00053,Long-term Efficacy & Outcomes: Enhertu HER2-ultralow metastatic bre,FAQ Document,Long-term Efficacy & Outcomes,2026-08-14,Dr. Amara Osei,Congress
+SHR-00291,HCP-00245,CON-00061,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Real-World Evidence,2026-04-29,Dr. Devin Rao,Email
+SHR-00292,HCP-00218,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-03-17,Dr. Devin Rao,In-person
+SHR-00293,HCP-00123,CON-00016,CNS / Brain Metastases: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,CNS / Brain Metastases,2026-06-21,Dr. Ben Carrington,Congress
+SHR-00294,HCP-00299,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-09-12,Dr. Ben Carrington,Email
+SHR-00295,HCP-00006,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-07-23,Dr. Farid Nazari,Virtual
+SHR-00296,HCP-00113,CON-00050,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Long-term Efficacy & Outcomes,2026-04-24,Dr. Henry Kwon,In-person
+SHR-00297,HCP-00289,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-07-18,Dr. Clara Winters,Virtual
+SHR-00298,HCP-00135,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-06-21,Dr. Ben Carrington,Congress
+SHR-00299,HCP-00293,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-05-10,Dr. Amara Osei,Email
+SHR-00300,HCP-00176,CON-00069,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-08-22,Dr. Ben Carrington,Congress
+SHR-00301,HCP-00205,CON-00036,General Scientific Exchange: Enhertu HER2+ metastatic gastric can,Publication Reprint,General Scientific Exchange,2026-04-19,Dr. Clara Winters,Email
+SHR-00302,HCP-00195,CON-00056,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Long-term Efficacy & Outcomes,2026-04-20,Dr. Farid Nazari,Email
+SHR-00303,HCP-00112,CON-00050,Long-term Efficacy & Outcomes: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Long-term Efficacy & Outcomes,2026-05-04,Dr. Henry Kwon,Congress
+SHR-00304,HCP-00220,CON-00058,Real-World Evidence: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Real-World Evidence,2026-08-12,Dr. Ben Carrington,Congress
+SHR-00305,HCP-00268,CON-00002,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Biomarker & Patient Selection,2026-06-26,Dr. Amara Osei,Email
+SHR-00306,HCP-00098,CON-00030,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-05-19,Dr. Grace Lim,In-person
+SHR-00307,HCP-00263,CON-00066,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,Slide Deck,Safety / ILD Management,2026-06-07,Dr. Henry Kwon,In-person
+SHR-00308,HCP-00133,CON-00007,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Biomarker & Patient Selection,2026-05-24,Dr. Clara Winters,In-person
+SHR-00309,HCP-00138,CON-00056,Long-term Efficacy & Outcomes: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Long-term Efficacy & Outcomes,2026-08-26,Dr. Elise Fournier,Congress
+SHR-00310,HCP-00294,CON-00041,General Scientific Exchange: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,General Scientific Exchange,2026-04-06,Dr. Ben Carrington,Congress
+SHR-00311,HCP-00113,CON-00040,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,Publication Reprint,General Scientific Exchange,2026-03-24,Dr. Devin Rao,Congress
+SHR-00312,HCP-00020,CON-00068,Safety / ILD Management: Datroway TROP2 metastatic NSCLC,Publication Reprint,Safety / ILD Management,2026-06-19,Dr. Clara Winters,Virtual
+SHR-00313,HCP-00081,CON-00035,Dosing & Administration: Vanflyta FLT3-ITD+ acute myeloid leuk,Publication Reprint,Dosing & Administration,2026-06-26,Dr. Ben Carrington,Congress
+SHR-00314,HCP-00146,CON-00003,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Congress Summary,Biomarker & Patient Selection,2026-07-28,Dr. Clara Winters,In-person
+SHR-00315,HCP-00115,CON-00015,CNS / Brain Metastases: Enhertu HER2-low metastatic breast c,Clinical Data Summary,CNS / Brain Metastases,2026-08-15,Dr. Ben Carrington,Congress
+SHR-00316,HCP-00093,CON-00065,Safety / ILD Management: Vanflyta FLT3-ITD+ acute myeloid leuk,FAQ Document,Safety / ILD Management,2026-08-05,Dr. Grace Lim,Congress
+SHR-00317,HCP-00073,CON-00008,Biomarker & Patient Selection: Vanflyta FLT3-ITD+ acute myeloid leuk,Safety Guide,Biomarker & Patient Selection,2026-08-31,Dr. Clara Winters,In-person
+SHR-00318,HCP-00241,CON-00007,Biomarker & Patient Selection: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Biomarker & Patient Selection,2026-06-06,Dr. Elise Fournier,Virtual
+SHR-00319,HCP-00024,CON-00029,Dosing & Administration: HER3-DXd EGFR-mutant NSCLC (investiga,Slide Deck,Dosing & Administration,2026-04-28,Dr. Grace Lim,Congress
+SHR-00320,HCP-00221,CON-00038,General Scientific Exchange: HER3-DXd EGFR-mutant NSCLC (investiga,FAQ Document,General Scientific Exchange,2026-07-16,Dr. Ben Carrington,In-person
