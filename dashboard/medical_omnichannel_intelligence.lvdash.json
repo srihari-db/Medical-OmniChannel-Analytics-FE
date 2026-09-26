@@ -1,0 +1,693 @@
+{
+  "datasets": [
+    {
+      "name": "kpis",
+      "displayName": "Headline KPIs",
+      "queryLines": [
+        "SELECT (SELECT COUNT(*) FROM `_sa701`.moa.gold_hcp_360) AS total_hcps, ",
+        "(SELECT COUNT(*) FROM `_sa701`.moa.gold_hcp_priority WHERE priority_tier='High') AS priority_high, ",
+        "(SELECT ROUND(COUNT_IF(days_since_last_msl<=90)/COUNT(*),3) FROM `_sa701`.moa.gold_hcp_360) AS reach_90d_pct, ",
+        "(SELECT COUNT_IF(under_engaged_priority) FROM `_sa701`.moa.gold_hcp_360) AS under_engaged, ",
+        "(SELECT COUNT_IF(overdue) FROM `_sa701`.moa.gold_medical_information_requests) AS overdue_inquiries, ",
+        "(SELECT ROUND(AVG(response_time_days),1) FROM `_sa701`.moa.gold_medical_information_requests WHERE response_status='Closed') AS avg_response_days"
+      ]
+    },
+    {
+      "name": "reach_by_territory",
+      "displayName": "Reach by territory",
+      "queryLines": [
+        "SELECT territory, total_hcps, reach_rate, under_engaged_priority_hcps, ",
+        "ROUND(territory_opportunity_score,1) AS opportunity_score ",
+        "FROM `_sa701`.moa.gold_territory_opportunity ORDER BY reach_rate ASC"
+      ]
+    },
+    {
+      "name": "topic_interest",
+      "displayName": "Scientific topic interest",
+      "queryLines": [
+        "SELECT topic_category, SUM(mentions) AS mentions, COUNT(DISTINCT hcp_id) AS hcps ",
+        "FROM `_sa701`.moa.gold_medical_topic_interest GROUP BY topic_category ORDER BY mentions DESC"
+      ]
+    },
+    {
+      "name": "inquiry_sla",
+      "displayName": "Medical inquiry SLA by product",
+      "queryLines": [
+        "SELECT product, COUNT(*) AS total_inquiries, COUNT_IF(overdue) AS overdue_inquiries, ",
+        "ROUND(COUNT_IF(sla_met)/NULLIF(COUNT_IF(response_status='Closed'),0),3) AS sla_met_pct ",
+        "FROM `_sa701`.moa.gold_medical_information_requests GROUP BY product ORDER BY total_inquiries DESC"
+      ]
+    },
+    {
+      "name": "priority_dist",
+      "displayName": "Priority tier distribution",
+      "queryLines": [
+        "SELECT priority_tier, COUNT(*) AS hcps FROM `_sa701`.moa.gold_hcp_priority GROUP BY priority_tier"
+      ]
+    },
+    {
+      "name": "next_best_queue",
+      "displayName": "MSL next-best-engagement queue",
+      "queryLines": [
+        "SELECT hcp_name, territory, priority_tier, ROUND(msl_priority_score,1) AS msl_priority_score, ",
+        "trigger, topic, recommended_date FROM `_sa701`.moa.gold_next_best_engagement ",
+        "ORDER BY msl_priority_score DESC LIMIT 25"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "name": "overview",
+      "displayName": "Medical Omnichannel Intelligence",
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layout": [
+        {
+          "widget": {
+            "name": "title",
+            "multilineTextboxSpec": {
+              "lines": [
+                "## Medical Omnichannel Intelligence \u2014 Daiichi Sankyo (Oncology Medical Affairs)"
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 6,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "subtitle",
+            "multilineTextboxSpec": {
+              "lines": [
+                "MSL engagement, scientific interest & medical-inquiry SLAs across the portfolio. Synthetic, non-promotional demo data."
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 1,
+            "width": 6,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi-total-hcps",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "kpis",
+                  "fields": [
+                    {
+                      "name": "total_hcps",
+                      "expression": "`total_hcps`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "total_hcps",
+                  "displayName": "Total HCPs"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Total HCPs"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 2,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi-reach",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "kpis",
+                  "fields": [
+                    {
+                      "name": "reach_90d_pct",
+                      "expression": "`reach_90d_pct`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "reach_90d_pct",
+                  "displayName": "90-day HCP reach"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "90-day HCP reach"
+              }
+            }
+          },
+          "position": {
+            "x": 2,
+            "y": 2,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi-underengaged",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "kpis",
+                  "fields": [
+                    {
+                      "name": "under_engaged",
+                      "expression": "`under_engaged`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "under_engaged",
+                  "displayName": "Under-engaged priority KOLs"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Under-engaged priority KOLs"
+              }
+            }
+          },
+          "position": {
+            "x": 4,
+            "y": 2,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi-priority-high",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "kpis",
+                  "fields": [
+                    {
+                      "name": "priority_high",
+                      "expression": "`priority_high`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "priority_high",
+                  "displayName": "High-priority KOLs"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "High-priority KOLs"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 5,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi-overdue",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "kpis",
+                  "fields": [
+                    {
+                      "name": "overdue_inquiries",
+                      "expression": "`overdue_inquiries`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "overdue_inquiries",
+                  "displayName": "Overdue medical inquiries"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Overdue medical inquiries"
+              }
+            }
+          },
+          "position": {
+            "x": 2,
+            "y": 5,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi-response",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "kpis",
+                  "fields": [
+                    {
+                      "name": "avg_response_days",
+                      "expression": "`avg_response_days`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "avg_response_days",
+                  "displayName": "Avg inquiry response (days)"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Avg inquiry response (days)"
+              }
+            }
+          },
+          "position": {
+            "x": 4,
+            "y": 5,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "sec-reach",
+            "multilineTextboxSpec": {
+              "lines": [
+                "### Engagement & reach"
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 8,
+            "width": 6,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "bar-territory",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "reach_by_territory",
+                  "fields": [
+                    {
+                      "name": "territory",
+                      "expression": "`territory`"
+                    },
+                    {
+                      "name": "reach_rate",
+                      "expression": "`reach_rate`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "territory",
+                  "scale": {
+                    "type": "categorical"
+                  },
+                  "displayName": "Territory"
+                },
+                "y": {
+                  "fieldName": "reach_rate",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "90-day reach %"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "90-day HCP reach by territory"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 9,
+            "width": 3,
+            "height": 5
+          }
+        },
+        {
+          "widget": {
+            "name": "pie-priority",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "priority_dist",
+                  "fields": [
+                    {
+                      "name": "hcps",
+                      "expression": "`hcps`"
+                    },
+                    {
+                      "name": "priority_tier",
+                      "expression": "`priority_tier`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "pie",
+              "encodings": {
+                "angle": {
+                  "fieldName": "hcps",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "hcps"
+                },
+                "color": {
+                  "fieldName": "priority_tier",
+                  "scale": {
+                    "type": "categorical"
+                  },
+                  "displayName": "priority_tier"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "HCPs by MSL priority tier"
+              }
+            }
+          },
+          "position": {
+            "x": 3,
+            "y": 9,
+            "width": 3,
+            "height": 5
+          }
+        },
+        {
+          "widget": {
+            "name": "sec-sci",
+            "multilineTextboxSpec": {
+              "lines": [
+                "### Scientific interest & medical inquiries"
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 14,
+            "width": 6,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "bar-topics",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "topic_interest",
+                  "fields": [
+                    {
+                      "name": "topic_category",
+                      "expression": "`topic_category`"
+                    },
+                    {
+                      "name": "mentions",
+                      "expression": "`mentions`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "topic_category",
+                  "scale": {
+                    "type": "categorical"
+                  },
+                  "displayName": "Topic"
+                },
+                "y": {
+                  "fieldName": "mentions",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "Mentions"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Scientific topic interest (mentions)"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 15,
+            "width": 3,
+            "height": 5
+          }
+        },
+        {
+          "widget": {
+            "name": "bar-sla",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inquiry_sla",
+                  "fields": [
+                    {
+                      "name": "product",
+                      "expression": "`product`"
+                    },
+                    {
+                      "name": "overdue_inquiries",
+                      "expression": "`overdue_inquiries`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "product",
+                  "scale": {
+                    "type": "categorical"
+                  },
+                  "displayName": "Product"
+                },
+                "y": {
+                  "fieldName": "overdue_inquiries",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "Overdue inquiries"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Overdue medical inquiries by product"
+              }
+            }
+          },
+          "position": {
+            "x": 3,
+            "y": 15,
+            "width": 3,
+            "height": 5
+          }
+        },
+        {
+          "widget": {
+            "name": "sec-queue",
+            "multilineTextboxSpec": {
+              "lines": [
+                "### MSL next-best-engagement queue"
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 20,
+            "width": 6,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "tbl-queue",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "next_best_queue",
+                  "fields": [
+                    {
+                      "name": "hcp_name",
+                      "expression": "`hcp_name`"
+                    },
+                    {
+                      "name": "territory",
+                      "expression": "`territory`"
+                    },
+                    {
+                      "name": "priority_tier",
+                      "expression": "`priority_tier`"
+                    },
+                    {
+                      "name": "msl_priority_score",
+                      "expression": "`msl_priority_score`"
+                    },
+                    {
+                      "name": "trigger",
+                      "expression": "`trigger`"
+                    },
+                    {
+                      "name": "topic",
+                      "expression": "`topic`"
+                    },
+                    {
+                      "name": "recommended_date",
+                      "expression": "`recommended_date`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "table",
+              "encodings": {
+                "columns": [
+                  {
+                    "fieldName": "hcp_name",
+                    "displayName": "HCP"
+                  },
+                  {
+                    "fieldName": "territory",
+                    "displayName": "Territory"
+                  },
+                  {
+                    "fieldName": "priority_tier",
+                    "displayName": "Priority"
+                  },
+                  {
+                    "fieldName": "msl_priority_score",
+                    "displayName": "Score"
+                  },
+                  {
+                    "fieldName": "trigger",
+                    "displayName": "Trigger"
+                  },
+                  {
+                    "fieldName": "topic",
+                    "displayName": "Topic"
+                  },
+                  {
+                    "fieldName": "recommended_date",
+                    "displayName": "Recommended by"
+                  }
+                ]
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "MSL next-best-engagement queue (top 25)"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 21,
+            "width": 6,
+            "height": 7
+          }
+        }
+      ]
+    }
+  ]
+}

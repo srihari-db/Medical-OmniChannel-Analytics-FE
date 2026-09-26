@@ -91,6 +91,7 @@ table(["Item", "Value"],
        ["Genie space", "Medical Omnichannel Intelligence — Daiichi Sankyo (01f1b9f40b3d1499a1dde849fe4ecaf0)"],
        ["Databricks App", "moa-medical-copilot"],
        ["App URL", "https://moa-medical-copilot-984752964297111.11.azure.databricksapps.com"],
+       ["AI/BI dashboard", "Medical Omnichannel Intelligence — Daiichi Sankyo (01f1b9f6cf2119cdb68bbd5df75d577e)"],
        ["GitHub repo", "https://github.com/srihari-db/Medical-OmniChannel-Analytics-FE"]])
 
 # ---------------------------------------------------------------- assets ----
@@ -125,6 +126,9 @@ h("3.4 Genie & App", 2)
 bullet("Genie space over 7 gold tables + 2 metric views, with curated sample questions")
 bullet("Medical Engagement Copilot app (app/app.py, backend.py, app.yaml, requirements.txt): "
        "MSL Action Queue tab (Lakebase) + HCP Pre-Engagement tab (360 + AI briefing + write-back)")
+bullet("AI/BI dashboard 'Medical Omnichannel Intelligence — Daiichi Sankyo' (dashboard/"
+       "medical_omnichannel_intelligence.lvdash.json, published): 6 KPI counters, reach-by-territory, "
+       "priority-tier pie, topic-interest bar, overdue-by-product bar, next-best-engagement table")
 
 # ---------------------------------------------------------------- repo ------
 h("4. Repository map (GitHub)", 1)

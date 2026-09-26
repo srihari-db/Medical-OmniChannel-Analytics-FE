@@ -59,6 +59,7 @@ highest-need KOLs first.
 | **Lakebase** | instance `moa-medical-copilot`, synced queue + write-back | [evidence/06](evidence/06_lakebase_serving.md) |
 | **Genie** | space *Medical Omnichannel Intelligence — Daiichi Sankyo* | [evidence/07](evidence/07_genie_nl_query.md) |
 | **Databricks App** | `app/` — deployed & running | [evidence/09](evidence/09_app_deployment.md) |
+| **AI/BI dashboard** | `dashboard/…lvdash.json` — published | [evidence/10](evidence/10_aibi_dashboard.md) |
 
 ## Repository layout
 
@@ -69,6 +70,7 @@ pipeline/          transformations/{01_bronze,02_silver,03_gold}.sql  — Lakefl
 sql/               00_schema_and_volume.sql · 01_metric_views.sql · 02_ai_query_extraction.sql
 lakebase/          setup_lakebase.py · grant_app_access.py  — operational serving + grants
 genie/             genie space definition (tables + sample questions)
+dashboard/         medical_omnichannel_intelligence.lvdash.json — AI/BI dashboard
 app/               Databricks App — Medical Engagement Copilot (Streamlit)
 evidence/          01–09 execution evidence, readable as text (the build actually ran)
 docs/              DECISIONS_AND_TRADEOFFS.md · SOLUTION_OVERVIEW (Word)

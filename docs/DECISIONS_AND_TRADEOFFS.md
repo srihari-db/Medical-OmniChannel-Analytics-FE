@@ -75,5 +75,5 @@ pinning to `databricks-sdk>=0.81.0` for the `w.database` API.
 - Synthetic data is internally consistent but simple (templated MSL notes); real notes
   would exercise the extraction harder.
 - `SNAPSHOT` Lakebase sync is manual-refresh; wire a job trigger or CONTINUOUS for freshness.
-- The AI/BI dashboard is represented by the governed metric views + Genie; a `.lvdash.json`
-  can be layered on the same metric views without new modelling.
+- The AI/BI dashboard (`dashboard/medical_omnichannel_intelligence.lvdash.json`, published —
+  see evidence/10) is built on the same governed gold tables as Genie and the app.
